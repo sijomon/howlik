@@ -1,0 +1,971 @@
+@charset "utf-8";
+/* CSS Document */
+@media (min-width:1200px) and (max-width:1500px) {
+.banner-section {
+	height: 350px;
+}
+.banner-section-app-download {
+	height: 350px;
+}
+.banner-section-app-download .banner-overlay {
+	top: 10% !important;
+}
+.banner-section-app-download img{
+	height:90% !important;
+}
+}
+ @media (min-width:1000px) and (max-width:1199px) {
+/*----------banner section--------------*/
+.banner-section {
+	height: 400px;
+}
+.banner-section-app-download {
+	height: 400px;
+}
+.banner-section-app-download .banner-overlay {
+	top: 10% !important;
+}
+.banner-section-app-download img{
+	height:90% !important;
+}
+h1.banner-caption {
+	font-size: 2em;
+}
+.app-icon img {
+	width: 150px;
+	/*height: 50px;*/
+}
+/*-------------Navigation------------*/
+.bottom-align {
+	width: 90%;
+}
+/*-----category--------------*/
+.category-container {
+	width: 85%;
+}
+/*------Add Business---------*/
+.add-business-container {
+	width: 85%;
+}
+}
+ @media (min-width:900px) and (max-width:999px) {
+.container {
+	width: 90% !important;
+}
+/*----------banner section--------------*/
+.banner-section {
+	height: 300px;
+}
+.banner-section-app-download {
+	height: 300px;
+}
+.banner-section-app-download .banner-overlay {
+	top: 10% !important;
+}
+.banner-section-app-download img{
+	height:90% !important;
+}
+.logo-section {
+	width: 9.375em;
+}
+h1.banner-caption {
+	font-size: 1.5em;
+	margin: 0;
+}
+.app-icon {
+	margin: 1.5em auto;
+}
+.app-icon img {
+	width: 130px;
+
+	/*height: 40px;*/
+}
+/*--------navigation------------*/
+.bottom-align {
+	width: 90%;
+}
+.location-name {
+	width: 11em;
+}
+.location-name input {
+	width: 80%;
+	margin-top: .3em;
+}
+.searchbar-holder {
+	width: 350px;
+}
+/*-----category--------------*/
+.category-container {
+	width: 85%;
+}
+/*------Add Business---------*/
+.add-business-container {
+	width: 85%;
+}
+.business-form input {
+	width: 55%;
+}
+
+/*-------------------Product Listing---------------*/
+.right-share{
+	float:left !important;
+	margin-bottom:.5em;
+	width:100%;
+}
+/*-------BOF MESSAGE-----*/
+.message-img{
+	width:8%;
+	text-align:center;
+}
+/*-------EOF MESSAGE-----*/
+
+}
+ @media (min-width:768px) and (max-width:899px) {
+.container {
+	width: 100% !important;
+}
+/*----------banner section--------------*/
+.banner-section {
+	height: 300px;
+}
+.banner-section-app-download {
+	height: 300px;
+}
+.banner-section-app-download .banner-overlay {
+	top: 10% !important;
+}
+.banner-section-app-download img{
+	height:90% !important;
+}
+.logo-section {
+	width: 9.375em;
+}
+h1.banner-caption {
+	font-size:20px;    
+}
+.app-icon {
+	margin: 1.5em auto;
+}
+.app-icon img {
+	width: 130px;
+	/*height: 40px;*/
+}
+/*--------navigation------------*/
+.bottom-align {
+	width: 95%;
+}
+.nav>li>a {
+	position: relative;
+	display: block;
+	padding: 10px 10px;
+}
+.signup {
+	margin: .8em;
+	padding: .2em .5em;
+}
+.login {
+	margin: .8em;
+	padding: .2em .5em;
+}
+.language img {
+	width: 30px;
+	height: 30px;
+}
+.location-name {
+	width: 9em;
+}
+.location-name input {
+	width: 80%;
+	margin-top: .3em;
+}
+.searchbar-holder {
+	width: 350px;
+}
+/*-----category--------------*/
+.category-container {
+	width: 90%;
+	height: 1100px;
+}
+.cat-div {
+	width: 33%;
+	height: 210px;
+}
+.cat-div-inner-content img {
+	height: 50%;
+	width: 70%;
+}
+/*------Add Business---------*/
+.add-business-container {
+	width: 90%;
+}
+.business-form input {
+	width: 44%;
+}
+
+/*-------------------Product Listing---------------*/
+.right-share{
+	float:left !important;
+	margin-bottom:.5em;
+	width:100%;
+}
+
+/*--------events-------*/
+.event_detail_section{
+	width:100%;
+}
+.detai_section{
+	width:45%;
+	float:left;
+	margin:0;
+}
+.detai_section{
+	width:45%;
+	float:left;
+	margin:0;
+}
+.addectional_setting {
+	width:100%;
+}
+#createticket{
+	width:48%;
+	float:left;
+}
+#addsettings{
+	width:48%;
+	float:left;
+	margin-left:0%;
+}
+/*-------BOF MESSAGE-----*/
+.listing_holder {
+	padding:0 10px;
+}
+.message-img{
+	width:8%;
+	text-align:center;
+}
+.message-content .text{
+	font-size:12px;
+}
+/*-------EOF MESSAGE-----*/
+
+
+}
+@media (max-width:767px){
+	.company-logo{
+	
+
+	}
+}
+@media (min-width:500px) and (max-width:767px) {
+.container {
+	width: 100% !important;
+
+
+	
+}
+/*-------------Mobile Location Finder-------*/
+.location-mobile-holder {
+	display: block;
+}
+/*---------banner- section--*/
+.banner-section {
+	height: 250px;
+}
+.banner-section-app-download {
+	height: 250px;
+}
+.banner-section-app-download .banner-overlay {
+	top: 10% !important;
+}
+.banner-section-app-download img{
+	height:90% !important;
+}
+.logo-section {
+	width: 8em;
+}
+h1.banner-caption {
+	font-size: 1em;
+}
+.app-icon {
+	margin: 1.5em auto;
+}
+.app-icon img {
+	width: 120px;
+	/*height: 30px;*/
+}
+#collapsiblelogo {
+	display: block;
+	background:#b40037;
+}
+.autocomplete-suggestions {
+       top: auto !important;
+    bottom: 9.5% !important;
+    position: fixed !important;
+} 
+.open>.dropdown-menu {
+top: auto !important;
+    bottom: 100% !important;
+}
+/*------LE 20-03-2017------*/
+/*--------navigation------------*/
+.navigation {
+    background: #666;
+}
+.bottom-align {
+	width: 95%;
+}
+.nav>li>a {
+	position: relative;
+	display: block;
+	padding: 10px 15px;
+	border-bottom: 1px solid #fff;
+}
+
+.left-nav{
+	float:none !important;
+	width:760px;
+}
+.right-nav{
+	float:right !important;
+	width:100%;
+}
+.right-nav li { 
+  
+	float:left; 
+}  
+.navbar-nav .open .dropdown-menu{
+	float:left; !important;
+}
+.message_div {
+    padding: 0.625em;
+    border-radius: 10em;
+    background: rgba(66,66,66 ,0.2);
+    position: relative;
+    text-align: center;  
+}
+
+.location-mob {
+	display: block;
+}
+.signup {
+	text-align: center;	
+}
+.login { 
+
+	text-align: center
+}
+.language {
+	margin:1% 1%;
+	padding: .6em 1em;
+	text-align: left;
+	width: 100%;      
+	background:#212121 !important;
+	border:none;
+	border-radius:0.3em;
+	float:left; 
+}
+#countryselection {
+	display: none;
+}
+.search-btn {
+	width: 13%;
+	margin-left: 0;
+}
+.searchbar-holder {
+	width: 83%;
+	margin-left: 0;
+}
+.dropdown-category {
+	/*width: 50%;*/
+	width:50px;
+	text-align:center;
+	border-radius: 4px 0 0 4px;
+}
+.dropbtn-category {
+	font-size: 1em;
+}
+.searchterm {
+	margin-left: 0;
+	float: right;
+	/*width: 50%;*/
+	width: calc(100% - 50px );
+	padding-left:20px;
+}
+#myNavbar{
+	width:100%;
+	border-top:none;
+}
+.right-nav a.dropdown-toggle{
+	border-bottom:none;
+}
+.lang-caret{
+	display:block !important;
+	float:right !important;
+	margin-top:.5em;
+}
+.choose-language{
+	background:#fff !important;
+	height:34px !important;
+}
+
+/*-----category--------------*/
+.category-container {
+	width: 90%;
+	height: 1030px;
+	box-shadow: none;
+}
+.cat-div {
+	width: 45%; 
+	height: 166px; 
+	padding: 10px;
+}
+.cat-div-inner-content img {
+	height: 50%;
+	width: 40%;  
+}
+span.pull-right.cat_img{
+	float:none !important;
+}
+/*------Add Business---------*/
+.add-business-holder {
+	margin-bottom: 0;
+}
+.add-business-container {
+	width: 100%;
+	padding: .8em;
+	margin: 0;
+}
+.add-business-container h3 {
+	margin-bottom: 2em;
+}
+.business-form input {
+	width: 100%;
+}
+#businessname, #businesslocation {
+	display: none;
+}
+/*---------------footer--------*/
+.footer {
+	padding-bottom: 1em;
+}
+footer-content {
+	width: 95%;
+}
+ul.footer-nav li a {
+	font-size: 12px;
+	padding: 5px;
+}
+ul.footer-nav li a img {
+	width: 80px;
+	height: 30px;
+}
+ul.footer-social li a img {
+
+	height: 1.5em;
+}
+.copyright-left p {
+	font-size: 12px;
+}
+
+
+/*----------innerpage-----*/
+.bottom-logo{
+	display:none;
+}
+.foto-div{
+	width:45% !important;
+	margin:2.5%;
+	float:left;
+}
+
+/*-------------------Product Listing---------------*/
+.right-share{
+	float:left !important;
+	margin-bottom:.5em;
+	width:100%;
+}
+
+/*-------categories listingpage-------*/
+.p-left{
+	padding-left:15px !important;
+	margin-bottom:1em !important;
+	width:100%;
+}
+.p-right{
+	margin-top:1em !important;
+	float:left !important;
+	padding-left:15px !important;
+	padding-right:0 !important;
+	width:98%;
+}
+
+/*--------events-------*/
+.event_detail_section{
+	width:100%;
+	padding:1em;
+}
+.detai_section{
+	width:45%;
+	float:left;
+	margin:0;
+}
+.detai_section{
+	width:45%;
+	float:left;
+	margin:0;
+}
+.addectional_setting {
+	width:100%;
+}
+#createticket{
+	width:48%;
+	float:left;
+}
+#addsettings{
+	width:48%;
+	float:left;
+	margin-left:2%;
+}
+/*-------BOF MESSAGE-----*/
+.listing_holder {
+	padding:0 10px;
+}
+.message-img{
+	width:10%;
+	text-align:center;
+}
+.message-img img{
+	width: 30px;
+    height: 30px;
+    margin-top: 5px;
+}
+.message-sender p{
+	margin:8px 0;
+	font-size:12px;
+}
+.message-content {
+	width:40%;  
+}
+.message-content .text{
+	font-size:12px;
+}
+.message-dateinfo{
+		width:25%;
+}
+.message-dateinfo p{
+	font-size:12px;
+}
+/*-------EOF MESSAGE-----*/
+
+/* LE 13-02-2018 */
+.banner-overlay {
+    width: 60%;
+    left: 20%;
+}
+.slider-div img{
+	height:auto;
+}
+.view-more{
+	padding:1rem;
+}
+.offer_holder{
+	width:28%;
+}
+}
+ @media (min-width:300px) and (max-width:499px) {
+.container {
+	width: 100% !important; 
+	
+
+}
+/*---------banner- section--*/
+.banner-section {
+	display: none;
+}
+.banner-section-app-download {
+	height: 250px;
+}
+.banner-section-app-download .banner-overlay {
+	top: 10% !important;
+}
+.banner-section-app-download img{
+	height:90% !important;
+}
+.logo-section {
+	width: 8em;
+}
+h1.banner-caption {
+	font-size: 1em;
+}
+.app-icon {
+	margin: 1.5em auto;
+}
+.app-icon img {
+	width: 120px;
+	/*height: 30px;*/
+}
+.message-img {
+	width:18%;
+}
+.message-sender {
+    width:70%;
+}
+.message-dateinfo {
+    width: 131px;
+}
+.message-dateinfo p{
+	font-size:13px;
+}
+.section_event_list {
+	width:94%;
+} 
+.friend-search {
+	width:100%;
+	float:left;
+}
+.section_event_holder {
+    width: 100%;
+}
+.friend-search button {
+	top:-1px;
+}
+.event-desc-holder .left-detail-overlay {
+position: unset;
+width:100%;
+}
+.event-desc-holder {
+	background:#fff;
+	height: auto;
+	margin-top:30px;
+} 
+#collapsiblelogo {
+	display: block;
+	background:#b40037;
+}
+#collapsiblelogo img {
+	width: 60px;
+	height: 20px;
+	margin: 1em;
+}
+.navbar-toggle {
+	padding: .4em;
+}
+/*-------------Mobile Location Finder-------*/
+.location-mobile-holder {
+	display: block;
+}
+.autocomplete-suggestions {
+       top: auto !important;
+    bottom: 9.5% !important;
+    position: fixed !important;
+} 
+.open>.dropdown-menu {
+    top: auto !important;
+    bottom: 100% !important;
+}
+
+
+
+/*------LE 20-03-2017------*/
+/*--------navigation------------*/
+.navigation {
+    background: #666;
+}
+.bottom-align {
+	width: 95%;
+}
+
+	
+.nav>li>a {
+	position: relative;
+	display: block;
+	padding: 10px 15px;
+	border-bottom: 1px solid #fff;
+	margin-top: 3px; 
+}
+
+.left-nav{
+	float:none !important;
+	width:486px;
+}
+.right-nav{
+	width:100%;
+	float:none !important;
+}     
+.right-nav li {
+    float: right !important;
+    width: 100%;
+}
+
+.location-mob {
+	display: block;
+}
+.signup {
+	margin:1% 5%;
+	padding: .6em .4em;
+	text-align: center;
+	width: 40%;
+	float: right ;
+	margin-top: -41px;
+}
+.login {
+	margin:1% 5%;
+	padding: .6em .4em;
+	text-align: center;
+	width: 40%;
+	float:left;
+}
+.language {
+	margin:1% 1%;
+	padding: .6em 1em;
+	text-align: left;
+	width: 100%;
+	background:#212121 !important;
+	border:none;
+	border-radius:0.3em;
+}
+#countryselection {
+	display: none;
+}
+.search-btn {
+	width: 11%;
+	margin-left: 0;
+	text-align:center;
+	padding:7px;
+	
+}
+.searchbar-holder {
+	width: 83%;
+	margin-left: 0;
+}
+.dropdown-category {
+	/*width: 50%;*/
+	width:50px;
+	text-align:center;
+	border-radius: 4px 0 0 4px;
+}
+span.pull-right.cat_img{
+	float:none !important;
+}
+.dropbtn-category {
+	font-size: 1em;
+}
+.searchterm {
+	margin-left: 0;
+	float: right;
+	/*width: 50%;*/
+	width:calc(100% - 50px );
+	padding-left:20px;
+	padding-right:10px;
+}
+#myNavbar{
+	width:100%;
+	border-top:none;
+}
+.right-nav a.dropdown-toggle{
+	border-bottom:none;
+}
+.lang-caret{
+	display:block !important;
+	float:right !important;
+	margin-top:.5em;
+}
+.choose-language{
+	background:#fff !important;
+	height:34px !important;
+}
+/*-----category--------------*/
+.category-container {
+	width: 90%;
+	height: 950px;
+	box-shadow: none;
+}
+.cat-div {
+	width: 50%;
+	height: 132px;
+	padding: 10px;
+}
+.cat-div-inner-content img {
+	height: 50%;
+	width: 70%;
+}
+.cat-div h2 {
+	font-size: 14px;
+}
+/*------Add Business---------*/
+.add-business-holder {
+	margin-bottom: 0;
+}
+.add-business-container {
+	width: 100%;
+	background: #eeeeee;
+	padding: .8em;
+	height: 180px;
+	margin: 0;
+}
+.add-business-container h3 {
+	font-size: 1.3em;
+	margin-bottom: 2em;
+}
+.business-form input {
+	width: 100%;
+}
+#businessname, #businesslocation {
+	display: none;
+}
+.dropdown-content-category{
+	min-width:0;
+	overflow:auto;
+	height:250px;
+}
+
+/*---------------footer--------*/
+.footer {
+	padding-bottom: 87px;  
+}
+footer-content {
+	width: 100%;
+}
+ul.footer-nav li a {
+	font-size: 12px;
+	padding: 5px;
+}
+ul.footer-nav li a img {
+	display: none;
+}
+ul.footer-social li a img {
+	
+	height: 1.5em;
+}
+.copyright-left p, .copyright-right p {
+	font-size: 12px;
+	text-align: center;
+}
+.copyright-right, .copyright-left {
+	width: 100%;
+	text-align: center;
+	height: auto;
+}
+
+.location-mobile-holder-right{
+	padding:1em .5em 0 .5em;
+}
+.location-mobile-holder-right span{
+	margin: 0 5%;
+	float:left;
+}
+.location-mobile-holder-right input{
+	width:80%;
+	float:right;
+}
+
+/*----------innerpage-----*/
+.bottom-logo{
+	display:none;
+}
+
+.slider-cap h2{
+	font-size:.8em;
+}
+
+/*-------------------Product Listing---------------*/
+.right-share{
+	float:left !important;
+	margin-bottom:.5em;
+	width:100%;
+}
+
+/*-------categories listingpage-------*/
+.p-left{
+	padding-left:15px !important;
+	margin-bottom:1em !important;
+	width:100% 
+}
+.p-right{
+	margin-top:1em !important;
+	float:left !important;
+	padding-left:15px !important;
+	padding-right:0 !important;
+	width:96% !important;
+}
+
+/*--------events-------*/
+.event_detail_section{
+	width:100%;
+	padding:1em;
+}
+.detai_section{
+	width:100%;
+	float:left;
+	margin:0;
+}
+.detai_section{
+	width:100%;
+	float:left;
+	margin:0;
+}
+.addectional_setting {
+	width:100%;
+	padding-bottom:2em;
+}
+.d-box-div1 {
+	height:1px !important;
+}
+.d-box2{
+	border-bottom: 1px solid #ccc;
+}
+.content-holder{
+	padding:0;
+}
+.d-box1{
+	min-height: 65px;
+}
+.d-box2{
+	min-height: 65px;
+}
+.offer_holder{
+	width:100%;
+	margin-right:0;
+}
+	
+
+#createticket{
+	width:90%;
+	float:left;
+}
+#addsettings{
+	width:90%;
+	float:left;
+	margin-left:0% !important;
+}
+
+
+}
+
+ @media (min-width:993px) and (max-width:1200px) {
+	 .searchbar-holder {
+		width: 37%;
+	}
+ }
+  @media (min-width:768px) and (max-width:992px) {
+	 .searchbar-holder {
+		width: 33%;
+	}
+ }
+
+ @media only screen and (max-width: 1200px) {
+   .action-holder{
+	   width:100%;
+	   margin:1.5rem 0 1rem;
+	   float:left;
+   }
+}
+@media (max-width:334px){
+	.store{
+	width:62px !important;}
+}
+.dropup .dropdown-menu, .navbar-fixed-bottom .dropdown .dropdown-menu {
+    top: auto ;
+    bottom: 100%;
+    margin-bottom: 2px;
+}

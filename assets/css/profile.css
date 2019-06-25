@@ -1,0 +1,291 @@
+/* ==================== */
+
+/* PROFILE PAGE SECTION */
+
+/* ==================== */
+
+.profile-holder{
+	width:100%;
+	height:300px;
+	position:relative;
+	margin:0 auto;
+	background:#FFF;
+	border:.2em solid #ccc;
+	margin-bottom:2em;
+}
+.cover-image{
+	width:100%;
+	height:200px;
+	background:#ccc;
+	position:relative;
+	float:left;
+}
+.cover-image img{
+	width:100%;
+	height:100%;
+}
+.cover-overlay{
+	width:100%;
+	position:absolute;
+	bottom:0;
+	background:#ccc;
+	height:100px;
+}
+.profile-pic-holder{
+	width:30%;
+	float:left;
+	text-align:center;
+}
+.profile-pic-holder img{
+	border-radius:10em;
+	width:150px !important;
+	height:150px !important;
+}
+.icon-cam {
+	color:#FFF;
+	position:absolute;
+	z-index:9999;
+	top:1em;
+	float:left;
+	font-size:2em;
+	left:20%;
+}
+.profil-name-holder{
+	width:60%;
+	float:right;
+	top:0;
+	padding:1em;
+	background:#ccc;
+	position:relative;
+}
+.pfofile-name{
+	font-size:1.3em;
+	font-weight:bolder;
+	margin:.2em 0;
+}
+.profile-actions{
+	float:right;
+	position:absolute;
+	right:2em;
+	bottom:-1em;
+}
+.btn-user-icon{
+	border-radius:20em !important;
+	background:#ccc !important;
+	color:#FFF;
+	box-shadow:0 0 5px #000;
+}
+.profile-actions-div{
+	margin-left:-50px !important;
+	padding:0 !important;
+}
+.profile-tab{
+	float:right;
+	width:70%;
+	position:relative;
+	margin-top:2em;
+	text-align:right;
+}
+.profile-tab .btn {
+	border: none;
+	font-family: inherit;
+	font-size: inherit;
+	color: inherit;
+	background:#e40046;
+	cursor: pointer;
+	color:#FFF;
+	padding:10px 25px;
+	display: inline-block;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	outline: none;
+	position: relative;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+	border-radius:0.1em;
+}
+.profile-tab .btn:last-child {
+	margin-right:.8em;
+}
+.profile-tab> .btn:after {
+	content: '';
+	position: absolute;
+	z-index: -5;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+/* Button 1 */
+.profile-tab.btn-1 {
+	border: 3px solid #000;
+	color: #fff;
+}
+/* Button 1c */
+.profile-tab .btn-1c:after {
+	width: 0%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background: #000;
+	z-index:10;
+	
+}
+
+.profile-tab .btn-1c:hover,
+.profile-tab .btn-1c:active {
+	color: #fff;
+	background:#000;
+	z-index:20;
+}
+
+.profile-tab .btn-1c:hover:after,
+.profile-tab .btn-1c:active:after {
+	width: 100%;
+	background:none;
+}
+.icon-m-r{
+	margin-right:.3em;
+}
+.profile-content-holder{
+	width:100%;
+	height:auto;
+	position:relative;
+	float:left;
+}
+h2.p_c-title{
+	margin:0;
+	padding:.5em 0;
+	font-size:1.2em;
+	text-transform:uppercase;
+	color:#e40046;
+	font-weight:bolder;
+}
+h2.p_c-title:after{
+	display:block;
+	position:absolute;
+	content:"";
+	height:.09em;
+	width:100%;
+	background:#ccc;
+	margin-top:.3em;
+	left:0;
+}
+.p-c-text{
+	text-align:justify;
+	margin-top:1em;
+}
+.recent-activity{
+	width:100%;
+	float:left;
+	padding:1em 0;
+}
+.r-a-box1{
+	width:20%;
+	height:auto;
+	float:left;
+	padding-top:1em;
+}
+.r-a-box1 img{
+	border-radius:10em;
+	width:5em;
+}
+.r-a-box2{
+	width:80%;
+	height:auto;
+	float:left;
+	padding-top:1em;
+}
+.ra-left{
+	float:left;
+}
+.ra-left a{
+	color:#25c8d1;
+	font-weight:bold;
+}
+.ra-right{
+	float:right;
+	color:#999;
+	font-style:italic;
+} 
+.profile-about-right{
+	float:right !important;
+	border:1px solid #ccc;
+	background:#f9f9f9;
+	padding-bottom:1em;
+}
+.profile-about-right h3{
+	font-size:1.2em;
+	float:left;
+	width:100%;
+}
+.profile-about-right ul{
+	list-style-type:none;
+}
+.profile-about-right ul li{
+	background:#fff;
+	border-radius:10em 0 0 10em;
+	float:left;
+	width:100%;
+	margin:.5em 0;
+}
+.profile-about-right ul li p{
+	color:#999;
+	float:left;
+	padding:.5em 0em 0 1.5em;
+	font-style:italic;
+}
+.icon-round{
+	padding:.5em .8em;
+	background:#000;
+	border-radius:10em;
+	float:left;
+	color:#FFF;
+}
+
+/*--tech support--*/
+.tech-support{
+	width:150px;
+	height:2em;
+	background:#0C6;
+	position:fixed;
+	bottom:1em;
+	z-index:9999;
+	right:5%;
+	border-radius:.2em 0 0 .2em;
+	color:#FFF;
+}
+.tech-support span{
+	padding:.3em 1em;
+	float:left;
+}
+.tech-support span:after{
+	width:.2em;
+	content:"";
+	height:110%;
+	position:absolute;
+	background:#FFF;
+	display:block;
+	right:0;
+	top:0;
+}
+.tech-support p{
+	float:left;
+	margin:.3em 1em;
+	font-weight:bold;
+	text-transform:uppercase;
+	
+}
+.activity_img{
+	height:30px !important; 
+	width:30px !important; 
+}
+.activity_img{
+	width:45%;
+	margin:1em 5% 1em 0;
+	float:left;
+	background:#000;
+}
+.activity_img:hover{
+	opacity:0.8;
+}

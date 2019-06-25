@@ -1,0 +1,561 @@
+#	Title	Address	Zip	Country	Lat	Lon	Total	Duplicate	
+1	Toy Town	Fouad Center	34414 32413	SA	26.2988248	50.1323835	7	6	
+2	Chuck E. Cheese's	Kid-friendly chain known for its arcade games		SA	26.2990986	50.1323832	8	7	
+3	Fun City Saudi Arabia	Al Jisr	34714	SA	26.2983112	50.1323842	6	5	
+4	?? ????	????? ???? ?? ?????? Al Jisr	34714	SA	26.2058906	50.1631273	4	3	
+5	Crowne Plaza Al Khobar	Custodian of The Two Holy Mosques Road	34623	SA	26.3061795	50.1317516	6	5	
+6	Coral Al Khobar Hotel	King Abdullah Street	34623	SA	26.3050845	50.1317526	3	2	
+7	BABYBOX	Al Khobar Al Shamalia	34426	SA	26.20032	50.0238777	3	2	
+8	Toys	King Abdulaziz Road	34428	SA	26.2951426	50.1569769	3	2	
+9	Fouad Center	Al Khobar 34414	34414	SA	26.2988811	50.18852	3	2	
+10	Pakistan International School Al Khobar for Girls	Al Khobar Al Shamalia	34426	SA	26.3373111	50.0827293	3	2	
+11	Skyzone	Qurtoba	34235	SA	26.2982772	50.132384	4	3	
+12	Vegas Family Entertainment Center	10 Portland St	34714	SA	45.2749924	66.1081343	2	1	
+13	Al-Rashid Theatre	Alshihab Altaifi St	34448	SA	26.2924892	50.1455927	8	7	
+14	Scitech IMAX Cinema	Corniche Rd Corniche Rd	34412 3618	SA	26.3047597	50.1850715	3	2	
+15	Sparky's	Doha Al Janubiyah	34457	SA	26.2993724	50.132383	5	4	
+16	Cobra Amusement Park	Prince Mohammed Bin Fahd Road,	32235	SA	26.3547295	49.7124907	5	4	
+17	Pezzo SkyZone - Trampoline Park	Ahmed Ibn Hanbal St	34235	SA	26.1988786	50.0238807	4	3	
+18	Seasons Daycare Al Khobar	Corniche, Al Shablan Compound	34412	SA	26.3080871	50.2079607	7	6	
+19	Hilton Garden Inn Al Khobar	Al Ulaya	34447	SA	26.2947063	50.1569771	4	3	
+20	King Abdulaziz Center for World Culture	Ring Rd, Gharb Al Dhahran	34461	SA	26.251555	50.0480858	13	12	
+21	Berwaz Hall	Rabeah Ibn Abdulrahman St	34454	SA	26.2949972	50.156977	4	3	
+22	Sunset Weddings Hall	Al Manar,		SA	26.3552042	49.7124805	4	3	
+23	Prince Mohammed Bin Fahd Stadium	Prince Mohammed Bin Fahd Road	32241	SA	26.3557493	49.7124839	4	3	
+24	DoubleTree by Hilton Hotel Dhahran			SA	26.2949972	50.156977	9	8	
+25	Ronza Rose Sea View Hotel	Al Sahil	34611	SA	26.2949972	50.156977	3	2	
+26	Party Land	King Khaled Street	34425	SA	26.3025939	50.1818937	4	3	
+27	Virgin Megastore	Az Zahran 34457	34457	SA	26.3114876	50.0495551	6	5	
+28	Alfa Wood Industries	Industrial	32446	SA	26.3830447	50.0247332	4	3	
+29	Studio55 Alkhobar	Jamaluddin Al Afghani St	34447	SA	26.3079908	50.1687184	3	2	
+30	Spectrum Wellness for Women	7984 Firas Ibn Al Nudur St	34447	SA	26.2978594	50.1766363	3	2	
+31	Dhahran British Grammar School	King Fahd University of Petroleum and Minerals	34464 4332	SA	26.3045556	50.1462332	6	5	
+32	Zohoor alreef	Al Khuzama	34718	SA	26.2510749	50.0480868	3	2	
+33	???? ?????	4040 Abdullah Ibn Al Abbas St	34452	SA	26.2804153	49.9224618	4	3	
+34	Adventure World	Prince Mansour St	32241	SA	26.4320399	50.1118558	4	3	
+35	Saffori Land	2843 Prince Mohammed Bin Fahd Road	32236	SA	26.4004591	49.9774084	3	2	
+36	Dolphin Village	Dammam	32421	SA	26.4331821	50.0256059	3	2	
+37	Boxes and Bags	Abdullah Fuad	32236	SA	26.4231082	50.074478	3	2	
+38	birthday parties goodies.	Al Souq,	32242 4190	SA	26.4233815	50.0744778	3	2	
+39	Max ????	3566 Prince Faisal Bin Fahd Road	34455	SA	26.4025952	49.871149	3	2	
+40	Giordano	6864 King Saud Rd	34457	SA	26.3549841	50.0245803	3	2	
+41	Prince Mohammad Bin Fahd University	617, Al Jawharah, Khobar	34754	SA	26.2010152	49.8837501	3	2	
+42	Toys R Us	3566 Prince Faisal Bin Fahd Road	34455	SA	26.3091695	50.1384527	6	5	
+43	The Secret Room ?????? ??????	Prince Mohammed Bin Fahd Road	32413	SA	26.4050373	50.0130219	3	2	
+44	Al Fakhriyah Toys	Ash Shulah	34261	SA	26.3571205	49.7124759	3	2	
+45	Mall of Dhahran	Mall of Dhahran Boulevard	Az Zahran 34457	SA	26.3056314	50.1680719	3	2	
+46	National Bookstore	Al Khobar Al Shamalia	34429	SA	26.1989465	49.8837621	5	4	
+47	???????	Al Ulaya	34446 2218	SA	26.3127187	50.0495548	3	2	
+48	Adawliah Music Store	Al Khobar Al Shamalia	34429	SA	26.3122393	50.0495558	3	2	
+49	Subway	Doha Al Janubiyah, Block #4310 Abdullah Ibn Al-Abbas Street	34451	SA	26.3137661	50.1327708	3	2	
+50	Dhahran Hills Schools	Jarir St, Al Qusur	34247	SA	26.3137661	50.1327708	3	2	
+51	Aloft Dhahran	King Saud Branch Road Crossing 21st Street		SA	26.3209599	50.1301192	3	2	
+52	International Schools Group - Dammam	King Saud St	32445	SA	26.3835917	50.0247327	3	2	
+53	Panorama Dental Center	Khaleej Rd	32422	SA	26.4595782	50.0922924	3	2	
+54	Magrabi Optical	Al Faisaliyah	32272	SA	26.3564349	49.7124799	4	3	
+55	Magrabi	1 (C) St, Al Tubayshi	32233	SA	26.3564349	49.7124799	3	2	
+56	Hor eye glasses Dammam	King Khaled St,	32245	SA	26.3557493	49.7124839	3	2	
+57	Durrat Al Ayn Optics	Prince Mohammed Bin Fahd Road	32241	SA	26.3564349	49.7124799	3	2	
+58	AL DULIMAN OPTICS	Prince Mohammed Bin Fahd Road	32414	SA	26.3564349	49.7124799	3	2	
+59	???? ??????	7667 Prince Nayef Bin Abdulaziz Rd	32256 3705	SA	26.3841387	50.0247322	3	2	
+60	Pearl Hall	Al Imam Ali Ibn Abi Talib St	32236 2745	SA	26.3650783	50.0894318	3	2	
+61	OSN	Al Khobar Al Shamalia	34429	SA	26.1996361	49.8837581	3	2	
+62	BurgerFuel	Shatea Mall, Prince Mohammad Bin Fahad Street	31433	SA	26.4546457	50.1181818	3	2	
+63	Jones Day	Hugayet Tower, 5374 King Fahd Road	34433	SA	26.3085808	50.2077233	4	3	
+64	Dhahran Movie Theatre	King's Rd, Gharb Al Dhahran	34465	SA	26.3211843	50.1301192	4	3	
+65	VERSUS GAMING CENTER	As Safa	34222	SA	26.406524	50.0130201	3	2	
+66	???? ???????	Al Jamiah	Dhahran 34257	SA	26.4057038	50.0130208	3	2	
+67	Tokyo Games	Al Ulaya	34448	SA	26.2929629	50.1808961	3	2	
+68	Clix	As Safa	34222	SA	26.4054304	50.0130211	3	2	
+69	The Secret Room	Al Ulaya, Bashar Ibn Burd St	34448	SA	26.3019431	50.1684638	4	3	
+70	Gamers Den	Al Ulaya	34448	SA	26.2951426	50.1569769	3	2	
+71	Game Zone	3783 ?????? ????	34446	SA	26.2929636	50.1852735	3	2	
+72	International Schools Group DHS	King Fahd University of Petroleum and Minerals	34464 8922	SA	26.3137661	50.1327708	3	2	
+73	IKEA	Prince Faisal Bin Fahd Road,	34455	SA	26.4025952	49.871149	3	2	
+74	early learning centre	Mall of Dhahran, 6864 Prince Faisal Bin Fahd Road	34457	SA	26.3062977	50.1360094	3	2	
+75	????? ?? ??	An Nuzhah	32252	SA	26.4017306	50.0780818	3	2	
+76	Fantasy World Toys Al Rai	Ghazali St,		SA	29.2620189	47.8931945	4	3	
+77	Toy Land	Kuwait City		SA	29.2620189	47.8931945	4	3	
+78	Baroue	Discovery Mall First Ring Rd		SA	29.2620189	47.8931945	4	3	
+79	Magic Planet Kuwait	The Avenues Mall		SA	29.1869983	47.7431052	7	6	
+80	Kuwait Towers	Arabian Gulf St		SA	29.3459423	47.9235723	4	3	
+81	Kids Play Area	2847 Custodian of The Two Holy Mosques Rd	34623	SA	26.2322009	49.9032729	4	3	
+82	Ice Skating Rink	Al-Soor St		SA	29.346205	47.9235722	4	3	
+83	Kuwait's Opera House			SA	29.316644	47.932375	5	4	
+84	Dhuha Al-Kuwait Mini Super Market	28 St		KW	29.2737677	47.9631476	3	2	
+85	Hassan's Optician Co.	Wataniya Tower		KW	29.376174	47.9643571	3	2	
+86	Al-Fanar Cinema	Al Fanar Complex		KW	29.3407704	48.0560553	4	3	
+87	H&S Showroom Sharq	Khalid Bin Alwaleed Str.		KW	29.3770418	47.9643569	3	2	
+88	Cinescape Avenues Cinema	2nd Floor		KW	29.3026464	47.9121279	4	3	
+89	Abdulhussain Abdulridha Theater	Hamad Al-Mubarak St		KW	29.358034	47.9408067	3	2	
+90	Fountain Park	First Ring Rd		SA	29.376174	47.9643571	4	3	
+91	Cinescape 360 Cinema	3rd Floor?		KW	29.2142083	47.892883	3	2	
+92	Cinescape Ajial	Fahaheel		KW	29.2151152	47.8928815	3	2	
+93	Live Theater	Discovery mall	12170,	KW	29.376174	47.9643571	3	2	
+94	GIANTS Gaming Lounge	Mangaf		KW	29.2265151	47.8928853	8	7	
+95	Cartoon Network World	Kuwait City		SA	29.376174	47.9643571	5	4	
+96	Al Shaheed Park	Soor St		SA	29.3469931	47.9235716	4	3	
+97	GamesQ8.com	Tunisia St		KW	29.2260618	47.8928861	5	4	
+98	TeamEscape Kuwait	Salmiya		KW	29.2274218	47.8928837	5	4	
+99	E Games Store	Al-Soor Street		KW	29.2278751	47.8928829	4	3	
+100	Digumz Computer Company	Tunis St hawali		KW	29.2261177	47.8141524	4	3	
+101	Aalam Alsaada For Video Games	Khalid Ibn Al Waleed St		KW	29.2278751	47.8928829	4	3	
+102	Room Of Clues	Salmiya		KW	29.2278751	47.8928829	4	3	
+103	Kraken Gaming Lounge	First Ring Rd		KW	29.2278751	47.8928829	4	3	
+104	EclipsE Gaming Café	First Ring Rd		KW	29.2278751	47.8928829	4	3	
+105	Future Kids Branch REMAL Mall	Remal Mall Kuwait		KW	29.2278751	47.8928829	3	2	
+106	Quadra	Hawally		KW	29.2278751	47.8928829	4	3	
+107	Plugged Gaming	1st Floor, Opposite Ministry of Communications		KW	29.2278751	47.8928829	4	3	
+108	Al Markaz Law Firm	Ahmad Al Jaber St		KW	29.3695712	47.990605	6	5	
+109	Salmeen Musical Instruments	Salmiya		KW	29.2200189	47.8947083	3	2	
+110	Almirgab Productions	Kuwait city Almirgab star tower		KW	29.3803493	47.964711	3	2	
+111	Al Adwani Law Firm	Injazzat Tower		KW	29.3803223	47.9778433	5	4	
+112	Center of the Art*	Block 1 , Plot 21		KW	29.3083106	47.9256119	4	3	
+113	Fantasy World Toys Souq Sharq	Arabian Gulf St		SA	29.2620189	47.8931945	4	3	
+114	Sunrise International Co.	Salhiya St	32020	SA	29.2620189	47.8931945	3	2	
+115	Waleed Toys Company	Kuwait City		SA	29.2620189	47.8931945	4	3	
+116	LEGO Store	Mutlaq Abbas Munawir St,		SA	29.2620189	47.8931945	3	2	
+117	Bousaleh Hobbies	Kuwait City		SA	29.2620189	47.8931945	3	2	
+118	Hamar Hobby Shuwaikh	Bank Street	13020	SA	29.2620189	47.8931945	4	3	
+119	OX Adventure	Tamem Tower, Floor 9		KW	29.2287818	47.8928813	4	3	
+120	Flow House Kuwait	Salem Sabah Al Salem Al Sabah St		KW	29.2283284	47.8928821	4	3	
+121	Rehab- Dandies Home Ground	Kuwait City		KW	29.2292351	47.8928805	4	3	
+122	KidZania Kuwait	Grand Avenues		KW	29.2301417	47.8928789	6	5	
+123	Aqua Park	Arabian Gulf St	15400	KW	29.3915658	47.8635163	4	3	
+124	Puppet Kingdom	Kuwait City		SA	29.376174	47.9643571	3	2	
+125	Future Kid Entertainment & Real Estate Company	Kuwait Free Trade Zone		SA	29.3509829	47.8911423	3	2	
+126	Future Kid	Hawally		KW	29.230595	47.8928781	4	3	
+127	Kuwait Clue	Salem Al Mubarak St		KW	29.2389106	47.9076696	4	3	
+128	Trapped Inn symphony complex	Salmiya		KW	29.2278751	47.8928829	4	3	
+129	Slayil Al Jahra Park	Slayil Al Jahra District Street No. 625		KW	29.3601096	47.5105905	4	3	
+130	Marah Land Leisure Park	Kuwait		KW	29.2301417	47.8928789	3	2	
+131	Al Shaab Amusement Park	Salmiya		KW	29.2310483	47.8928773	3	2	
+132	Kids Village	Farwaniya		KW	29.2310483	47.8928773	3	2	
+133	Land Kids	Mubarak Al		KW	29.2532835	47.9147647	3	2	
+134	Kuwait Magic	Abu Halifa		KW	29.2310483	47.8928773	4	3	
+135	test business new one	shdg ks	5456354	IN	39.011902	-98.48424649999998	3	2	
+136	Test business newfdsf fdsf	fdsf dfgfdgf	5657	IN	9.7216446	76.39266680000003	2	1	
+137	Dhahran Expo	4344 Exhibition Rd	Dammam 34213	SA	26.3637105	50.0894331	3	2	
+138	Lulu Hypermarket	Fourth Ring Rd		KW	29.3128161	47.9528811	3	2	
+139	Fiesta Kuwait General Trading Company	Al Muthanna St		KW	29.3400304	47.9905249	3	2	
+140	Sahara Kuwait	14th Floor, Al Hussa Commercial Complex, Ibn Khaldoun Street, Hawally, Kuwait 30000, Kuwait		KW	29.3259088	47.9785076	2	1	
+141	Al-Andalus International School	Ar Rakah Al Janubiyah, Al Khobar 34226, Saudi Arabia	31952	SA	26.3621904	50.1344466	5	4	
+142	American School of Kuwait	Hawalli, Kuwait	32042	KW	29.3312186	47.9643887	4	3	
+143	American Baccalaureate School	Block 6? 59 Ibn Zuhair Street? Khaitan, Kuwait		KW	29.286442	47.9052945	4	3	
+144	American United School of Kuwait	Jassem Mohammad Al-Kharafi Rd, Sabah Al Salem, Kuwait		KW	29.2664354	48.01089	3	2	
+145	Kuwait American School	Salmiya, Kuwait		KW	29.3381467	48.0583848	2	1	
+146	Kuwait National English School	1 Mousa Bin Nussair St, Hawally 44273, Kuwait		KW	29.3383697	47.9416718	4	3	
+147	Kuwait International English School	Hawally, Kuwait		KW	29.3301628	47.9477462	2	1	
+148	Kuwait English School	Kuwait		KW	29.2823497	48.0136948	2	1	
+149	Dasman Model School	Bin Misbah Street Block 3 Sharq Kuwait City Al Asimah, Kuwait		KW	29.3879885	47.9221641	4	3	
+150	Indian Central School	Block1,Jleeb Al-Shyoukh, Kuwait		KW	29.2633959	47.8725362	2	1	
+151	Kuwait Indian School	Rd No. 100, Jeleeb Al-Shuyoukh, Kuwait		KW	29.2643927	47.8705943	3	2	
+152	India International School	8 8 St, Mangaf 7721, Kuwait	64013	KW	29.1119341	48.0490577	3	2	
+153	Integrated Indian School	Opp: UDIPI RESTAURENT? 3 ABBSIYA.? Al Kuwayt, Kuwait	23244 	KW	29.2526005	47.8585051	3	2	
+154	United Indian School	Jeleeb Al-Shuyoukh, Kuwait	32016	KW	29.2573604	47.8668021	3	2	
+155	Gulf English School of Kuwait	Salmiya, Kuwait		KW	29.3404497	48.0072067	4	3	
+156	The Universal American School	Nasser Al Roumi St, Hawally, Kuwait		KW	29.3423891	47.9372257	5	4	
+157	Cascade British Nursery School	Villa 24, Street 14, Block 6? Adan 47006, Kuwait		KW	29.2332001	48.0056963	4	3	
+158	AlGhanim Bilingual School	288 Al-Mutanabi street? Salwa, Kuwait		KW	29.3004917	47.9975228	4	3	
+159	Indian Educational School	Salmiya, Kuwait		KW	29.3263785	47.983884	5	4	
+160	Indian English Academy School	Salmiya, Kuwait		KW	29.3249454	47.9910131	3	2	
+161	New Pakistan International School	Beirut St, Hawally, Kuwait		KW	29.3358887	47.9521978	3	2	
+162	Learners Own Academy kuwait	15, Jeleeb Al-Shuyoukh 85860, Kuwait		KW	29.2542813	47.86152	3	2	
+163	A'takamul International School	Street 1, Sabah Al Salem, Kuwait	32030	KW	29.2581491	48.0110611	2	1	
+164	Creative Children International School	Hawally, Kuwait		KW	29.3419945	47.9506983	2	1	
+165	Al Ru'ya Bilingual School	94 Rd No 3, Sabah Al Salem 44002, Kuwait		KW	29.2481481	48.0123283	2	1	
+166	Al-Bayan International School	32004 Beirut Street, Hawally 32004, Kuwait		KW	29.3340512	47.9482227	2	1	
+167	Happy Chappies Nursery	Villa 51, Street 1, Block 4? 1, Fintas, Kuwait		KW	29.1621809	48.0440843	2	1	
+168	The English Playgroup and Primary School	Block 2, Building 63, Salwa, Kuwait		KW	29.3078677	47.9990448	2	1	
+169	Nottingham British School	75 Jeleeb Al-Shuyoukh, Kuwait		KW	29.2650104	47.8718281	2	1	
+170	Box Hill College Kuwait	Fahaheel Expressway at 211 Exit Abu Halifa? Kuwait City? Kuwait	13152	KW	29.1361268	48.0462837	3	2	
+171	Kuwait Reggio Center	Mansouriya, Block 2, street 25 House 9? Kuwait		KW	29.3546502	47.9223375	2	1	
+172	Kalabhavan Music Training Institute,	11 6 St		KW	29.2200189	47.8947083	3	2	
+173	Al Rayan Holding Co.	85 Street 250,? Al-Bairaq Mall? 85 Street 250? Eqaila, Kuwait	51701	KW	29.17366	48.0288419	2	1	
+174	British International School Al Khobar	Al Jawharah, Al Khobar 34434 9357, Saudi Arabia		SA	26.3319822	50.1244759	4	3	
+175	Asia International School	Al Hizam Al Thahabi, Al Khobar 34432, Saudi Arabia		SA	26.323473	50.1293686	3	2	
+176	Al Khobar International School	8131 Prince Talal St, Al Khobar Al Shamalia, Al Khobar 34425, Saudi Arabia	31952	SA	26.2983443	50.1491558	4	3	
+177	Gulf International School	Ahmed Ibn Hanbal St, Qurtoba, Al Khobar 34235, Saudi Arabia		SA	26.3439963	50.1240172	4	3	
+178	Halley International School	Prince Faisal bin Fahd bin Abudullah bin Jalewy, Ar Rakah Al Janubiyah? Ar Rakah Al Janubiyah, Al Khobar 34227, Saudi Arabia	30367	SA	26.341834	50.1380619	4	3	
+179	Orbits' Pioneers International School	3252 Cooperative Council Road, Al Taawun, 34632 6343, Al Khobar Saudi Arabia		SA	26.2180562	50.1174039	4	3	
+180	Sunshine International School	Rakah Al Janobiyah, Al Khobar 34226, Saudi Arabia		SA	26.363743	50.1343062	4	3	
+181	Al Khozama International School	Abdulrazaq Bin Hammam Street, Ar Rakah Ash Shamaliyah, Dammam 34224, Saudi Arabia		SA	26.368415	50.1247261	4	3	
+182	Bayan Gardens School-Boys	35th St, Qurtoba, Al Khobar 34233, Saudi Arabia	34233	SA	26.3528798	50.1182586	4	3	
+183	Victory International Schools	Prince Mishaal bin Abdulaziz St, Al Badiyah, Dammam 32243, Saudi Arabia		SA	26.4313503	50.0259275	4	3	
+184	American University of Kuwait	15 Salem Al Mubarak St, Salmiya, Kuwait		KW	29.3441003	48.0132985	3	2	
+185	Kuwait International Law School	Doha Spur Motorway, Kuwait		KW	29.3220717	47.7192298	3	2	
+186	The Yoga Center	58th Floor, Al Hussa Commercial Complex, Ibn Khaldoun Street, Hawally, Kuwait 30000, Kuwait		KW	29.3619802	47.9095722	3	2	
+187	Alive Yoga	59th Floor, Al Hussa Commercial Complex, Ibn Khaldoun Street, Hawally, Kuwait 30000, Kuwait		KW	29.3773654	47.9300897	2	1	
+188	Yoga Breath Studio	Mubarak Al-Kabeer, Block 1, Street 12, house 26, Mubarak Al Kabeer, Kuwait		KW	29.1961288	48.0185147	2	1	
+189	Al Moattasem International School	Dhahran Jubail Expy, Al Jubail 35518, Saudi Arabia		SA	26.965283	49.5775037	2	1	
+190	Arsan Advocates & Legal Consultants	Ahmad Al Jaber St		KW	29.3803038	47.9778433	4	3	
+191	Al-Dostour Law Firm	Kuwait Al-Shaab Gulf-Road		KW	29.3694987	47.990605	4	3	
+192	Dananeer	31st Floor, Al Hussa Commercial Complex, Ibn Khaldoun Street, Hawally, Kuwait 30000, Kuwait		KW	29.3771737	47.9199248	2	1	
+193	Flowers Kuwait	4th Floor, Al Hussa Commercial Complex, Ibn Khaldoun Street, Hawally, Kuwait 30000, Kuwait		KW	29.3785671	47.905006	2	1	
+194	The English School for Girls	Kuwait City, Kuwait		KW	29.2903247	48.0027789	2	1	
+195	Kuwait Flight Academy	Kuwait Building, Fahad Al-Salem Street, Kuwait City, Kuwait	13026	KW	29.3670737	47.8970168	3	2	
+196	New Horizons	Ahmad Al Jaber St, Kuwait City, Kuwait		KW	29.3813353	47.9150314	3	2	
+197	TestprepKart - Kuwait City	129 St, Kuwait City, Kuwait		KW	29.3814925	47.9181756	3	2	
+198	The Indian Community School, Khaitan, Kuwait	23 St, Khaitan, Kuwait		KW	29.2934943	47.9023545	2	1	
+199	Danah Universal School of Kuwait	Salem Al Dawi St, Salwa, Kuwait		KW	29.3041396	47.9995978	2	1	
+200	Fahaheel Al-Watanieh Indian Private School	Ahmadi, Kuwait	61010	KW	29.0795262	48.0008557	2	1	
+201	Al Bayan Bilingual School	Beirut Street, Hawally, Kuwait		KW	29.3346492	47.9424456	2	1	
+202	Gulf British Academy	2 St, Salmiya, Kuwait		KW	29.3250007	47.9844248	2	1	
+203	International Programs School	Prince Sultan Road	34236	SA	26.3367638	50.0827298	4	3	
+204	New World International School	Prince Sultan Bin Fahd Street, Qurtoba? Qurtoba, Al Khobar 34235, Saudi Arabia	34235	SA	26.3451503	50.1202065	3	2	
+205	Al Sharq Bright International School	Ibn Al Muqrb, Ar Rakah Ash Shamaliyah, Dammam 34225, Saudi Arabia	31311	SA	26.3640061	50.1229484	3	2	
+206	Al Majd International School - Dammam	Al Qashlah, 4034,? Dhahran 34232, Saudi Arabia		SA	26.3602892	50.105111	3	2	
+207	Al Azizyah Schools	3568 Tariq Bin Ziyad, Qurtoba, Al Khobar 34234, Saudi Arabia		SA	26.3459732	50.1180882	3	2	
+208	ISG Dammam	King Saud St, An Nur, Dammam 32445, Saudi Arabia		SA	26.4333374	49.9540217	3	2	
+209	Creative Academy	Al Adamah, Dammam 32242, Saudi Arabia		SA	26.4305443	50.0297076	3	2	
+210	Al Muna International Schools	18th Street, Al Adamah? Al 'Adamah, Dammam 32242, Saudi Arabia		SA	26.431431	50.0274436	3	2	
+211	Aajad International Girls School	Eastern Province Municipality, Prince Mohammed Bin Fahd Road, Al Itisalat, Dammam 32257 32233, Saudi Arabia		SA	26.4181286	50.0204618	3	2	
+212	Samha International School	Prince Saad Street, Al Muraikabat, Dammam 32253, Saudi Arabia		SA	26.4199788	50.0290566	3	2	
+213	ILM Prep	Block 2, Street 72, Building 6, Floor 1, Flat 1 & 2, Kuwait, ???? 72? Near Dandoosh Arabic Restaurant? Next to Gulf Casa Suite? Bneid Al Qar, Kuwait		KW	29.3723547	47.9300798	2	1	
+214	International Indian School, Al-Jubail	Al Jubail 35514, Saudi Arabia	31951	SA	27.0213947	49.5703868	2	1	
+215	The Sultan Gallery Kuwait	168 Mubarak Al Kabeer St		KW	29.3083106	47.9256119	4	3	
+216	Contemporary Art Platform	2 Shuwaikh Industrial		KW	29.3083106	47.9256119	4	3	
+217	Way Out Kuwait	Ahmad Al Jaber Street		SA	29.376174	47.9643571	3	2	
+218	Curry Leaves	63 St, Fahaheel, Kuwait		KW	29.0800781	48.0671599	2	1	
+219	AL Ethad Health Insurance (Back OF Al Khobar jawajat)	Al Khobar Al Janubiyah, Al Khobar 34611, Saudi Arabia		SA	26.2783974	50.1442524	2	1	
+220	Al Awali Travels	Office 1,2,3 Mezzanine Floor Al Salaam Towers, Fahad Al-Salem Street, Kuwait City, Kuwait? Fahad Al-Salem Street, Kuwait City, Kuwait		KW	29.3628591	47.8949662	2	1	
+221	Vigor Enterprise	Al-Gas Tower, 13th Floor, 24 Ahmad Al Jaber Street,, Kuwait City, Kuwait		KW	29.3816553	47.9159396	3	2	
+222	Trilogy Events	Mazaya Tower, 6th Floor, Office No.2? Khalid Ibn Al Waleed St, Kuwait City, Kuwait		KW	29.3745431	47.9195419	2	1	
+223	Ruwad Expo W.L.L	Burj Al Dera, 3 Ahmad Al Jaber St, Kuwait City, Kuwait	13059	KW	29.3784225	47.9096252	2	1	
+224	Forward Sports Event Management	Kuwait Free Trade Zone, Kuwait		KW	29.3508524	47.838161	3	2	
+225	five levels	281 St, Hawally, Kuwait		KW	29.329795	47.9588623	2	1	
+226	Sumou International	2772 Najd Street, Al Tubayshi, Office 13? Dammam 32233, Saudi Arabia		SA	26.4318205	50.052805	2	1	
+227	Global Sport Gate	4 St, Al Nahdah, Dammam 32234, Saudi Arabia		SA	26.3854572	50.0772914	2	1	
+228	Event Troop	Al Khobar Al Shamalia, Al Khobar , Saudi Arabia	34429	SA	26.2806487	50.1425036	2	1	
+229	Delmon Chemical Industries	Dammam 2nd Industrial City	34327	SA	26.20392	49.8837267	3	2	
+230	Bander Alhazmi For Trade And Industry Group	Al Bustan, 130. level 8	34422	SA	26.20392	49.8837267	3	2	
+231	Pan Gulf Industrial Investment	Corniche	34611	SA	26.20392	49.8837267	3	2	
+232	Pan Gulf Industrial Systems - Fire & Safety	Ibn Sina, Pan Gulf Industrial Systems Post Box No. 1225	34327	SA	26.2046094	49.8837227	3	2	
+233	Advanced Oil Field Services (AOS)	Al Taawun, Baghlaf Industrial	34644	SA	26.2052989	49.8837187	3	2	
+234	Leap Networks Arabia	Corniche	34412	SA	26.2059883	49.8837147	3	2	
+235	Saudi Cast - Dammam Branch	Al Khobar Al Shamalia	34426	SA	26.2940219	50.2071076	3	2	
+236	Saudi Cast Al Khobar Office	Al Khobar Al Shamalia	34428	SA	26.294041	50.2071076	3	2	
+237	Cinemagics	22 Salem Al Mubarak Street Al		KW	29.2256084	47.8928869	3	2	
+238	G-SHOCK Boutique			KW	29.3769715	47.9643569	3	2	
+239	Museum of Modern Art	Ibraheem Al Mudhaf St		KW	29.3083106	47.9256119	3	2	
+240	Tareq Rajab Museum of Islamic Calligraphy	Kuwait City		SA	29.3464677	47.923572	3	2	
+241	The Mirror House	94 17 St,		SA	29.3467304	47.9235718	3	2	
+242	Change Actions Consulting	Al Bandariyah	34424	SA	26.3088274	50.2094591	2	1	
+243	ADAWLIAH YAMAHA CENTER	King Khaled Street	34427	SA	26.3127187	50.0495548	2	1	
+244	????? ?????? ??????? ?????????	Thuqbah	34623 7955	SA	26.3127187	50.0495548	2	1	
+245	International Company for electronic devices	Prince Abdulelah St	34427	SA	26.3127187	50.0495548	2	1	
+246	The World of Art	Prince Sultan St	34428	SA	26.3127187	50.0495548	2	1	
+247	Mind Merge Training Center Al Khobar	Al Yarmouk	34423	SA	26.2980091	50.1766363	2	1	
+248	Fit Club ladies	Thuqbah	34623 8881	SA	26.2980839	50.1766363	2	1	
+249	Yamaha Center Al Khobar	Al Khobar Al Shamalia	34429	SA	26.2980796	50.178936	2	1	
+250	British International School Of Al Khobar	3892 ??????????	34434	SA	26.3353955	50.0827311	2	1	
+251	International Programs School - New Campus	Qurtoba, Al Khobar	34236 6547	SA	26.3364901	50.0827301	2	1	
+252	????? ?????? / ???? ???? ???????	7875 ???? ?? ???????? Al Ulaya	34447	SA	26.3362165	50.0827303	2	1	
+253	whitelens | ???????	Al Ulaya, 2nd Floor	34448	SA	26.3048345	50.1850715	2	1	
+254	Theme Party	Al Khobar Al Shamalia	34427	SA	26.3026687	50.1818937	2	1	
+255	Why grow up	Al Bandariyah,	34423	SA	26.3027435	50.1818936	2	1	
+256	De Party	7443 22nd Street	34445	SA	26.2983293	50.1849156	2	1	
+257	My Party	Al Khobar Al Shamalia	34445	SA	26.2983293	50.1849156	2	1	
+258	Sindibad | ??????	7912 King Abdulaziz Rd	34441	SA	26.3080492	50.2079607	2	1	
+259	Samsung & Terim	3109 King Khaled Street	34429	SA	26.2812668	50.2111838	2	1	
+260	Gymboree Play & Learn	King Fahd Road	34433	SA	26.1993591	50.0238797	2	1	
+261	Desert Designs	3616 Custodian of The Two Holy Mosques Rd	34446	SA	26.1998396	50.0238787	2	1	
+262	Eram Galleria	King Faisal Road	34226	SA	26.1996361	49.8837581	2	1	
+263	Media Tech	4889 Custodian of The Two Holy Mosques Rd	34621	SA	26.1996361	49.8837581	2	1	
+264	Funoon Media	5293 Cooperative Council Road	34721 8164	SA	26.2585717	49.9218701	2	1	
+265	???? ?????(stc) max media	Qurtoba	34235	SA	26.1996361	49.8837581	2	1	
+266	PRESTIGE MEDIA AND ADVERTISING AGENCY		34632	SA	26.1996361	49.8837581	2	1	
+267	Miraj Graphics W.L.L	Road No 2506		SA	26.1996361	49.8837581	2	1	
+268	DesignPlus Media Est	2117 Al Amir Turki	6455	SA	26.1996361	49.8837581	2	1	
+269	Mujahid bin razeen media unit	Qurtoba	34235	SA	26.1996361	49.8837581	2	1	
+270	?media legends	Al Khobar Al Shamalia	34425	SA	26.1996361	49.8837581	2	1	
+271	Ghali Arts Wedding & Events Planning		34426	SA	26.3042631	50.1317533	2	1	
+272	Khobar Vibes	Al Khour, Unnamed Road	34614	SA	26.3045369	50.1317531	2	1	
+273	Theme Events	King Abdulaziz Rd	34442	SA	26.3053582	50.1317523	2	1	
+274	Holiday Inn Al Khobar	King Saud Rd	34423	SA	26.3153495	50.2158808	2	1	
+275	Holiday Inn Al Khobar - Corniche	Al Yarmouk	34429	SA	26.3153495	50.2158808	2	1	
+276	Milan Deluxe Suites	King Abdullah Bin Abdul Aziz Road	34446	SA	26.2949972	50.156977	2	1	
+277	Seef Hall	Al Khobar	34414	SA	26.2949972	50.156977	2	1	
+278	Golden Tulip	Prince Turkey Street	31952	SA	26.2949972	50.156977	2	1	
+279	My Beauty Toys	Al Khobar Al Shamalia	34428	SA	26.2951341	50.1569769	2	1	
+280	Moseid Yahya Ali AIO Sofei Trad. Est.	3rd Street	13952	SA	26.1988786	50.0238807	2	1	
+281	????? ?????? Anime Island Store	16th Street	34446	SA	26.2584422	50.1588479	2	1	
+282	?????	Thuqbah,	34623	SA	26.2585877	50.1588479	2	1	
+283	BABATAIN TRADING	Prince Nasser St	34429	SA	26.2588786	50.1588478	2	1	
+284	7046 ?????? ????? Madinat Al Um	7046 ?????? ????, Madinat Al Umal	34442	SA	26.2583053	50.1588481	2	1	
+285	Toys"R"Us	Al Khuzama	34719	SA	26.2074495	50.161692	2	1	
+286	Family Shop: Gifts, Accessories, School Tools, Houseware, Toys	Al Khobar Al Shamalia	34428	SA	26.2583053	50.1588481	2	1	
+287	Hadabi Trading & Contracting Est.	Al Khobar Al Shamalia	34425	SA	26.2980764	50.1819564	2	1	
+288	Al Khobar Al Shamalia		34426	SA	26.2583053	50.1588481	2	1	
+289	BEST HELP Trading Est	Al Khobar Al Shamalia	34427	SA	26.2583053	50.1588481	2	1	
+290	Toys Plus	Al Khobar Al Shamalia	34429	SA	26.2583053	50.1588481	2	1	
+291	Masterpieces of hobbies and gifts	Al Khobar Al Shamalia	34429	SA	26.2583053	50.1588481	2	1	
+292	Anime Island Store	16th Street, Al Aqrabiyah	34446	SA	26.3088991	50.1587279	2	1	
+293	Dynamic Industry for Trading & Contracting Est.	Prince Fawaz St		SA	26.1996361	49.8837581	2	1	
+294	INCO industrail Company	Al Jawharah	34431	SA	26.2003256	49.8837541	2	1	
+295	Raqtan Group	Al Qashlah, Raqtan Complex	31952	SA	26.2010152	49.8837501	2	1	
+296	Qtech	Ibn Sina, QTech , King khed Branch Road	34627	SA	26.2004723	49.8837467	2	1	
+297	Smico Specialized Metal Industry Co.Ltd	Al Taawun	34644	SA	26.2011619	49.8837427	2	1	
+298	B2Flex Company	Khobar St	34627 31952	SA	26.2018514	49.8837387	2	1	
+299	Industrial Supplies Development Co. Ltd.	King Abdulaziz Rd		SA	26.202541	49.8837347	2	1	
+300	Nijedi Industrial Supply Est	Khaled Ibn Al Walid St		SA	26.2032305	49.8837307	2	1	
+301	Aflak Electronic Industries Co.	Madinat Al Umal, 2nd Floor, Riyad Bank Bldg	34441	SA	26.2046094	49.8837227	2	1	
+302	Al Kooheji Bilding Material	8th Street, Al Khobar Al Shamalia	34427	SA	26.20392	49.8837267	2	1	
+303	Fuad Abdullah Al Suwaiket Trading		34429	SA	26.20392	49.8837267	2	1	
+304	Al Hussan International School	Ar Rakah Al Janubiyah, Mohammed Al Fatih st	34226	SA	26.1996361	49.8837581	2	1	
+305	Brod Bio G. Crib..	5th Street, Al Khobar Al Shamalia	34427	SA	26.3022048	50.1868234	2	1	
+306	ALHOKAIR TIME	5157 ???????? Ash Shati Ash Sharqi	32414	SA	26.3533581	49.7124987	2	1	
+307	Cobra Amusement Park ????? ????? ???????	Prince Mohammed Bin Fahd Road	32235	SA	26.3558898	49.7124765	2	1	
+308	KIDs INN	An Nur	32444	SA	26.3564349	49.7124799	2	1	
+309	????? ?????? ???????	Saad Ibn Muath St	32245	SA	26.3578062	49.7124719	2	1	
+310	?????? ??????	Imam Mohammed Bin Saud St	32274	SA	26.3795862	50.0601569	2	1	
+311	Islamic Cultural Center	King Saud St	32416	SA	26.3798597	50.0601567	2	1	
+312	Noble Badminton Club - Dammam	Aktham Ibn Saifi St	Dammam 32232	SA	26.3801332	50.0601564	2	1	
+313	Swiss International Al Hamra Hotel - Dammam	King Khaled St	32242	SA	26.438834	50.0361292	2	1	
+314	Swiss International Al Hamra Hotel	King Khaled St	32242	SA	26.438834	50.0361289	2	1	
+315	Dela Paix	King Saud St	32244	SA	26.4425911	50.0190155	2	1	
+316	Dammam Indian Islahi Center.	Al Dawasir	Dammam 32416	SA	26.4396015	50.0364151	2	1	
+317	Stadium Sports-University of Dammam	Dammam	34211	SA	26.3661726	50.0894308	2	1	
+318	Stadium	As Safa	34221	SA	26.3664461	50.0894306	2	1	
+319	Community Center	Ash Shulah	34274	SA	26.3667197	50.0894303	2	1	
+320	Al Multaka	Prince Metib Road	34251	SA	26.3669932	50.0894301	2	1	
+321	??????? ????? ????????? ? ??????????	Al Fursan	32333	SA	26.3433105	49.8894589	2	1	
+322	Wazaan	Al Adamah	32242	SA	26.3675403	50.0894296	2	1	
+323	Granada Neighborhood Center	5043 Ibn Majah St	32245	SA	26.3678139	50.0894293	2	1	
+324	Summit courts	Prince Mohammed Bin Fahd Road	32253	SA	26.3680874	50.0894291	2	1	
+325	Prince Saud Bin Jalawy Stadium	As Sadafah	34216	SA	26.368361	50.0894288	2	1	
+326	Roqy Center	Al Aqrabiyah	34446	SA	26.3694551	50.0894278	2	1	
+327	Al-Hamra Center	Cornish Rd	32422	SA	26.4668847	50.0263008	2	1	
+328	Alkhumasia Animal Feed Mill	Salman Al Farisi	32213	SA	26.4228594	50.1270098	2	1	
+329	Oka Veterinary Clinic	King Fahd Road	32236	SA	26.4229341	50.1270098	2	1	
+330	??????? ??? ??????	2 (A) St, Al Mazruiyah	32414	SA	26.3805833	50.0247354	2	1	
+331	Studio Tech Tun	Al Ashriah Street	32415	SA	26.3808568	50.0247352	2	1	
+332	?????? ??? ??????? ??????? ?????	Imam Mohammed Bin Saud St	32274	SA	26.3811303	50.0247349	2	1	
+333	??????? ?????? ????	King Abdulaziz Rd	34264	SA	26.3814038	50.0247347	2	1	
+334	?????? ??????? - ??????	Omar Ibn Al Khattab St	32272	SA	26.3816773	50.0247344	2	1	
+335	??????? ??? ?????? ?????????	Uhud, 3337	32263	SA	26.3819508	50.0247342	2	1	
+336	?????? ????? ?????? 0562223280	28th Street,	32244	SA	26.3822243	50.0247339	2	1	
+337	??????? ??????? ???????????	Al Souq	32242	SA	26.3824978	50.0247337	2	1	
+338	Bangladesh International School Dammam	Ghirnatah, 2489	32243	SA	26.3833182	50.0247329	2	1	
+339	??? ????? ???????	Al Khodaryah	32436	SA	26.3838652	50.0247324	2	1	
+340	Solidwood Carpentry	3753 King Abdulaziz Rd	32437 6722	SA	26.4662272	49.9680622	2	1	
+341	IIS Dammam Girl Sction	??? ????? ????????7783	34225	SA	26.3852327	50.0247312	2	1	
+342	IISDM prep 1	3911 ????? ???? ???????? Ar Rakah Ash Shamaliyah, 8055	34224	SA	26.3855061	50.0247309	2	1	
+343	Mansoor Optical	Muhammed Ibn Saud	32241	SA	26.3798127	49.7138532	2	1	
+344	Carrefour Market	King Khaled St	32246	SA	26.3539031	49.7124904	2	1	
+345	Al-Rashid Theatre ???? ???? ??????	Alshihab Altaifi St	34448	SA	26.2924892	50.1784229	2	1	
+346	??? ???? ?????	8513 King Saud Rd	32246	SA	26.3004387	50.1500759	2	1	
+347	Al badriyah night club	14th St 14th St	34623 7936	SA	26.3005841	50.1500759	2	1	
+348	Darna Signboard	Dhahran Jubail Expy		SA	26.2794558	49.9224638	2	1	
+349	Half Moon Police	617, Dhahran 34737		SA	26.2799355	49.9224628	2	1	
+350	wxyz lounge	Al Ulaya	34447	SA	26.280895	49.9224608	2	1	
+351	Hasseer	Al Ulaya	34447	SA	26.2813748	49.9224598	2	1	
+352	????? ??????	Al Khobar	34236	SA	26.2818545	49.9224588	2	1	
+353	Ncms	Sahil St	34253	SA	26.2818545	49.9224588	2	1	
+354	AlArak Isthiraah	Dhahran Rd	Al Jubail 32912	SA	26.706599	49.7511453	2	1	
+355	??????? ???????	As Sawari	34724	SA	26.2818545	49.9224588	2	1	
+356	King Fahd University Of Petroleum & Minerals	University Blvd	31261	SA	26.3045747	50.1462332	2	1	
+357	Dhahran Cricket Association	Gharb Al Dhahran	34473	SA	26.283533	50.1000833	2	1	
+358	Dhahran Cricket Ground	Gharb Al Dhahran	34472	SA	26.283533	50.1000833	2	1	
+359	International Schools Group - Dhahran	King Fahd University of Petroleum and Minerals	34464 31952	SA	26.3021112	50.1529463	2	1	
+360	Fun Oasis ???? ?????	Al Ulaya	34448	SA	26.2312405	49.9032749	2	1	
+361	Ministry of water near Iskan Khobar	Southern Street	34626	SA	26.2317207	49.9032739	2	1	
+362	Family Park	Sunset Blvd	34713	SA	26.2331612	49.9032709	2	1	
+363	???? ???? DAMMAM PARK	Al Basatin	32235	SA	26.3897157	49.9831873	2	1	
+364	DAMMAM PARK	Al Basatin	32235	SA	26.3897157	49.9831873	2	1	
+365	Splash Island	Abdullah Fuad	32236	SA	26.3990726	49.9775201	2	1	
+366	Sky Zone	Qurtoba	34235	SA	26.2622835	49.7523992	2	1	
+367	Eastern Dhahran Auto Showroom	King Fahd Suburb	32314 7437	SA	26.4025952	49.871149	2	1	
+368	Nike	6864 King Saud Rd	34457 3587	SA	26.2283593	49.903278	2	1	
+369	Abdulaziz Al-Binali Trading Corporation Showroom	Dhahran Jubail Expy	32442	SA	26.4025952	49.871149	2	1	
+370	AHURA Showroom	Al Qusur		SA	26.4025952	49.871149	2	1	
+371	Al-Jazeera Paints ?????? ???????	Saeed Ibn Al Museeb St	34257	SA	26.4025952	49.871149	2	1	
+372	Sun and Sand Sports	6864 Prince Faisal Bin Fahd Road	34457	SA	26.3536161	50.0245813	2	1	
+373	Almajdouie Motors - CHANGAN	7682 King Saud Rd Al Qashlah Dhahran 34232 4280 King Saud Rd	34232	SA	26.3536161	50.0245813	2	1	
+374	Abdullatif Jameel Toyota	King Saud Rd	34447	SA	26.3538897	50.0245811	2	1	
+375	Skechers	Doha Al Janubiyah, AMWAJ MALL	34455	SA	26.3544369	50.0245807	2	1	
+376	Nike Store	Doha Al Janubiyah	34448	SA	26.3536161	50.0245813	2	1	
+377	R&B	King Saud Branch Rd,	34457	SA	26.3538897	50.0245811	2	1	
+378	Aljabr Automotive	Madinat Al Umal	34443	SA	26.3541633	50.0245809	2	1	
+379	Nissan Show Room	Al Qashlah	34232	SA	26.3544369	50.0245807	2	1	
+380	ONTIME	Doha, Dhahran mall, Doha Al Janubiyah,Dhahran,Gate1	34457,	SA	26.3547105	50.0245805	2	1	
+381	Rolex Kooheji	Doha Al Janubiyah	34457	SA	26.3558049	50.0245797	2	1	
+382	SHEARMAN & STERLING LLP	Prince Turkey Street,	34427	SA	26.2288031	49.9032789	2	1	
+383	Dr. Sultan AlMasoud & Partners Law Firm	Prince Turkey Street	34413	SA	26.2292833	49.903278	2	1	
+384	MOHAMMED ALSHAREEF LAW FIRM	Custodian of The Two Holy Mosques Rd Custodian of The Two Holy Mosques Rd	34621 8654	SA	26.2297635	49.9032772	2	1	
+385	Dhahran	Dhahran is a city located in Eastern Province		SA	26.2283229	49.9032797	2	1	
+386	PWC	??? ??????? King Fahd Road	34433	SA	26.2316843	49.9032739	2	1	
+387	Games Stores	15th Street	32242	SA	26.4055841	50.0130214	2	1	
+388	Different Games Dammam	15th Street	32242	SA	26.4058576	50.0130212	2	1	
+389	Dar commercial professions Foundation	Al Souq	32242	SA	26.4049177	50.0130218	2	1	
+390	????? ?????? ?????????	15th Street, Al Souq	Dammam 32242	SA	26.4051911	50.0130215	2	1	
+391	Island Games Trading Est.	Al Souq	32242	SA	26.405157	50.0130213	2	1	
+392	Suburb Games	King Fahd Suburb	32314	SA	26.4062506	50.0130203	2	1	
+393	Pearl compound ???? ???????	Prince Sultan Bin Fahd St	34234	SA	26.3463247	50.1733991	2	1	
+394	Al Jamiah Dist Community Center	Ibn Jubair Street,	34257	SA	26.3473035	50.1232686	2	1	
+395	???? ????????????	Doha Al Janubiyah	34451	SA	26.3211843	50.1301192	2	1	
+396	Football Ground	King Fahd University of Petroleum and Minerals	34463	SA	26.3211843	50.1301192	2	1	
+397	KFUPM Stadium	King Fahd University of Petroleum and Minerals	34464	SA	26.3207355	50.1301193	2	1	
+398	Technical Exchange Center	Technical Exchange Rd	34466	SA	26.3207355	50.1301193	2	1	
+399	Prince Naif Centre For Cultural Science	King Fahd University of Petroleum and Minerals	34463	SA	26.3208103	50.1301193	2	1	
+400	Dhahran Women's Group	Gharb Al Dhahran	34465 4055	SA	26.3209599	50.1301192	2	1	
+401	Bright Avenue Entertainment	8007 ?????? ????? Al Khobar Al Shamalia	34426 2813	SA	26.3084463	50.1863728	2	1	
+402	Aswar Hotel Suites	Al Ulaya, 6-A Street District	34448	SA	26.2898606	50.0859834	2	1	
+403	Dhahran Heights Portable (bldg 9172)	Gharb Al Dhahran	34461	SA	26.2901514	50.0859833	2	1	
+404	Arabia Pictures AP	Custodian of The Two Holy Mosques Rd	34463	SA	26.325527	50.1286016	2	1	
+405	???	Doha Al Janubiyah	34457	SA	26.2283593	49.9032795	2	1	
+406	South Dhahran Home Ownership - Project Management	Cooperative Council Road	34512	SA	26.2288395	49.9032787	2	1	
+407	Samsung	Al Khalidiyah Al Janubiyah	32225	SA	26.3971986	50.0254408	2	1	
+408	Dhahran Ahliyya Schools	Anas Ibn Malik St, Doha Al Janubiyah	34452	SA	26.3285436	50.1630107	2	1	
+409	8Portions Pizza	Prince Mohammed Bin Fahd Road		SA	26.3137661	50.1327708	2	1	
+410	International Indian School Dammam	As Safa	34222	SA	26.4078879	50.0331522	2	1	
+411	LG Naghi - DAMMAM-1	Ash Shati Ash Sharqi	32413	SA	26.4084347	50.0331518	2	1	
+412	LG Naghi - Dammam2 showroom	Al Jawharah	32424	SA	26.4087081	50.0331516	2	1	
+413	ElectroTel Dammam Showroom	King Abdulaziz St	32415	SA	26.408674	50.0331514	2	1	
+414	Al Matbouli Sound & Communications (Dammam Showroom)	King Khaled St	32242	SA	26.4089474	50.0331512	2	1	
+415	Samsung & Tecnogas Authorized Showroom	8262 Al Amir Muhammed Ibn Fahd Rd	32241	SA	26.4092208	50.033151	2	1	
+416	Safa Aluminium Dammam Showroom	Al Mazruiyah	32414	SA	26.4094942	50.0331508	2	1	
+417	Audi Al Khobar Showroom - SAMACO Automotive	Qurtoba, King Fahd Rd	34234 31952	SA	26.4097676	50.0331506	2	1	
+418	LG Naghi - Dammam 3 Showroom	Uhud, King saud street	32264,	SA	26.410041	50.0331504	2	1	
+419	LG Naghi - Khobar3 HWY	Ar Rakah Ash Shamaliyah, 7991 King Fahd Road,	34225	SA	26.4097676	50.0331506	2	1	
+420	Toyota Showroom Rakah Area	As Sadafah	34226	SA	26.4097676	50.0331506	2	1	
+421	Damam Showroom	King Abdulaziz St	32424	SA	26.4097676	50.0331506	2	1	
+422	Yale Showroom D1 NAS	9th St, Al Dawasir	32415	SA	26.4097676	50.0331506	2	1	
+423	Four Square Showroom	Prince Mohammed St	32242	SA	26.4097676	50.0331506	2	1	
+424	Maromix Showroom, Dammam	Al Aziziyah	32424	SA	26.4097676	50.0331506	2	1	
+425	Al-Howail Tires Showroom	King Fahd Road	32245	SA	26.4097676	50.0331506	2	1	
+426	Bayouni Sanitary Wares Dammam Showroom	33 16, Al Amamrah	32415	SA	26.4097676	50.0331506	2	1	
+427	El-Ajou Dammam Showroom	Prince Mohammed Bin Fahd Road, Al Amir Muhammed Ibn Saud	32241 5584	SA	26.4097676	50.0331506	2	1	
+428	Jaguar Al Khobar Showroom	Ar Rakah Al Janubiyah, Khobar Al-Dammam Road	34226	SA	26.4097676	50.0331506	2	1	
+429	SAFANA SHOWROOM	3732 ????? ??? ??????, Al Badi,	32415	SA	26.4097676	50.0331506	2	1	
+430	MYNM - BMW Showroom & Service Center	Qurtoba, New & Certified Pre-Owned Vehicles Showroom & Service Center	34234	SA	26.4097676	50.0331506	2	1	
+431	tadium Sports-University of Dammam		34211	SA	26.4244124	50.0436952	2	1	
+432	Al Faleh Sport House	King Abdulaziz St	32424	SA	26.4246858	50.043695	2	1	
+433	Fifa Sports Yards	Al Manar	32274	SA	26.4249591	50.0436948	2	1	
+434	Faris Grouo Sports Soluations	2186 Abu Azinah Al Sadfi	32416	SA	26.4255058	50.0436944	2	1	
+435	Lapangan Turnamen Dammam Cup	Al Buhayrah		SA	26.4260525	50.0436939	2	1	
+436	Dalgan Optics Est. Dammam Branch	Prince Saud Bin Jalawy St	32416	SA	26.4274192	50.0436929	2	1	
+437	Al Wazzan Vision Dammam Khaleej	Al Aziziyah	32424	SA	26.4276925	50.0436927	2	1	
+438	?????? ????	King Khaled St	32241	SA	26.4279658	50.0436925	2	1	
+439	Vision Express	Abdullah Fuad	32236	SA	26.4285125	50.0436921	2	1	
+440	Eyelash Optical	Prince Mohammed Bin Fahd Road	32412	SA	26.4287858	50.0436919	2	1	
+441	eye cool opticals	71 St, Dammam 2nd Industrial City	34333	SA	26.2506659	49.9030885	2	1	
+442	Solaris	Abdullah Fuad	32236	SA	26.4298791	50.0436911	2	1	
+443	????? ????????	Abu Bakr Alsiddiq St	32265	SA	26.4301524	50.0436909	2	1	
+444	Al Bashawri Opticals ????????	Muhammed Ibn Saud	32241	SA	26.4304258	50.0436907	2	1	
+445	???????? ???? Al Comedy Club	Al Athir	32248 7939	SA	26.3689941	50.0302839	2	1	
+446	College Of Arts	Prince Nayef Bin Abdulaziz Rd	32256	SA	26.3703618	50.0302828	2	1	
+447	???? DMM ????????	8911 Omar Ibn Al Khattab St	32271	SA	26.4134846	50.026333	2	1	
+448	?????? ???????????	Prince Nayef Bin Abdulaziz Rd	32256	SA	26.413758	50.0263328	2	1	
+449	Studio Dammam Broadcasting Corporation radio and television	6359 ???? ??? ?????? Al Manar	32274 2624,	SA	26.4140314	50.0263326	2	1	
+450	RAFEE METAL INDUSTRY	Dammam Television Complex	32248 32436	SA	26.4143047	50.0263324	2	1	
+451	eXtra	Al Aziziyah, Al Khaleej Road	32424	SA	26.4599606	50.0435182	2	1	
+452	Mishwar Restaurant	Prince Mohammed Bin Fahd Road	32415	SA	26.4515506	50.1149436	2	1	
+453	KFUPM Mall	Orientation Path, King Fahd University of Petroleum and Mineral	34463	SA	26.3201371	50.1301194	2	1	
+454	Live79	southern street	34627	SA	26.249588	50.1914453	2	1	
+455	ALPHA CENTRE	6990 King Fahd Road	34622 5722	SA	26.2675859	50.2053476	2	1	
+456	Arabian Collections Gallery	Prince Faisal Bin Fahd Road Prince Faisal Bin Fahd Road, Doha Al Janubiyah,	34455 7277	SA	26.3181086	50.1023868	2	1	
+457	Dhahran Art Group	4155 Riyadh Boulevard	34472	SA	26.318254	50.1023868	2	1	
+458	AJ Nail Art & Beauty Salon	Prince Mohammed Bin Fahd Road		SA	26.3185447	50.1023867	2	1	
+459	Action Gate	Doha Al Janubiyah	34454	SA	26.3241569	50.1529505	2	1	
+460	DHL	Eastern Ave	34465	SA	26.3067819	50.1165933	2	1	
+461	Mobily	Midra Access Rd	34481	SA	26.3067819	50.1165933	2	1	
+462	STC	Eastern Ave	34465	SA	26.3067819	50.1165933	2	1	
+463	Toy Triangle	Khalid Ibn Al Waleed St		SA	29.2620189	47.8931945	2	1	
+464	Naser Alomar Toys	Kuwait City		SA	29.2620189	47.8931945	2	1	
+465	Fantasy World Toys Al Bustan	Al Bustan Mall Bldg Compound		SA	29.2620189	47.8931945	2	1	
+466	Fantasy World Toys Boulevard	Al Khansa St,		SA	29.2620189	47.8931945	2	1	
+467	Games world	Kuwait City		SA	29.2620189	47.8931945	2	1	
+468	101 Dalmatians	Kuwait City		SA	29.2620189	47.8931945	2	1	
+469	The Grand Mosque of Kuwait	25, Kuwait City		SA	29.3475184	47.9235712	2	1	
+470	Reham Gallery	Abu Bakr St		SA	29.3477811	47.923571	2	1	
+471	Cozmo Entertainment (Discovery Mall)	Abdulla Al Mubarak St		SA	29.376174	47.9643571	2	1	
+472	COZMO ENTERTAINMENT COMPANY	Kaifan Kuwait Sport Club		SA	29.3762465	47.9643571	2	1	
+473	Stay Foolish Productions	Abdulla Al Mubarak St		KW	29.376174	47.9643571	2	1	
+474	Panorama Consulting and Business Solutions	Global Tower, Al-Shuhada Street		KW	29.3753548	47.9856962	2	1	
+475	AL M. Gallery	Mohammad Thunayyan St		KW	29.3083106	47.9256119	2	1	
+476	Dar Al Funoon	Kuwait City		KW	29.3083106	47.9256119	2	1	
+477	Free Art Atelier	Arabian Gulf St		KW	29.3083106	47.9256119	2	1	
+478	THE HUB Gallery	2 25		KW	29.3891817	47.9176802	2	1	
+479	Boushahri Art Gallery	Salmiya		KW	29.3083106	47.9256119	2	1	
+480	Aseel's Studio	Hamad Al Saqer St		KW	29.3083106	47.9256119	2	1	
+481	Friday market	Kuwait City		KW	29.3128068	47.9528811	2	1	
+482	Iranian Market	325-337 37 St		KW	29.3124203	47.9445428	2	1	
+483	Flower Market	Mutlaq Abbas Munawir St		KW	29.3056803	47.9370192	2	1	
+484	Dubai Textile Market			KW	29.3758326	47.9677593	2	1	
+485	Carrefour Fintas	Kuwait, Mubarak Al Kabeer Governorate		KW	29.1746142	48.093227	2	1	
+486	Olive Super Market	Kuwait City,		KW	29.3061534	47.9116006	2	1	
+487	Shuwaikh Market ???? ?????	5th Street		KW	29.3418413	47.9354257	2	1	
+488	Carrefour Jleeb	Kuwait, Farwaniya Governorate		KW	29.246129	47.9349903	2	1	
+489	Grand hyper market	Wattiyah St		KW	29.3626162	47.9609002	2	1	
+490	???? ????? ???? ??????? ??????			KW	29.3577713	47.9408069	2	1	
+491	Labor Syndicate Theater	Abdulla Al Faraj St		KW	29.3582966	47.9408065	2	1	
+492	ABB Kuwait	Alghunaim tower ??? ??????. Abu Naker St		KW	29.3628875	47.9616791	2	1	
+493	Mitsubishi electric kuwait office	al-salam tower 2nd floor Al-Salem Street		KW	29.3628875	47.9616791	2	1	
+494	Kefan Optics	Al-Shuhada St		KW	29.376319	47.9643571	2	1	
+495	International Optique	Omar Bin Al Khattab St		KW	29.3763915	47.964357	2	1	
+496	Etheos Optician			KW	29.376464	47.964357	2	1	
+497	International Optique Company	Salmiya Block 4, Salem Al Mubarak Street Central Plaza Building		KW	29.3444272	48.0629539	2	1	
+498	Grand Cinemas	Hamra Luxury Center		KW	29.3766815	47.964357	2	1	
+499	Dasma Theatre	Salem Al Jumain st		KW	29.376899	47.964357	2	1	
+500	Ashraf & Co. Ltd., Dar Al Awadi Showroom	Dar Al Awadi Tower		KW	29.3770441	47.9643569	2	1	
+501	GMC Showroom Sharq	Al Kuwayt,		KW	29.3771143	47.9643569	2	1	
+502	American Tourister Showroom, Souk Al Kabir, Kuwait City	Souq Al Kabeer Complex		KW	29.3771868	47.9643569	2	1	
+503	Alghanim Automotive- Chevrolet Showroom Sharq	Sharq Industrial Area		KW	29.3772593	47.9643569	2	1	
+504	TriStar Showroom	Soor St		KW	29.3773318	47.9643569	2	1	
+505	Mercedes-Benz Kuwait (Showroom)	Jahra Road, Highway 80	70050	KW	29.335742	47.9184175	2	1	
+506	Alghanim Used Car Showroom			KW	29.3774768	47.9643568	2	1	
+507	Korloff Showroom - Behbehani - Al Hamra Luxury	Shop No.M 02 Sharq Mezzanine floor Al Hamra Luxury Center		KW	29.3771166	47.9643569	2	1	
+508	Q7 Mobile Co. Outlet - Kuwait City			KW	29.3771891	47.9643569	2	1	
+509	Baiti Synergy Showroom	Al Sanea Tower, Floor 16		KW	29.376754	47.964357	2	1	
+510	INFINITI Showroom - Al Babtain	Al Rai, Block 3, Car Dealer Rd	13008	KW	29.3137926	47.9195379	2	1	
+511	Audemars Piguet	Ahmed Behbehani Showroom, Shop n°4, block n°4, Ground floor	13006	KW	29.376899	47.964357	2	1	
+512	Audi Kuwait Showroom & Service	Shuwaikh Industrial Area Street Nr 11 Block Nr 11 Building Nr 56A		KW	29.332606	47.9168725	2	1	
+513	Morad Yousuf Behbehani Watches Showroom	Shop No. 26-28 Souk Sharq		KW	29.3769715	47.9643569	2	1	
+514	Al Sayer Spare parts showroom			KW	29.3769715	47.9643569	2	1	
+515	Kuwait Little Theatre	Main Street		KW	29.2146618	47.8928823	2	1	
+516	Cinescape Plaza Cinema	Salmiya		KW	29.2160221	47.8928799	2	1	
+517	Zeriab Music Store	46 St		KW	29.2200189	47.8947083	2	1	
+518	Yamaha Music Square	Kuwait City		KW	29.2200189	47.8947083	2	1	
+519	Kalabhavan	6 St. 1 Ln		KW	29.2200189	47.8947083	2	1	
+520	Sound Of Music	Yousef Al Bader St		KW	29.2200189	47.8947083	2	1	
+521	Institute of Academic Art & Musical Sciences	P.O. Box: 35747 Al-Shaeb		KW	29.3403663	48.0494809	2	1	
+522	Cinema Muhallab Cinescape K.N.C.C	Al-Muhallab Mall		KW	29.2256084	47.8928869	2	1	
+523	Cinescape Marina Cinema	Salmiya		KW	29.2256084	47.8928869	2	1	
+524	Sky Cinema	Salmiya		KW	29.2256084	47.8928869	2	1	
+525	GRAND CINEMAS - Grand Gate-Eqaila	Eqaila		KW	29.2256084	47.8928869	2	1	
+526	Freej Alhayal	Abu Halifa		KW	29.2310483	47.8928773	2	1	
+527	Al Messila Water Village	Messila		KW	29.2310483	47.8928773	2	1	
+528	SkyZone Kuwait	Rabia		KW	29.30655	47.93565	2	1	
+529	blizzard gaming lounge	Mohammad Thunayyan Al-Ghanem St		KW	29.2429895	47.9076624	2	1	
+530	Musical Fountain	Kuwait City		KW	29.380347	47.964711	2	1	
+531	MijoBooks LTD.	Kuwait City		KW	29.3803493	47.964711	2	1	
+532	JACC National Theater ?????? ??????	Kuwait		KW	29.376174	47.9643571	2	1	
+533	Dive Caroline Kuwait	Fahaheel		KW	29.2537216	47.9147668	2	1	
+534	Slayil Al Jahra Park - 'THE 99' Village	Slayil Al Jahra District Street No. 625, Slayil		KW	29.3601096	47.5105905	2	1	
+535	Future kid Co			KW	29.3710051	47.8382439	2	1	
+536	games and rides	#14/1 1st floor?		KW	29.3714571	47.8382431	2	1	
+537	Personal Computer Center	35-Ground Floor, Lulwa Bin Khaldun Complex	32074?	KW	29.2282388	47.9073963	2	1	
+538	Sylvanas Gaming Center	Kuwait		KW	29.2282388	47.9073963	2	1	
+539	Kuwait Zoo	Airport Rd		KW	29.2986068	47.9588517	2	1	
+540	PARTYLAND	Andalous,		KW	29.2988223	47.9260206	2	1	
+541	Party Corner	Mohamad Bin Al Qasim St		KW	29.2986817	47.9260207	2	1	
+542	Party City	Area 3 Block G Canada Dry,	42188	KW	29.2986817	47.9260207	2	1	
+543	Artistic Yoga & Pilates	Al Qatami St. 6 Ln, Salmiya, Kuwait		KW	29.3306696	47.9947484	2	1	
+544	Expression Institute for Private Training	Ahmed Al Jaber St	21540	KW	29.2412832	47.9070207	2	1	
+545	The British School of Kuwait	Salwa, Building 214	13130	KW	29.3010217	48.0625853	2	1	
+546	Cozmo Entertainment	Abdulla Al Mubarak St, Kuwait City, Kuwait		KW	29.3598856	47.9124046	2	1	
+547	Amirah AlShaalan Events Co.	Ali Al-Salim Street, Building 106, Awtad Restaurant Complex, Floor 1, Office 13, Qibla, Kuwait City 14000, Kuwait		KW	29.3737533	47.9004552	2	1	
+548	Shuwaikh Market	5th Street, building 6, | Shuwaikh industrial area block 1		KW	29.341823	47.8675742	2	1	
+549	MSM-Kuwait	Salem Al Jumaian St, Kuwait City, Kuwait		KW	29.3603793	47.9299766	2	1	
+550	New English School	Block 12? 1 St, Jabriya 32036, Kuwait		KW	29.3156648	47.9799706	2	1	
+551	Algonquin College - Kuwait	Al Jahra, Kuwait		KW	29.3174429	47.6207733	2	1	
+552	Dunes International Schools	King Saud Road, Al Andalus? Al Andalus, Al Khobar 34437, Saudi Arabia		SA	26.3262944	50.1101475	2	1	
+553	International Indian School, Dammam	As Safa, Al Khobar 34222, Saudi Arabia		SA	26.3824384	50.1122836	2	1	
+554	Al Hammad International School	Al Ulaya, Al Khobar 34445, Saudi Arabia		SA	26.2990994	50.1125722	2	1	
+555	Bangladesh International School	Ghirnatah, 2489, Dammam 32243, Saudi Arabia	32243	SA	26.4221457	50.0165832	2	1	
+556	Al Hammad Academy	Halima Al Sadiah St, Al Rawdah, Dammam 32255, Saudi Arabia		SA	26.3927038	50.0160798	2	1	
+557	Bassam International School	Rahma St, An Nuzhah, Dammam 32252, Saudi Arabia		SA	26.3981952	50.036781	2	1	
+558	Dammam Community College	KFUPM Box 5084, Dhahran , Saudi Arabia	31261	SA	26.3952857	50.0511831	2	1	
+559	Flare Fitness (Women)	55th Floor, Al Hussa Commercial Complex, Ibn Khaldoun Street, Hawally, Kuwait 30000, Kuwait		KW	29.3769167	47.9077375	2	1	
+560	X Athletic	54th Floor, Al Hussa Commercial Complex, Ibn Khaldoun Street, Hawally, Kuwait 30000, Kuwait		KW	29.3767867	47.9078618	2	1	

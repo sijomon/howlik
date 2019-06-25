@@ -1,0 +1,10 @@
+name,name_ar,parent,description,description_ar,image,active
+Category 1,الفئة 1,,description comes here,وصف يأتي هنا,active-life.svg,1
+Keyword 1,الكلمة 1,Category 1,description comes here,وصف يأتي هنا,amateur-sports-teams.svg,1
+Keyword 2,الكلمة 2,Category 1,description comes here,وصف يأتي هنا,amusement-parks.svg,1
+Keyword 3,الكلمة 3,Category 1,description comes here,وصف يأتي هنا,diving.svg,1
+Category 2,فئة 2,,description comes here,وصف يأتي هنا,image-name.svg,1
+Keyword 1,الكلمة 1,Category 2,description comes here,وصف يأتي هنا,image-name.svg,1
+Keyword 2,الكلمة 2,Category 2,description comes here,وصف يأتي هنا,image-name.svg,1
+Keyword 3,الكلمة 3,Category 2,description comes here,وصف يأتي هنا,image-name.svg,1
+Keyword 4,الكلمة 4,Category 2,description comes here,وصف يأتي هنا,image-name.svg,1

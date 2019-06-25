@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	
+    <title>Google Maps API V3: Custom Directions Panel</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+	
+	<meta name="description" content="Google Maps API V3: Custom Directions Panel" />
+	<meta name="keywords" content="Google Maps API V3, Custom Directions Panel, jQuery, jQuery tutorials, thewebstorebyg wordpress code blog" />
+	<meta name="author" content="Giri Jeedigunta - thewebstorebyg" />
+    
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAPHJSZW2HT2YXPFpfEOfPOO3LV-4tpEf4&v=3.exp&sensor=true&libraries=places"></script>
+	<link href="style.css" type="text/css" rel="stylesheet" />
+    
+  </head>
+  <body>
+    <div id="mapCanvas">&#160;</div>
+    <div id="directionsPanel">
+    	<a href="#geoLocation" id="useGPS">Use My Location</a>
+        <p class="or">[OR]</p>
+    	<div class="directionInputs">
+    		<form>
+	    		<p><label>A</label><input type="text" value="" id="dirSource" /></p>
+	    		<p><label>B</label><input type="text" value="32/2268, New Kalavath Rd, Palarivattom, Sonia Nagar, Palarivattom, Ernakulam, Kerala 682025, India" id="dirDestination" /></p>
+	    		<a href="#getDirections" id="getDirections">Get Directions</a>
+                <a href="#reset" id="paneReset">Reset</a>
+    		</form>	
+    	</div>
+    	<div id="directionSteps">
+    		<p class="msg">Direction Steps Will Render Here</p>
+    	</div>
+    	<a href="#toggleBtn" id="paneToggle" class="out">&lt;</a>
+    </div>
+    <script type="text/javascript" src="sample.js"></script> 
+  </body>
+</html>

@@ -1,0 +1,290 @@
+/*BOF  HEADER */
+.left-nav {
+    float: right !important; 
+}
+.left-nav  li{
+
+}
+.right-nav{
+	float:left !important;
+}
+.right-nav li{
+	float:right !important;
+}
+.choose-country {
+    width: 20%;
+    float: right;
+    margin-right: 0em;
+	margin-left: 1em; 
+}
+.location-name{
+	float:right;
+}
+.searchbar-holder {
+    float: right;
+    margin-right: 1em;   
+	margin-left:0;
+}
+.dropdown-category{
+	float:none;
+}
+.bottom-logo{
+	float:right;
+}
+
+/*BOF  HEADER */
+
+/* BOF ADD BUSINESS */
+.business-form .col-md-6, .business-form .col-md-4, .business-form .col-md-2{
+	float:right;
+}
+.business-form input {
+    margin-left: 0em;
+	margin-right: .4em;
+}
+/* EOF ADD BUSINESS */
+
+/* BOF BUSINESS LISTING */
+.sort {
+    float: left;
+}
+
+.breadcrumb {
+    float: right;
+    width: auto;
+}
+.specify-caption{
+	margin:0 1rem 2rem;
+	float:right;
+}
+.list-box .col-md-9{
+	float:left;
+	width:100%;
+}
+.list-box .col-md-3{
+	float:right;
+}
+a.company-name-header{
+	float:right;
+	margin: .5em 0 1em;
+}
+.icons{
+	right:calc(100% - 100px)
+}
+.street-name{
+	float:none;
+}
+/* BOF BUSINESS LISTING */
+
+/* BOF BUSINESS DETAILS */
+._Detail_slider{
+	float:right;
+}
+a.write-review {
+    padding: 0.7em;
+    display: inline-block;
+}
+a.add-photo, a.share{
+	display: inline-block;
+}
+.company-name h2{
+	float:right !important
+}
+.top-rated{
+	float:right;
+}
+.action-holder {
+    float: left;
+}
+._Map_holder{
+	float:right;
+}
+.span_claimed{
+	float:left;
+}
+.d-box-div1{
+	float:right;
+}
+._Rev_NAV{
+	float:right;
+}
+._Rev_NAV_det{
+	float:right;
+}
+.view-all{
+	float:left !important;
+}
+.slider-cap h2 {
+    float: right;
+}
+.foto-div{
+	float:right;
+}
+.slider-control {
+    float: left;
+}
+ul.side_nav li.active {
+    border-right: .3em solid #e40046;
+	border-left: .1em solid #ccc;
+	
+}
+
+/* EOF BUSINESS DETAILS */
+
+/* BOF POST A BUSINESS  */
+
+.reg-sidebar{
+	float:left;
+}
+.page-content{
+	float:right;
+	width:100%;
+}
+.form-horizontal .control-label{
+	float:right;
+	text-align:left;
+}
+._INP_R{
+	float:right;
+	width:100%;
+}
+.list-check{
+	text-align:right;
+}
+/* EOF POST A BUSINESS  */
+
+/*  BOF FIND FRIENDS */
+.vertical-click{
+	float:right;
+}
+.vertical-click ul li.active {
+    border-left: 0px solid #dd0825;
+	 border-right: 5px solid #dd0825;
+	 border-radius: 0 5px 5px 0;
+}
+.friend-search button {
+    
+    border-radius: 5px 0px 0px 5px;
+    right: -4px; 
+	float:right;
+   
+}
+.vertical-content{
+	padding-right:15px; 
+}
+.row.tab-content.vertical-content a{
+	float:right;
+}
+.friend-search h4{
+	text-align:right;
+}
+.friend-search input{
+	float:right;
+}
+/*  EOF FIND FRIENDS */
+
+/*BOF  EVENT PAGE */
+.nav-tabs li{
+	float:right;
+}
+.offer_holder{
+	float:right;
+}
+.detai_section{
+	float:right;
+}
+.event_detail_section{
+	float:right;
+}
+.descreption {
+    margin-left: 0%; 
+	margin-right: 4%; 
+}
+.addectional_setting {
+    margin-left: 0%;
+	margin-right: 2%;
+}
+.descreption label {
+    float: right;
+}
+.private input[type='text']{
+	float:right !important
+}
+.public input[type='text']{
+	float:right !important
+}
+/*BOF  EVENT PAGE */
+
+/*BOF  MYPAGE */
+.profile-pic-holder {
+    float: right !important;
+    position: relative;
+}
+.profile-actions{
+	right:90% !important;
+}
+.profile-tab {
+    float: left !important;    
+}
+._PCH_LSec{
+	float:right;
+}
+.profile-about-right ul li {
+    border-radius: 0em 10rem 10rem 0em !important;
+}
+.r-a-box1{
+	float:right !important;
+}
+.ra-left{
+	float:right !important;
+}
+.ra-right {
+    float: left !important;
+}
+.profile-about-right{
+	float:left !important
+}
+._PA_right{
+	float:left !important;
+}
+.icon-round{
+	float:right !important;
+}
+profile-about-right ul li p {
+    float: right !important;
+    padding: .5em 1.5em 0 0em !important;
+}
+.tech-support{
+ 
+}
+/*BOF  MYPAGE */
+
+/* BOF MESSAGES  */
+.btn_CPSE{
+	float:left !important;
+}
+._TA_R{
+	text-align:right;
+}
+span.trending.abut{
+	float:right !important;
+}
+
+/* EOF MESSAGES  */
+.about_holder h3{
+	font-size:16px;
+	margin:10px 0;
+}
+.about_holder h2{
+	font-size:16px;
+	margin:10px 0;
+}
+.conta_col1 {
+    float: right;
+    margin-right: 0%;
+	margin-left: 6%;
+}
+/* LE 13-02-2018 */
+.open-now-box img{
+	float:right;
+}

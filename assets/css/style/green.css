@@ -1,0 +1,126 @@
+/*
+ * LaraClassified - Geo Classified Ads CMS
+ * Copyright (c) Mayeul Akpovi. All Rights Reserved
+ *
+ * Email: mayeul.a@larapen.com
+ * Website: http://larapen.com
+ *
+ * LICENSE
+ * -------
+ * This software is furnished under a license and may be used and copied
+ * only in accordance with the terms of such license and with the inclusion
+ * of the above copyright notice. If you Purchased from Codecanyon,
+ * Please read the full License from here - http://codecanyon.net/licenses/standard
+ */
+@charset "utf-8";
+
+a {
+	color: #228B22;
+}
+
+a:hover, a:focus {
+	color: #FA7722;
+}
+
+.link-color {
+	color: #228B22;
+}
+
+::selection {
+	color: #fff;
+	background: #228B22;
+}
+
+::-moz-selection {
+	color: #fff;
+	background: #228B22;
+}
+
+.pace .pace-progress {
+	background: #228B22;
+}
+
+.search-row-wrapper {
+	background: #228B22;
+}
+
+.intro {
+	background: #228B22;
+}
+
+.pricetag {
+	background: #228B22;
+}
+
+.pricetag::before {
+	border-top-color: #217321;
+}
+
+.btn-primary {
+	background-color: #228B22;
+	border-color: #228B22;
+	color: #fff;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
+	background-color: #228B22;
+	border-color: #228B22;
+	color: #FFFFFF;
+}
+
+.btn-primary-dark {
+	background-color: #1f731f;
+	border-color: #1f731f;
+	color: #fff;
+}
+
+.btn-primary-dark:hover, .btn-primary-dark:focus, .btn-primary-dark:active, .btn-primary-dark.active, .open .dropdown-toggle.btn-primary-dark {
+	background-color: #228B22;
+	border-color: #228B22;
+	color: #FFFFFF;
+}
+
+.btn-info.disabled, .btn-info[disabled], fieldset[disabled] .btn-info, .btn-info.disabled:hover, .btn-info[disabled]:hover, fieldset[disabled] .btn-info:hover, .btn-info.disabled:focus, .btn-info[disabled]:focus, fieldset[disabled] .btn-info:focus, .btn-info.disabled:active, .btn-info[disabled]:active, fieldset[disabled] .btn-info:active, .btn-info.disabled.active, .btn-info.active[disabled], fieldset[disabled] .btn-info.active {
+	background-color: #239923;
+}
+
+.form-control:focus {
+	border-color: #16a185;
+	box-shadow: 0 1px 0 #16a185, 0 -1px 0 #16a185, -1px 0 0 #16a185, 1px 0 0 #16a185;
+	outline: 0 none;
+}
+
+.logo, .logo-title {
+	color: #228B22;
+}
+
+.cat-list h3 a, .cat-list h3 {
+	color: #228B22;
+}
+
+.cat-list ul li a:hover, .cat-list a:hover {
+	color: #1b601b;
+}
+
+.list-filter ul li p.maxlist-more a {
+	color: #207520;
+}
+
+ul.list-link li a:hover {
+	color: #1b601b;
+}
+
+.thumb-item-link:focus {
+	-webkit-box-shadow: 0 0 2px #207520;
+	-moz-box-shadow: 0 0 2px #207520;
+	box-shadow: 0 0 2px #207520;
+	outline: none;
+}
+
+.thumb-item-link.active {
+	border-bottom: 4px solid #207520;
+}
+
+.page-bottom-info {
+	background: #228B22;
+}

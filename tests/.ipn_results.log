@@ -1,0 +1,186 @@
+[04/26/2017 12:39 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[04/26/2017 12:40 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+payment_type=instant, payment_date=Wed Apr 26 2017 18:10:05 GMT+0530 (India Standard Time), payment_status=Completed, payer_status=verified, first_name=John, last_name=Smith, payer_email=buyer@paypalsandbox.com, payer_id=TESTBUYERID01, address_name=John Smith, address_country=United States, address_country_code=US, address_zip=95131, address_state=CA, address_city=San Jose, address_street=123 any street, business=seller@paypalsandbox.com, receiver_email=seller@paypalsandbox.com, receiver_id=seller@paypalsandbox.com, residence_country=US, item_name1=something, item_number1=AK-1234, quantity=1, shipping=3.04, tax=2.02, mc_currency=USD, mc_fee=0.44, mc_gross=12.34, mc_gross_1=12.34, mc_handling=2.06, mc_handling1=1.67, mc_shipping=3.02, mc_shipping1=1.02, txn_type=cart, txn_id=899327589, notify_version=2.4, custom=xyz123, invoice=abc1234, test_ipn=1, verify_sign=AiPC9BjkCyDFQXbSkoZcgqH3hpacAa8kIxdVuTi9cmQg3nJqVKUmslvC, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[04/26/2017 1:04 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[04/26/2017 1:12 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=2.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=GFJFS84BHV7X4, address_street=Flat no. 507 Wing A Raheja Residency
+Film City Road, Goregaon East, payment_date=06:12:21 Apr 26, 2017 PDT, payment_status=Pending, charset=windows-1252, address_zip=400097, first_name=test, mc_fee=0.38, address_country_code=IN, address_name=test buyer, notify_version=3.8, custom=, payer_status=verified, business=yaagle_1225955852_biz@yahoo.com, address_country=India, address_city=Mumbai, quantity=1, verify_sign=AiPC9BjkCyDFQXbSkoZcgqH3hpacA-POGdN21mvNT5V2dHsF8H6RT5J0, payer_email=vineeth_clm-buyer@yahoo.com, txn_id=98Y483421Y505593F, payment_type=instant, last_name=buyer, address_state=Maharashtra, receiver_email=yaagle_1225955852_biz@yahoo.com, payment_fee=0.38, receiver_id=BWDV4324CNR5Y, pending_reason=paymentreview, txn_type=web_accept, item_name=Gift card, mc_currency=USD, item_number=, residence_country=IN, test_ipn=1, transaction_subject=, payment_gross=2.00, ipn_track_id=7c8d2df77f402, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[04/26/2017 1:15 PM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=2.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=GFJFS84BHV7X4, address_street=Flat no. 507 Wing A Raheja Residency
+Film City Road, Goregaon East, payment_date=06:15:37 Apr 26, 2017 PDT, payment_status=Pending, charset=windows-1252, address_zip=400097, first_name=test, mc_fee=0.38, address_country_code=IN, address_name=test buyer, notify_version=3.8, custom=, payer_status=verified, business=yaagle_1225955852_biz@yahoo.com, address_country=India, address_city=Mumbai, quantity=1, verify_sign=AB8uKJ-cgis5XVZJfu8yXdO6dhrpAosUxOMtgEkXFUlfP7dMQye670dK, payer_email=vineeth_clm-buyer@yahoo.com, txn_id=1K939331CH2517918, payment_type=instant, last_name=buyer, address_state=Maharashtra, receiver_email=yaagle_1225955852_biz@yahoo.com, payment_fee=0.38, receiver_id=BWDV4324CNR5Y, pending_reason=paymentreview, txn_type=web_accept, item_name=Gift card, mc_currency=USD, item_number=, residence_country=IN, test_ipn=1, transaction_subject=, payment_gross=2.00, ipn_track_id=448f26e132404, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[04/27/2017 4:26 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=2.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=M8KWS63SFGJEE, address_street=New Kalavathu Line, payment_date=21:26:02 Apr 26, 2017 PDT, payment_status=Pending, charset=windows-1252, address_zip=682025, first_name=Sree, mc_fee=0.38, address_country_code=IN, address_name=Sree Hari, notify_version=3.8, custom=, payer_status=unverified, business=yaagle_1225955852_biz@yahoo.com, address_country=India, address_city=Palarivattom, quantity=1, verify_sign=AzpDr76UYbFV6.q9Y8haEP5lm4s1AV.Pz61-5TQRNnMhKNiXUWGLb7ig, payer_email=sreeharis@shrishtionline.com, txn_id=5SL20357EB870372V, payment_type=instant, last_name=Hari, address_state=Kerala, receiver_email=yaagle_1225955852_biz@yahoo.com, payment_fee=0.38, receiver_id=BWDV4324CNR5Y, pending_reason=paymentreview, txn_type=web_accept, item_name=Gift card, mc_currency=USD, item_number=, residence_country=IN, test_ipn=1, transaction_subject=, payment_gross=2.00, ipn_track_id=c696456349918, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[04/27/2017 5:17 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+mc_gross=2.00, protection_eligibility=Ineligible, address_status=confirmed, payer_id=GFJFS84BHV7X4, address_street=Flat no. 507 Wing A Raheja Residency
+Film City Road, Goregaon East, payment_date=22:16:56 Apr 26, 2017 PDT, payment_status=Pending, charset=windows-1252, address_zip=400097, first_name=test, mc_fee=0.38, address_country_code=IN, address_name=test buyer, notify_version=3.8, custom=, payer_status=verified, business=yaagle_1225955852_biz@yahoo.com, address_country=India, address_city=Mumbai, quantity=1, verify_sign=AB8uKJ-cgis5XVZJfu8yXdO6dhrpAWJ68qlxZ7OGtX7gaCdMTor-b5Yw, payer_email=vineeth_clm-buyer@yahoo.com, txn_id=38T42931L8960834H, payment_type=instant, last_name=buyer, address_state=Maharashtra, receiver_email=yaagle_1225955852_biz@yahoo.com, payment_fee=0.38, receiver_id=BWDV4324CNR5Y, pending_reason=paymentreview, txn_type=web_accept, item_name=Gift card, mc_currency=USD, item_number=, residence_country=IN, test_ipn=1, transaction_subject=, payment_gross=2.00, ipn_track_id=456db3d1efda, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[04/27/2017 5:43 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[04/27/2017 5:43 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[04/27/2017 5:44 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[04/27/2017 5:44 AM] - FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[Time Now]FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[Time Now]FAIL: IPN Validation Failed.
+IPN POST Vars from Paypal:
+payment_type=instant, payment_date=Thu Apr 27 2017 11:12:44 GMT+0530 (India Standard Time), payment_status=Completed, address_status=confirmed, payer_status=verified, first_name=John, last_name=Smith, payer_email=buyer@paypalsandbox.com, payer_id=TESTBUYERID01, address_name=John Smith, address_country=United States, address_country_code=US, address_zip=95131, address_state=CA, address_city=San Jose, address_street=123 any street, business=seller@paypalsandbox.com, receiver_email=seller@paypalsandbox.com, receiver_id=seller@paypalsandbox.com, residence_country=US, item_name=something, item_number=AK-1234, quantity=1, shipping=3.04, tax=2.02, mc_currency=USD, mc_fee=0.44, mc_gross=12.34, mc_gross_1=9.34, txn_type=web_accept, txn_id=682352300, notify_version=2.1, custom=xyz123, invoice=abc1234, test_ipn=1, verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31AyT9RzByt7p1oICUf4H5TD1d6X1o, 
+IPN Response from Paypal Server:
+ HTTP/1.0 302 Found
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+
+[Time Now]FAIL: fsockopen error no. : 
+IPN POST Vars from Paypal:
+mc_gross=2.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=GFJFS84BHV7X4, tax=0.00, address_street=Flat no. 507 Wing A Raheja Residency
+Film City Road, Goregaon East, payment_date=06:12:21 Apr 26, 2017 PDT, payment_status=Completed, charset=windows-1252, address_zip=400097, first_name=test, mc_fee=0.38, address_country_code=IN, address_name=test buyer, notify_version=3.8, custom=, payer_status=verified, business=yaagle_1225955852_biz@yahoo.com, address_country=India, address_city=Mumbai, quantity=1, verify_sign=Ai.5bQT0IEOAwZz0G2AWlZ32DvJdARuTBI5w2kMY4qhaQOkPGwZha7jU, payer_email=vineeth_clm-buyer@yahoo.com, txn_id=98Y483421Y505593F, payment_type=instant, last_name=buyer, address_state=Maharashtra, receiver_email=yaagle_1225955852_biz@yahoo.com, payment_fee=0.38, shipping_discount=0.00, insurance_amount=0.00, receiver_id=BWDV4324CNR5Y, txn_type=web_accept, item_name=Gift card, discount=0.00, mc_currency=USD, item_number=, residence_country=IN, test_ipn=1, shipping_method=Default, handling_amount=0.00, transaction_subject=, payment_gross=2.00, shipping=0.00, ipn_track_id=2b6eaec69d934, 
+IPN Response from Paypal Server:
+ 
+
+[Time Now]FAIL: fsockopen error no. : 
+IPN POST Vars from Paypal:
+mc_gross=2.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=GFJFS84BHV7X4, tax=0.00, address_street=Flat no. 507 Wing A Raheja Residency
+Film City Road, Goregaon East, payment_date=06:15:37 Apr 26, 2017 PDT, payment_status=Completed, charset=windows-1252, address_zip=400097, first_name=test, mc_fee=0.38, address_country_code=IN, address_name=test buyer, notify_version=3.8, custom=, payer_status=verified, business=yaagle_1225955852_biz@yahoo.com, address_country=India, address_city=Mumbai, quantity=1, verify_sign=AhEqPBa2LPCE3sKdenmfssNtAsh0ArMXLIu5SpLM8jU-fAWqhDvz51dg, payer_email=vineeth_clm-buyer@yahoo.com, txn_id=1K939331CH2517918, payment_type=instant, last_name=buyer, address_state=Maharashtra, receiver_email=yaagle_1225955852_biz@yahoo.com, payment_fee=0.38, shipping_discount=0.00, insurance_amount=0.00, receiver_id=BWDV4324CNR5Y, txn_type=web_accept, item_name=Gift card, discount=0.00, mc_currency=USD, item_number=, residence_country=IN, test_ipn=1, shipping_method=Default, handling_amount=0.00, transaction_subject=, payment_gross=2.00, shipping=0.00, ipn_track_id=ec6a9c5997616, 
+IPN Response from Paypal Server:
+ 
+
+[Time Now]FAIL: fsockopen error no. : 
+IPN POST Vars from Paypal:
+mc_gross=2.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=M8KWS63SFGJEE, tax=0.00, address_street=New Kalavathu Line, payment_date=21:26:02 Apr 26, 2017 PDT, payment_status=Completed, charset=windows-1252, address_zip=682025, first_name=Sree, mc_fee=0.38, address_country_code=IN, address_name=Sree Hari, notify_version=3.8, custom=, payer_status=unverified, business=yaagle_1225955852_biz@yahoo.com, address_country=India, address_city=Palarivattom, quantity=1, verify_sign=AAZBo41292784GRQg0xxLmq7RGd-AEYfpJYZM.TtLcR3d-aeL1aFFPwO, payer_email=sreeharis@shrishtionline.com, txn_id=5SL20357EB870372V, payment_type=instant, last_name=Hari, address_state=Kerala, receiver_email=yaagle_1225955852_biz@yahoo.com, payment_fee=0.38, shipping_discount=0.00, insurance_amount=0.00, receiver_id=BWDV4324CNR5Y, txn_type=web_accept, item_name=Gift card, discount=0.00, mc_currency=USD, item_number=, residence_country=IN, test_ipn=1, shipping_method=Default, handling_amount=0.00, transaction_subject=, payment_gross=2.00, shipping=0.00, ipn_track_id=49fbbff70103, 
+IPN Response from Paypal Server:
+ 
+
+[Time Now]FAIL: fsockopen error no. : 
+IPN POST Vars from Paypal:
+mc_gross=2.00, protection_eligibility=Eligible, address_status=confirmed, payer_id=GFJFS84BHV7X4, tax=0.00, address_street=Flat no. 507 Wing A Raheja Residency
+Film City Road, Goregaon East, payment_date=22:16:56 Apr 26, 2017 PDT, payment_status=Completed, charset=windows-1252, address_zip=400097, first_name=test, mc_fee=0.38, address_country_code=IN, address_name=test buyer, notify_version=3.8, custom=, payer_status=verified, business=yaagle_1225955852_biz@yahoo.com, address_country=India, address_city=Mumbai, quantity=1, verify_sign=AyVuUcpetZUWCXV.EHq.qRhxEb6.A2pM.jltmzeFPHACmYZ-tFeIwIsv, payer_email=vineeth_clm-buyer@yahoo.com, txn_id=38T42931L8960834H, payment_type=instant, last_name=buyer, address_state=Maharashtra, receiver_email=yaagle_1225955852_biz@yahoo.com, payment_fee=0.38, shipping_discount=0.00, insurance_amount=0.00, receiver_id=BWDV4324CNR5Y, txn_type=web_accept, item_name=Gift card, discount=0.00, mc_currency=USD, item_number=, residence_country=IN, test_ipn=1, shipping_method=Default, handling_amount=0.00, transaction_subject=, payment_gross=2.00, shipping=0.00, ipn_track_id=d8b7fe8e6f6ef, 
+IPN Response from Paypal Server:
+ 
+

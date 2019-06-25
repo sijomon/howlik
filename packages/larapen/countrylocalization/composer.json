@@ -1,0 +1,18 @@
+{
+  "name": "larapen/laravel-country-localization",
+  "description": "Country and language localization using geonames.org database, 'pulkitjalan/geoip' package, browser system infos and 'mcamara/laravel-localization'. Just a great stuff!",
+  "require": {
+	"mcamara/laravel-localization": "1.1.*",
+	"pulkitjalan/geoip": "2.*",
+	"laracasts/flash": "*",
+	"jaybizzle/crawler-detect": "1.*"
+  },
+  "license": "MIT",
+  "authors": [
+	{
+	  "name": "Mayeul Akpovi",
+	  "email": "mayeul.a@larapen.com"
+	}
+  ],
+  "minimum-stability": "dev"
+}

@@ -1,0 +1,255 @@
+-- MySQL dump 10.13  Distrib 5.5.42, for osx10.6 (i386)
+--
+-- Host: localhost    Database: laraclassified
+-- ------------------------------------------------------
+-- Server version	5.5.42
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Dumping data for table `subadmin1`
+--
+
+/*!40000 ALTER TABLE `subadmin1` DISABLE KEYS */;
+INSERT INTO `subadmin1` VALUES (147,'AZ.01','Abşeron','Abseron',1);
+INSERT INTO `subadmin1` VALUES (148,'AZ.02','Ağcabǝdi','Aghjabadi Rayon',1);
+INSERT INTO `subadmin1` VALUES (149,'AZ.03','Ağdam','Agdam',1);
+INSERT INTO `subadmin1` VALUES (150,'AZ.04','Ağdaş','Agdas',1);
+INSERT INTO `subadmin1` VALUES (151,'AZ.05','Ağstafa','Agstafa',1);
+INSERT INTO `subadmin1` VALUES (152,'AZ.06','Ağsu','Agsu',1);
+INSERT INTO `subadmin1` VALUES (153,'AZ.07','Shirvan','Shirvan',1);
+INSERT INTO `subadmin1` VALUES (154,'AZ.08','Astara','Astara',1);
+INSERT INTO `subadmin1` VALUES (155,'AZ.09','Baki','Baki',1);
+INSERT INTO `subadmin1` VALUES (156,'AZ.10','Balakǝn','Balakan Rayon',1);
+INSERT INTO `subadmin1` VALUES (157,'AZ.11','Bǝrdǝ','Barda Rayon',1);
+INSERT INTO `subadmin1` VALUES (158,'AZ.12','Beyləqan','Beylaqan',1);
+INSERT INTO `subadmin1` VALUES (159,'AZ.13','Bilǝsuvar','Bilasuvar Rayon',1);
+INSERT INTO `subadmin1` VALUES (160,'AZ.14','Cǝbrayıl','Cabrayil Rayonu',1);
+INSERT INTO `subadmin1` VALUES (161,'AZ.15','Jalilabad','Jalilabad',1);
+INSERT INTO `subadmin1` VALUES (162,'AZ.16','Daşkǝsǝn','Dashkasan Rayon',1);
+INSERT INTO `subadmin1` VALUES (163,'AZ.17','Shabran','Shabran',1);
+INSERT INTO `subadmin1` VALUES (164,'AZ.18','Füzuli','Fuezuli',1);
+INSERT INTO `subadmin1` VALUES (165,'AZ.19','Gǝdǝbǝy','Gadabay Rayon',1);
+INSERT INTO `subadmin1` VALUES (166,'AZ.20','Gǝncǝ','Ganja City',1);
+INSERT INTO `subadmin1` VALUES (167,'AZ.21','Goranboy','Goranboy',1);
+INSERT INTO `subadmin1` VALUES (168,'AZ.22','Göyçay','Goeycay',1);
+INSERT INTO `subadmin1` VALUES (169,'AZ.23','Hacıqabul','Haciqabul',1);
+INSERT INTO `subadmin1` VALUES (170,'AZ.24','İmişli','Imisli',1);
+INSERT INTO `subadmin1` VALUES (171,'AZ.25','İsmayıllı','Ismayilli',1);
+INSERT INTO `subadmin1` VALUES (172,'AZ.26','Kǝlbǝcǝr','Kalbacar Rayonu',1);
+INSERT INTO `subadmin1` VALUES (173,'AZ.27','Kürdǝmir','Kurdamir Rayon',1);
+INSERT INTO `subadmin1` VALUES (174,'AZ.28','Laçın','Lacin',1);
+INSERT INTO `subadmin1` VALUES (175,'AZ.29','Lənkəran','Lankaran',1);
+INSERT INTO `subadmin1` VALUES (176,'AZ.30','Lankaran Sahari','Lankaran Sahari',1);
+INSERT INTO `subadmin1` VALUES (177,'AZ.31','Lerik','Lerik',1);
+INSERT INTO `subadmin1` VALUES (178,'AZ.32','Masally','Masally',1);
+INSERT INTO `subadmin1` VALUES (179,'AZ.33','Mingǝcevir','Mingacevir City',1);
+INSERT INTO `subadmin1` VALUES (180,'AZ.34','Naftalan','Naftalan',1);
+INSERT INTO `subadmin1` VALUES (181,'AZ.35','Nakhichevan','Nakhichevan',1);
+INSERT INTO `subadmin1` VALUES (182,'AZ.36','Neftçala','Neftcala',1);
+INSERT INTO `subadmin1` VALUES (183,'AZ.37','Oğuz','Oguz',1);
+INSERT INTO `subadmin1` VALUES (184,'AZ.38','Qǝbǝlǝ','Qabala Rayon',1);
+INSERT INTO `subadmin1` VALUES (185,'AZ.39','Qǝx','Qakh Rayon',1);
+INSERT INTO `subadmin1` VALUES (186,'AZ.40','Qazax','Qazax',1);
+INSERT INTO `subadmin1` VALUES (187,'AZ.41','Qobustan','Qobustan',1);
+INSERT INTO `subadmin1` VALUES (188,'AZ.42','Quba','Quba',1);
+INSERT INTO `subadmin1` VALUES (189,'AZ.43','Qubadlı','Qubadli',1);
+INSERT INTO `subadmin1` VALUES (190,'AZ.44','Qusar','Qusar',1);
+INSERT INTO `subadmin1` VALUES (191,'AZ.45','Saatlı','Saatli',1);
+INSERT INTO `subadmin1` VALUES (192,'AZ.46','Sabirabad','Sabirabad',1);
+INSERT INTO `subadmin1` VALUES (193,'AZ.47','Şǝki','Shaki Rayon',1);
+INSERT INTO `subadmin1` VALUES (194,'AZ.48','Shaki City','Shaki City',1);
+INSERT INTO `subadmin1` VALUES (195,'AZ.49','Salyan','Salyan',1);
+INSERT INTO `subadmin1` VALUES (196,'AZ.50','Şamaxı','Samaxi',1);
+INSERT INTO `subadmin1` VALUES (197,'AZ.51','Şǝmkir','Shamkir Rayon',1);
+INSERT INTO `subadmin1` VALUES (198,'AZ.52','Samux','Samux',1);
+INSERT INTO `subadmin1` VALUES (199,'AZ.53','Siyǝzǝn','Siazan Rayon',1);
+INSERT INTO `subadmin1` VALUES (200,'AZ.54','Sumqayit','Sumqayit',1);
+INSERT INTO `subadmin1` VALUES (201,'AZ.55','Şuşa','Susa',1);
+INSERT INTO `subadmin1` VALUES (202,'AZ.56','Şuşa Şəhəri','Shusha',1);
+INSERT INTO `subadmin1` VALUES (203,'AZ.57','Tǝrtǝr','Tartar Rayon',1);
+INSERT INTO `subadmin1` VALUES (204,'AZ.58','Tovuz','Tovuz',1);
+INSERT INTO `subadmin1` VALUES (205,'AZ.59','Ucar','Ucar',1);
+INSERT INTO `subadmin1` VALUES (206,'AZ.60','Xaçmaz','Xacmaz',1);
+INSERT INTO `subadmin1` VALUES (207,'AZ.61','Xankǝndi','Xankandi Sahari',1);
+INSERT INTO `subadmin1` VALUES (208,'AZ.62','Goygol Rayon','Goygol Rayon',1);
+INSERT INTO `subadmin1` VALUES (209,'AZ.63','Xızı','Xizi',1);
+INSERT INTO `subadmin1` VALUES (210,'AZ.64','Xocalı','Xocali',1);
+INSERT INTO `subadmin1` VALUES (211,'AZ.65','Xocavǝnd','Xocavand Rayonu',1);
+INSERT INTO `subadmin1` VALUES (212,'AZ.66','Yardımlı','Yardimli',1);
+INSERT INTO `subadmin1` VALUES (213,'AZ.67','Yevlax','Yevlax',1);
+INSERT INTO `subadmin1` VALUES (214,'AZ.68','Yevlax City','Yevlax City',1);
+INSERT INTO `subadmin1` VALUES (215,'AZ.69','Zǝngilan','Zangilan Rayon',1);
+INSERT INTO `subadmin1` VALUES (216,'AZ.70','Zaqatala','Zaqatala',1);
+INSERT INTO `subadmin1` VALUES (217,'AZ.71','Zərdab','Zardab',1);
+INSERT INTO `subadmin1` VALUES (218,'AZ.75','Nakhchivan','Nakhchivan',1);
+/*!40000 ALTER TABLE `subadmin1` ENABLE KEYS */;
+
+--
+-- Dumping data for table `subadmin2`
+--
+
+/*!40000 ALTER TABLE `subadmin2` DISABLE KEYS */;
+INSERT INTO `subadmin2` VALUES (1846,'AZ.01.585638','Leninskiy Rayon','Leninskiy Rayon',1);
+INSERT INTO `subadmin2` VALUES (1847,'AZ.01.585882','Kirovskiy Rayon','Kirovskiy Rayon',1);
+INSERT INTO `subadmin2` VALUES (1848,'AZ.09.585039','Shaumyanovskiy Rayon','Shaumyanovskiy Rayon',1);
+INSERT INTO `subadmin2` VALUES (1849,'AZ.09.585320','Ordzhonikidzevskiy Rayon))','Ordzhonikidzevskiy Rayon',1);
+INSERT INTO `subadmin2` VALUES (1850,'AZ.09.585328','Oktyabr\'skiy Rayon','Oktyabr\'skiy Rayon',1);
+INSERT INTO `subadmin2` VALUES (1851,'AZ.09.585358','Nizaminskiy Rayon','Nizaminskiy Rayon',1);
+INSERT INTO `subadmin2` VALUES (1852,'AZ.09.586209','Qaradağ Rayonu','Qaradag Rayonu',1);
+INSERT INTO `subadmin2` VALUES (1853,'AZ.09.586342','Imeni Dvadtsati Shesti Bakinskikh Komissarov Rayon','Imeni Dvadtsati Shesti Bakinskikh Komissarov Rayon',1);
+INSERT INTO `subadmin2` VALUES (1854,'AZ.09.7669203','Khatai raion','Khatai raion',1);
+INSERT INTO `subadmin2` VALUES (1855,'AZ.09.8572651','Nizami Rayonu','Nizami Rayonu',1);
+INSERT INTO `subadmin2` VALUES (1856,'AZ.21.585038','Shaumyan Rayon','Shaumyan Rayon',1);
+INSERT INTO `subadmin2` VALUES (1857,'AZ.35.147212','Shahbuz Rayon','Shahbuz Rayon',1);
+INSERT INTO `subadmin2` VALUES (1858,'AZ.35.147365','Ordubad Rayon','Ordubad Rayon',1);
+INSERT INTO `subadmin2` VALUES (1859,'AZ.35.147997','Sharur Rayon','Sharur Rayon',1);
+INSERT INTO `subadmin2` VALUES (1860,'AZ.35.148132','Julfa Rayon','Julfa Rayon',1);
+INSERT INTO `subadmin2` VALUES (1861,'AZ.35.148412','Nakhchivan City','Nakhchivan City',1);
+INSERT INTO `subadmin2` VALUES (1862,'AZ.35.409387','Sadarak Rayon','Sadarak Rayon',1);
+INSERT INTO `subadmin2` VALUES (1863,'AZ.35.7669114','Babek Rayon','Babek Rayon',1);
+INSERT INTO `subadmin2` VALUES (1864,'AZ.35.8014931','Kangarli Rayon','Kangarli Rayon',1);
+INSERT INTO `subadmin2` VALUES (1865,'AZ.57.585509','Mirbǝşir Rayonu','Mirbasir Rayonu',1);
+/*!40000 ALTER TABLE `subadmin2` ENABLE KEYS */;
+
+--
+-- Dumping data for table `cities`
+--
+
+/*!40000 ALTER TABLE `cities` DISABLE KEYS */;
+INSERT INTO `cities` VALUES (146862,'AZ','Prishibinskoye','Prishibinskoye',48.5925,39.1182,'P','PPL','15','',13340,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (146901,'AZ','Zangilan','Zangilan',46.6513,39.0884,'P','PPLA','69','',7483,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (146958,'AZ','Yaycı','Yayci',45.7319,38.9427,'P','PPL','35','',8500,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (146961,'AZ','Yardımlı','Yardimli',48.2405,38.9077,'P','PPLA','66','',4004,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (146969,'AZ','Novyy Karanlug','Novyy Karanlug',47.1099,39.7955,'P','PPLA','65','',5079,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (146970,'AZ','Xankandi','Xankandi',46.7528,39.8177,'P','PPL','61','',53100,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (147059,'AZ','Əhmədbəyli','Ahmadbayli',48.399,39.8787,'P','PPL','45','',17242,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (147105,'AZ','Shushi','Shushi',46.7499,39.7601,'P','PPLA','55','',18662,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (147271,'AZ','Salyan','Salyan',48.9848,39.5962,'P','PPLA','49','',36555,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (147288,'AZ','Saatlı','Saatli',48.3689,39.9321,'P','PPLA','45','',87000,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (147305,'AZ','Qubadlı','Qubadli',46.5818,39.3444,'P','PPLA','43','',6890,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (147368,'AZ','Ordubad','Ordubad',46.0234,38.9059,'P','PPLA2','35','',9781,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (147425,'AZ','Neftçala','Neftcala',49.247,39.3768,'P','PPLA','36','',18661,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (147429,'AZ','Nakhchivan','Nakhchivan',45.4122,39.2089,'P','PPLA','35','',64754,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (147504,'AZ','Mincivan','Mincivan',46.7214,39.0306,'P','PPL','69','',6353,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (147552,'AZ','Masally','Masally',48.6654,39.0353,'P','PPLA','32','',9604,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (147611,'AZ','Lerik','Lerik',48.415,38.7739,'P','PPLA','31','',7094,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (147622,'AZ','Lankaran','Lankaran',48.8506,38.7543,'P','PPLA','29','',240300,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (147625,'AZ','Laçın','Lacin',46.5504,39.5988,'P','PPLA','28','',2300,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (147774,'AZ','Xocalı','Xocali',46.7903,39.913,'P','PPLA','64','',5810,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (147982,'AZ','Imishli','Imishli',48.06,39.8709,'P','PPLA','24','',34178,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (148106,'AZ','Fizuli','Fizuli',47.1453,39.6009,'P','PPLA','18','',26765,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (148141,'AZ','Jebrail','Jebrail',47.0284,39.3992,'P','PPLA','14','',8396,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (148177,'AZ','Dünyamalılar','Dunyamalilar',47.7589,39.7728,'P','PPL','12','',5968,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (148251,'AZ','Culfa','Culfa',45.6308,38.9558,'P','PPLA2','35','',10820,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (148290,'AZ','Dzhalilabad','Dzhalilabad',48.4919,39.2096,'P','PPLA','15','',36259,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (148291,'AZ','Cahri','Cahri',45.4156,39.3484,'P','PPL','35','',8200,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (148323,'AZ','Boradigah','Boradigah',48.7092,38.9301,'P','PPL','32','',5904,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (148340,'AZ','Pushkino','Pushkino',48.545,39.4583,'P','PPLA','13','',18182,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (148354,'AZ','Beylagan','Beylagan',47.6186,39.7756,'P','PPLA','12','',15599,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (148375,'AZ','Severo-Vostotchnyi Bank','Severo-Vostotchnyi Bank',49.2479,39.4112,'P','PPL','36','',7075,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (148445,'AZ','Astara','Astara',48.875,38.456,'P','PPLA','08','',15190,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (148565,'AZ','Şirvan','Sirvan',48.929,39.9378,'P','PPLA','07','',70220,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (148619,'AZ','Ağdam','Agdam',46.9274,39.991,'P','PPLA','03','',39451,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (393927,'AZ','Avşar','Avsar',47.4239,39.9739,'P','PPL','02','',5600,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (584562,'AZ','Zyrya','Zyrya',50.292,40.3661,'P','PPL','09','',10099,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (584586,'AZ','Zardob','Zardob',47.71,40.2199,'P','PPLA','71','',10612,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (584596,'AZ','Zaqatala','Zaqatala',46.6448,41.6316,'P','PPLA','70','',18277,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (584614,'AZ','Zabrat','Zabrat',49.9417,40.4775,'P','PPL','09','',21396,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (584649,'AZ','Yevlakh','Yevlakh',47.1501,40.6183,'P','PPLA','68','',59036,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (584715,'AZ','Xudat','Xudat',48.6816,41.6305,'P','PPL','60','',13625,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (584716,'AZ','Yelenendorf','Yelenendorf',46.3189,40.5858,'P','PPLA','62','',17816,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (584717,'AZ','Xaçmaz','Xacmaz',48.8056,41.4643,'P','PPLA','60','',37175,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (584791,'AZ','Ujar','Ujar',47.6542,40.519,'P','PPLA','59','',15741,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (584792,'AZ','Türkan','Turkan',50.2207,40.3646,'P','PPL','09','',9699,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (584821,'AZ','Tovuz','Tovuz',45.6284,40.9925,'P','PPLA','58','',12626,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (584871,'AZ','Terter','Terter',46.9324,40.3418,'P','PPLA','57','',18185,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (584923,'AZ','Sumqayıt','Sumqayit',49.6686,40.5897,'P','PPLA','54','',265150,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (584954,'AZ','Kyzyl-Burun','Kyzyl-Burun',49.1126,41.0775,'P','PPLA','53','',3,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585103,'AZ','Qaraçuxur','Qaracuxur',49.9736,40.3967,'P','PPL','09','',72989,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585145,'AZ','Saray','Saray',49.7168,40.533,'P','PPL','01','',10173,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585152,'AZ','Shamkhor','Shamkhor',46.0178,40.8298,'P','PPLA','51','',35421,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585156,'AZ','Shamakhi','Shamakhi',48.6414,40.6314,'P','PPLA','50','',29403,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585170,'AZ','Sheki','Sheki',47.1706,41.1919,'P','PPLA','48','',63000,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585177,'AZ','Samux','Samux',46.4087,40.7649,'P','PPLA','52','',6013,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585184,'AZ','Sabunçu','Sabuncu',49.9481,40.4425,'P','PPL','09','',20996,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585187,'AZ','Sabirabad','Sabirabad',48.477,40.0087,'P','PPLA','46','',28075,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585220,'AZ','Qusar','Qusar',48.4302,41.4275,'P','PPLA','44','',16022,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585221,'AZ','Quba','Quba',48.5134,41.3611,'P','PPLA','42','',22405,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585223,'AZ','Qobustan','Qobustan',49.412,40.0824,'P','PPL','09','',13398,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585225,'AZ','Hacıqabul','Haciqabul',48.9429,40.0387,'P','PPLA','23','',23102,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585226,'AZ','Qazax','Qazax',45.3656,41.0925,'P','PPLA','40','',18903,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585227,'AZ','Qax','Qax',46.9204,41.4183,'P','PPLA','39','',11992,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585231,'AZ','Qutqashen','Qutqashen',47.8491,40.9825,'P','PPLA','38','',11867,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585333,'AZ','Oğuz','Oguz',47.4653,41.0713,'P','PPLA','37','',6600,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585379,'AZ','Hacı Zeynalabdin','Haci Zeynalabdin',49.5586,40.6233,'P','PPL','54','',19019,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585388,'AZ','Nardaran','Nardaran',50.0056,40.5561,'P','PPL','09','',7700,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585400,'AZ','Naftalan','Naftalan',46.8203,40.5082,'P','PPLA','34','',7045,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585514,'AZ','Mingelchaur','Mingelchaur',47.0595,40.764,'P','PPLA','33','',95453,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585557,'AZ','Maştağa','Mastaga',50.0062,40.5298,'P','PPL','09','',40092,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585568,'AZ','Mardakyany','Mardakyany',50.1429,40.4918,'P','PPL','09','',15267,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585570,'AZ','Qobustan','Qobustan',48.9282,40.5336,'P','PPLA','41','',3754,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585630,'AZ','Lökbatan','Lokbatan',49.7338,40.3256,'P','PPL','09','',30694,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585666,'AZ','Qızılhacılı','Qizilhacili',46.849,40.5736,'P','PPL','21','',6330,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585763,'AZ','Kyurdarmir','Kyurdarmir',48.1508,40.3453,'P','PPLA','27','',19088,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585838,'AZ','Qobu','Qobu',49.7131,40.4047,'P','PPL','01','',7377,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585909,'AZ','Khyzy','Khyzy',49.0813,40.9058,'P','PPLA','63','',1024,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585915,'AZ','Khirdalan','Khirdalan',49.755,40.4481,'P','PPLA','01','',37949,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (585940,'AZ','Khodzhi-Gasan','Khodzhi-Gasan',49.769,40.4129,'P','PPL','09','',5089,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (586135,'AZ','Qarayeri','Qarayeri',46.3072,40.7882,'P','PPL','52','',5565,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (586268,'AZ','Kerbakhiar','Kerbakhiar',46.0445,40.1098,'P','PPLA','26','',8400,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (586318,'AZ','İsmayıllı','Ismayilli',48.1514,40.7849,'P','PPLA','25','',13610,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (586340,'AZ','Yeni Suraxanı','Yeni Suraxani',50.036,40.4303,'P','PPL','09','',16127,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (586427,'AZ','Geoktschai','Geoktschai',47.7422,40.6506,'P','PPLA','22','',35348,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (586429,'AZ','Hövsan','Hovsan',50.0853,40.3744,'P','PPL','09','',36293,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (586430,'AZ','Goranboy','Goranboy',46.7897,40.6103,'P','PPLA','21','',7333,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (586523,'AZ','Ganja','Ganja',46.3606,40.6828,'P','PPLA','20','',313300,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (586573,'AZ','Kyadabek','Kyadabek',45.8123,40.5705,'P','PPLA','19','',8657,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (586631,'AZ','Corat','Corat',49.7051,40.5718,'P','PPL','54','',8624,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (586652,'AZ','Ceyranbatan','Ceyranbatan',49.6607,40.5419,'P','PPL','01','',5684,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (586692,'AZ','Dzagam','Dzagam',45.8856,40.9033,'P','PPL','51','',7442,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (586763,'AZ','Divichibazar','Divichibazar',48.9871,41.2012,'P','PPLA','17','',23248,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (586765,'AZ','Yukhary-Dashkesan','Yukhary-Dashkesan',46.0819,40.5239,'P','PPLA','16','',9900,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (586845,'AZ','Çinarlı','Cinarli',46.9158,41.4697,'P','PPL','39','',6508,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (586925,'AZ','Buzovna','Buzovna',50.1144,40.519,'P','PPL','09','',24795,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (586967,'AZ','Binagadi','Binagadi',49.8278,40.466,'P','PPL','09','',14012,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (586968,'AZ','Biny Selo','Biny Selo',50.0869,40.4508,'P','PPL','09','',24596,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (586971,'AZ','Bilajer','Bilajer',50.04,40.5644,'P','PPL','09','',8983,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (587057,'AZ','Barda','Barda',47.1262,40.3758,'P','PPLA','11','',37372,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (587070,'AZ','Belokany','Belokany',46.4048,41.7263,'P','PPLA','10','',9182,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (587071,'AZ','Balakhani','Balakhani',49.9189,40.4634,'P','PPL','09','',10863,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (587078,'AZ','Bilajari','Bilajari',49.8057,40.4444,'P','PPL','09','',42194,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (587084,'AZ','Baku','Baku',49.892,40.3777,'P','PPLC','09','',1116513,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (587207,'AZ','Pirallahı','Pirallahi',50.3248,40.4701,'P','PPL','09','',13435,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (587261,'AZ','Amirdzhan','Amirdzhan',49.9836,40.4264,'P','PPL','09','',26798,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (587319,'AZ','Aliabad','Aliabad',46.6348,41.4829,'P','PPL','70','',9103,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (587361,'AZ','Aghsu','Aghsu',48.4009,40.5703,'P','PPLA','06','',17209,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (587362,'AZ','Aghstafa','Aghstafa',45.4539,41.1189,'P','PPLA','05','',12542,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (587378,'AZ','Ağdaş','Agdas',47.4738,40.647,'P','PPLA','04','',23528,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (587379,'AZ','Martakert','Martakert',46.8209,40.2124,'P','PPL','57','',10167,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (587384,'AZ','Agdzhabedy','Agdzhabedy',47.4594,40.0502,'P','PPLA','02','',34989,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (824003,'AZ','Bakıxanov','Bakixanov',49.9669,40.4189,'P','PPL','09','',66686,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (824050,'AZ','Aran','Aran',46.9756,40.6253,'P','PPL','67','',6724,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (863732,'AZ','Ramana','Ramana',49.9806,40.4422,'P','PPLX','09','',8855,'Asia/Baku',1,NULL,NULL);
+INSERT INTO `cities` VALUES (863761,'AZ','Badamdar','Badamdar',49.8045,40.3402,'P','PPL','09','',11398,'Asia/Baku',1,NULL,NULL);
+/*!40000 ALTER TABLE `cities` ENABLE KEYS */;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed

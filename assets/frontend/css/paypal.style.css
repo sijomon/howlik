@@ -1,0 +1,238 @@
+
+
+
+
+/*----------------------------------------------
+css settings for HTML div exactCenter
+------------------------------------------------*/
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+#main{
+width:960px;
+margin:50px auto;
+font-family:raleway;
+}
+
+span{
+color:red;
+}
+
+h2{
+background-color: #FEFFED;
+text-align:center;
+border-radius: 10px 10px 0 0;
+margin: -10px -40px;
+padding: 15px;
+}
+
+hr{
+border:0;
+border-bottom:1px solid #ccc;
+margin: 10px -40px;
+margin-bottom: 30px;
+}
+
+#container{
+height: 500px;
+width: 90%;
+float: left;
+border-radius: 10px;
+font-family:raleway;
+border: 2px solid #ccc;
+padding: 10px 40px 33px;
+margin-top: 23px;
+}
+
+input[type=text],input[type=password]{
+width:99.5%;
+padding: 10px;
+margin-top: 8px;
+border: 1px solid #ccc;
+padding-left: 5px;
+font-size: 16px;
+font-family:raleway;
+}
+
+input[type=submit]{
+width: 40%;
+background-color:#FFBC00;
+color: white;
+border: 2px solid #FFCB00;
+padding: 10px;
+font-size:20px;
+cursor:pointer;
+border-radius: 5px;
+}
+#left{
+background-color: rgb(254, 255, 237);
+width: 415px;
+height: 420px;
+float: left;
+border: 1px dashed rgb(215, 215, 215);
+box-shadow: 0px 5px 17px 1px #99A3AD, 0px 0px 40px #EEEEEE;
+}
+#right{
+width: 415px;
+float: right;
+height: 420px;
+border: 1px dashed rgb(215, 215, 215);
+box-shadow: 0px 5px 17px 1px #99A3AD, 0px 0px 40px #EEEEEE;
+}
+
+#left img{
+width: 383px;
+height: 289px;
+border: 1px dashed rgb(215, 215, 215);
+margin: 0 15px 10px 15px;
+}
+#left img:hover{
+opacity:.80;
+}
+
+#left p{
+font-size: 18px;
+margin-left: 128px;
+}
+#right p{
+padding: 20px;
+}
+#paypal_logo{
+margin: 10px 315px;
+float: right;
+}
+
+#results {
+width: 100%;
+margin-top: 30px;
+//border: 1px solid #ccc;
+table-layout: auto;
+margin-bottom: 30px;
+}
+table {
+border-collapse: collapse;
+border-spacing: 0;
+}
+thead {
+display: table-header-group;
+vertical-align: middle;
+border-color: inherit;
+}
+.head {
+font-size: 15px;
+font-family: "proxima_novasemibold", sans-serif;
+background: #FEFFED;
+color: #1d4c55;
+border: 1px solid #ccc;
+}
+tr {
+display: table-row;
+vertical-align: inherit;
+border-color: inherit;
+}
+.head th{
+//border-right: 1px solid #ccc;
+//border-bottom: 1px solid #ccc;
+line-height: normal;
+padding: 10px 0px;
+text-align: left;
+padding-left: 3%;
+}
+td {
+//border-right: 1px solid #ccc;
+border-bottom: 1px solid #ccc;
+line-height: normal;
+padding: 10px 0px;
+text-align: left;
+padding-left:3%;
+vertical-align: top;
+}
+
+tbody {
+display: table-row-group;
+vertical-align: middle;
+border-color: inherit;
+}
+tr {
+display: table-row;
+vertical-align: inherit;
+border-color: inherit;
+}
+
+#return {
+width: 492px;
+height: auto;
+float: left;
+border-radius: 10px;
+font-family: raleway;
+border: 2px solid #ccc;
+padding: 10px 40px 30px;
+margin-bottom: 50px;
+}
+#return h3#success {
+text-align: center;
+font-size: 24px;
+color: green;
+margin-bottom: 10px;
+}
+#return P {
+text-align: left;
+}
+#return .back_btn {
+margin-top: 30px;
+text-align: center;
+}
+#btn {
+width: 100%;
+background-color: #FFBC00;
+color: white;
+border: 2px solid #FFCB00;
+padding: 10px 70px;
+font-size: 20px;
+cursor: pointer;
+border-radius: 5px;
+margin-bottom: 15px;
+margin: 0 auto;
+}
+a{
+text-decoration:none;
+color: #33BADB;
+}
+.success_main_heading{
+margin-left: -40%;
+
+}
+#return h3#fail{
+text-align: center;
+font-size: 24px;
+margin-top: 50px;
+color: red;
+margin-bottom: 10px;
+}
+.red{
+color:red;
+font-weight: bold;
+}
+ul li{
+margin-bottom: 15px;
+text-align: justify;
+margin-right: 20px;
+}
+hr.style-four {
+margin-bottom: 10px;
+width: 300px;
+padding: 0;
+border: none;
+border-top: 1px solid rgba(0, 0, 0, 0.1);
+color: #333;
+text-align: center;
+}
+hr.style-four:after {
+content: "Note";
+display: inline-block;
+position: relative;
+top: -0.7em;
+font-size: 1em;
+padding: 0 0.25em;
+background: white;
+font-weight: 600;
+}
+

@@ -1,0 +1,30 @@
+{
+    "name": "mcamara/laravel-localization",
+    "description": "Easy localization for Laravel",
+    "keywords": ["localization", "laravel", "php"],
+    "homepage": "https://github.com/mcamara/laravel-localization",
+    "license": "MIT",
+    "version": "1.1.8",
+    "authors": [
+        {
+            "name": "Marc Cámara",
+            "email": "mcamara88@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "laravel/framework": "~5.2"
+    },
+    "require-dev": {
+        "orchestra/testbench": "3.2.*"
+    },
+    "autoload": {
+        "classmap": [
+        ],
+        "psr-0": {
+            "Mcamara\\LaravelLocalization": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}

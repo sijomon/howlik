@@ -1,0 +1,3151 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media (min-width:992px) and (max-width:1165px) {
+.main_wrapper {
+	overflow: hidden;
+}
+.container {
+	width: 99% !important;
+}
+.dropdown_holder {
+	width: 9%;
+}
+.wherein_dubai {
+	width: 18%;
+}
+.wherein_dubai input {
+	width: 85%;
+}
+span.down_arrow.cate_arrow {
+	margin-left: 40px;
+	height: 33px;
+}
+button.dropbtn.category_btn {
+	width: 125px;
+}
+.dropdown.categ {
+	width: 120px;
+}
+.category_holder {
+	width: 30%;
+}
+.category_holder input {
+	margin-left: 10px;
+	width: 50%
+}
+.category_holder {
+	height: 35px;
+	margin-left: 7px;
+}
+.dropdown-content.cate_con {
+	min-width: 278px;
+}
+.drop_wrapper {
+	width: 130px;
+}
+.drop_wrapper_two {
+	width: 130px;
+}
+.dropdown-content.cate_con a {
+	font-size: 12px;
+}
+.drop_wrapper span img {
+	width: 10px;
+}
+.drop_wrapper span {
+	margin-right: 8px;
+	width: 14px;
+}
+.Starbucks {
+	width: 30%;
+	height: 310px;
+	margin-right: 31px;
+}
+.last {
+	margin-right: 31px !important;
+}
+.jcarousel-control-prev {
+	display: none;
+}
+.jcarousel-control-next {
+	display: none;
+}
+.events_holder {
+	height: 580px;
+}
+.rating {
+	width: 50%;
+}
+.img_holder {
+	margin-right: 5%;
+}
+.scrol_wrapper {
+	width: 50%;
+	height: 528px;
+}
+.border {
+	width: 100%;
+}
+.product_list ul li {
+	width: 23%;
+	margin-right: 24px;
+}
+.domin_1 {
+	width: 55%;
+}
+.domin {
+	width: 42%;
+	margin-right: 25px;
+}
+.Trending_Deals ul li {
+	margin-right: 20px;
+}
+li.latst.marggin.bthh {
+	margin-right: 17px;
+}
+}
+@media (min-width:768px) and (max-width:991px) {
+.main_wrapper {
+	overflow: hidden;
+}
+.container {
+	width: 99% !important;
+}
+.dropdown_holder {
+	width: 11%;
+}
+.wherein_dubai {
+	width: 18%;
+}
+.wherein_dubai input {
+	width: 85%;
+}
+span.down_arrow.cate_arrow {
+	margin-left: 40px;
+	height: 33px;
+}
+button.dropbtn.category_btn {
+	width: 134px;
+}
+.dropdown.categ {
+	width: 120px;
+}
+.category_holder {
+	width: 44%;
+}
+.category_holder input {
+	margin-left: 20px;
+	width: 50%
+}
+.category_holder {
+	height: 35px;
+	margin-left: 7px;
+}
+.dropdown-content.cate_con {
+	min-width: 278px;
+}
+.drop_wrapper {
+	width: 130px;
+}
+.drop_wrapper_two {
+	width: 130px;
+}
+.dropdown-content.cate_con a {
+	font-size: 12px;
+}
+.drop_wrapper span img {
+	width: 10px;
+}
+.drop_wrapper span {
+	margin-right: 8px;
+	width: 14px;
+}
+.label_holder img {
+	width: 30%;
+	margin-top: 6px;
+}
+span.bol {
+	font-size: 18px;
+}
+.Starbucks {
+	width: 32%;
+	height: 300px;
+	margin-right: 14px;
+}
+.text_starbucks {
+	width: 48%;
+}
+.text_starbucks h4 {
+	font-size: 15px;
+}
+.last {
+	margin-right: 14px !important;
+}
+.jcarousel-control-prev {
+	display: none;
+}
+.jcarousel-control-next {
+	display: none;
+}
+.events_holder {
+	height: 580px;
+}
+.rating {
+	width: 50%;
+}
+.img_holder {
+	margin-right: 5%;
+	width: 50%;
+	height: 440px;
+}
+span.overlay_img {
+	left: 33%;
+	top: -50px;
+}
+.scrol_wrapper {
+	width: 45%;
+	height: 440px;
+}
+.border {
+	width: 100%;
+}
+.sign_holder {
+	float: right;
+	width: 25%;
+	position: relative;
+}
+.login {
+	margin-top: 11px;
+	padding-top: 11px;
+	font-size: 15px;
+	border: none;
+	text-align: right;
+}
+.sign_up {
+	font-size: 15px;
+	padding-top: 22px;
+	text-align: right;
+}
+.banner_text h2 {
+	font-size: 30px;
+}
+.Starbucks.theird {
+	margin-right: 0;
+}
+span.chat {
+	width: 25%;
+}
+span.heart {
+	width: 34%;
+}
+.footer_content ul li {
+	font-size: 14px;
+}
+.footer_holder {
+	height: 170px;
+}
+.product_list ul li {
+	width: 31%;
+	margin-right: 25px;
+}
+li.maro {
+	margin-right: 0 !important;
+}
+.label_event img {
+	height: 165px;
+}
+span.date {
+	left: 50px;
+}
+.domin_1 {
+	width: 54%;
+}
+.domin {
+	width: 42%;
+	margin-right: 25px;
+}
+.Trending_Deals ul li {
+	margin-right: 19px;
+}
+li.latst.marggin.bthh {
+	margin-right: 16px;
+}
+.domin_1 li {
+	width: 47% !important;
+}
+.neww_offer a {
+	font-size: 16px;
+	right: 13px;
+}
+span.tstd {
+	margin-top: 0px;
+}
+li.leftff {
+	margin-right: 20px !important;
+}
+.maul li {
+	width: 23%;
+	float: left;
+}
+}
+ @media (min-width:640px) and (max-width:767px) {
+.main_wrapper {
+	overflow: hidden;
+}
+.container {
+	width: 99% !important;
+}
+.dropdown_holder {
+	width: 13%;
+}
+.wherein_dubai {
+	width: 18%;
+}
+.wherein_dubai input {
+	width: 64%;
+}
+span.down_arrow.cate_arrow {
+	margin-left: 40px;
+	height: 33px;
+}
+button.dropbtn.category_btn {
+	width: 134px;
+}
+.dropdown.categ {
+	width: 120px;
+}
+.category_holder {
+	width: 40%;
+}
+.category_holder input {
+	margin-left: 10px;
+	width: 43%;
+}
+.logo {
+	width: 15%;
+}
+.category_holder {
+	height: 35px;
+	margin-left: 7px;
+}
+.dropdown-content.cate_con {
+	min-width: 242px;
+}
+.drop_wrapper {
+	width: 117px;
+}
+.drop_wrapper_two {
+	width: 122px;
+}
+.dropdown-content.cate_con a {
+	font-size: 12px;
+}
+.drop_wrapper span img {
+	width: 10px;
+}
+.drop_wrapper span {
+	margin-right: 8px;
+	width: 14px;
+}
+.label_holder img {
+	width: 30%;
+	margin-top: 6px;
+}
+span.bol {
+	font-size: 18px;
+}
+.Starbucks {
+	width: 48%;
+	height: 300px;
+	margin-right: 24px;
+}
+.text_starbucks {
+	width: 48%;
+}
+.text_starbucks h4 {
+	font-size: 15px;
+}
+.last {
+	margin-right: 0px !important;
+}
+.Starbucks.theird.zerro {
+	margin-right: 0;
+}
+.jcarousel-control-prev {
+	display: none;
+}
+.jcarousel-control-next {
+	display: none;
+}
+.events_holder {
+	height: 515px;
+}
+.more_events {
+	margin-top: 0%;
+}
+.rating {
+	width: 50%;
+}
+.img_holder {
+	margin-right: 0%;
+	width: 100%;
+	height: 520px;
+}
+span.overlay_img {
+	left: 33%;
+	top: -50px;
+}
+.scrol_wrapper {
+	width: 100%;
+	height: 440px;
+	margin-top: 20px;
+}
+.border {
+	width: 100%;
+}
+.sign_holder {
+	float: right;
+	width: 30%;
+	position: relative;
+}
+.login {
+	margin-top: 11px;
+	padding-top: 11px;
+	font-size: 15px;
+	border: none;
+	text-align: right;
+}
+.sign_up {
+	font-size: 15px;
+	padding-top: 22px;
+	text-align: right;
+}
+.banner_text h2 {
+	font-size: 28px;
+}
+.Starbucks.theird {
+	margin-right: 24px;
+}
+span.chat {
+	width: 25%;
+}
+span.heart {
+	width: 34%;
+}
+.footer_content ul li {
+	font-size: 12px;
+	padding-right: 22px;
+}
+.social_media ul li {
+	padding-left: 0%;
+}
+.social_media span {
+	margin-right: 0px;
+}
+.footer_holder {
+	height: 170px;
+}
+.logo img {
+	width: 85px;
+	height: 30px;
+	margin-top: 2px;
+}
+.Starbucks.two {
+	margin-right: 0;
+}
+.footer_content li img {
+	width: 85px;
+}
+.product_list ul li {
+	width: 30%;
+	margin-right: 27px;
+}
+li.maro {
+	margin-right: 0 !important;
+}
+.label_event img {
+	height: 150px;
+}
+span.date {
+	left: 27px;
+}
+.domin {
+	width: 100%;
+}
+.domin_1 {
+	width: 100%;
+	float: left;
+	margin-top: 5%;
+}
+.maul li {
+	width: 45% !important;
+}
+.neww_offer a {
+	font-size: 20px;
+	top: 18px;
+	right: 0;
+}
+.domin_holder.mew {
+	top: 20px;
+}
+}
+ @media (min-width:480px) and (max-width:639px) {
+.container {
+	width: 99% !important;
+}
+ul.topnav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #ec0d2c;
+}
+ul.topnav li {
+	float: left;
+}
+ul.topnav li a {
+	display: inline-block;
+	color: #4b4242;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	transition: 0.3s;
+	font-size: 15px;
+	font-weight: bold;
+}
+ul.topnav li a:hover {
+	background-color: #e2e2e2;
+}
+ul.topnav li.icon {
+	display: none;
+}
+ul.topnav li:not(:first-child) {
+	display: none;
+}
+ul.topnav li.icon {
+	float: right;
+	display: inline-block;
+}
+#myTopnav {
+	clear: both;
+	float: left;
+	width: 100%;
+	display: block;
+}
+.page-header_holder {
+	display: none;
+}
+ul.topnav.responsive {
+	position: relative;
+}
+ul.topnav.responsive li.icon {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+ul.topnav.responsive li {
+	display: inline;
+	width: 100%;
+	float: left;
+	background: #e6e6e6;
+	border-bottom: 1px solid rgba(204, 204, 204, 0.78);
+}
+ul.topnav.responsive li a {
+	display: block;
+	text-align: left;
+}
+.logo img {
+	width: 80px;
+	height: 30px;
+}
+.logo {
+	width: 100%;
+	height: 12px;
+	padding: 10px;
+	margin-bottom: 30px;
+	float: left;
+}
+span.icon {
+	float: right;
+}
+span.icon a {
+	text-decoration: none;
+	color: #fff;
+}
+.wherein_dubai {
+	width: 61%;
+	height: 40px;
+	float: left;
+	border-radius: 0px 3px 3px 0px;
+	background: #fff;
+	margin-top: 3px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+.wherein_dubai input {
+	padding: 12px;
+	width: 90%;
+}
+span.location {
+	padding: 10px;
+}
+.dropdown_holder {
+	width: 124px;
+	float: right;
+	background: #fff;
+}
+.dropdown_holder {
+	width: 128px;
+	float: right;
+	background: #fff;
+	height: 40px;
+	border-radius: 3px 3px 3px 3px;
+	margin-top: 3px;
+	margin-right: 3px;
+}
+.dropbtn {
+	color: #adadad;
+	font-weight: bold;
+	padding: 11px 11px 0px 0px;
+	width: 124px;
+	text-transform: uppercase;
+	font-size: 13px;
+	letter-spacing: 1px;
+}
+.dropdown-content {
+	background-color: #344b59;
+	min-width: 103%;
+}
+li.search {
+	background: #ffffff !important;
+	box-shadow: 0px 4px 15px 2px rgba(0, 0, 0, 0.17);
+	margin-bottom: 0px;
+}
+.dropdown-content a:hover {
+	background: transparent !important;
+	box-shadow: none !important;
+}
+.dropdown-content.mobile_drop {
+	background-color: #eee;
+}
+.dropdown-content.mobile_drop a {
+	color: #000;
+}
+.category_holder {
+	width: 100%;
+	height: 45px;
+	border-radius: 0px;
+	background: #dd0825;
+	float: left;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.category_holder input {
+	margin-left: 0px;
+	width: 275px;
+	padding: 0px;
+	border: none;
+}
+button.dropbtn.category_btn {
+	color: #ffffff;
+	padding-top: 10px;
+	width: 135px;
+	text-transform: uppercase;
+	font-size: 13px;
+	font-weight: bold;
+	margin-left: 5px;
+}
+ input::-webkit-input-placeholder {
+ color: #adadad !important;
+ text-transform:uppercase;
+ opacity:1;
+ font-weight:600;
+ font-size:13px;
+}
+input::-moz-placeholder {
+ color: #adadad;
+ text-transform:uppercase;
+ opacity:1;
+ font-weight:600;
+ font-size:13px;
+}
+input:-ms-input-placeholder {
+ color: #adadad !important;
+ text-transform:uppercase;
+ opacity:1;
+ font-weight:600;
+ font-size:13px;
+}
+input:-moz-placeholder {
+ color: #adadad;
+ text-transform:uppercase;
+ opacity:1;
+ font-weight:600;
+ font-size:13px;
+}
+ input.sear::-webkit-input-placeholder {
+ color: #fff !important;
+ text-transform:uppercase;
+ font-weight:600;
+ font-size:13px;
+ opacity:1;
+}
+input.sear::-moz-placeholder {
+ color: #fff !important;
+ text-transform:uppercase;
+ font-weight:600;
+ font-size:13px;
+ opacity:1;
+}
+input.sear:-ms-input-placeholder {
+ color: #fff !important;
+ text-transform:uppercase;
+ font-weight:600;
+ font-size:13px;
+ opacity:1;
+}
+input.sear:-moz-placeholder {
+ color: #fff !important;
+ text-transform:uppercase;
+ font-weight:600;
+ font-size:13px;
+ opacity:1;
+}
+span.search.icon {
+	float: right;
+	margin-right: 10px;
+	margin-top: 13px;
+}
+.dropdown-content.cate_con {
+	background: #fff;
+	min-width: 287px;
+	padding-top: 13px;
+}
+.drop_wrapper_two span img {
+	width: 10px;
+}
+.image_holder {
+	width: 100%;
+	height: 125px;
+}
+.hide_section {
+	display: block;
+}
+.sign_holder {
+	float: left;
+	width: 100%;
+}
+.sign_up {
+	width: 100%;
+	height: 45px;
+	text-align: center;
+	float: left;
+	font-size: 16px;
+	color: #ffffff;
+	font-weight: bold;
+	padding: 10px;
+	background: #607D8B;
+}
+.login {
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 0px;
+	height: 45px;
+	padding: 10px;
+	font-size: 16px;
+	border-radius: 0;
+	border: none;
+	font-weight: 600;
+	color: #fff;
+	background: #465055;
+}
+.banner_section {
+	height: 155px;
+	background-size: cover;
+}
+.banner_text h2 {
+	display: block;
+	font-size: 21px;
+	text-align: center;
+}
+.banner_text {
+	width: 100%;
+	text-align: left;
+	margin-top: 2%;
+}
+span.ios img {
+	width: 100px;
+	margin-left: 3%;
+	float: right;
+}
+span.android {
+	width: 46%;
+	float: left;
+}
+span.android img {
+	width: 100px;
+}
+.banner_text h5 {
+	font-size: 14px;
+	font-weight: bold;
+	margin-top: 0%;
+	margin-bottom: 10px;
+	text-align: center;
+	width: 100%;
+}
+span.down_arrow.cate_arrow {
+	margin-left: 32px;
+	height: 29px;
+}
+.dropdown-content.cate_con a {
+	font-size: 12px;
+}
+img.menu_icon {
+	width: 30px !important;
+	height: 20px !important;
+}
+span.ios {
+	width: 50%;
+	margin-right: 15px;
+	float: left;
+}
+span.bol {
+	font-size: 18px;
+}
+.Starbucks {
+	width: 47%;
+	height: 267px;
+	margin-right: 26px;
+}
+.text_starbucks {
+	width: 42%;
+}
+.text_starbucks h4 {
+	font-size: 12px;
+}
+.last {
+	margin-right: 0px !important;
+}
+.Starbucks.theird.zerro {
+	margin-right: 0;
+}
+.jcarousel-control-prev {
+	display: none;
+}
+.jcarousel-control-next {
+	display: none;
+}
+.events_holder {
+	height: 515px;
+}
+.more_events {
+	margin-top: 0%;
+}
+.rating {
+	width: 50%;
+}
+.img_holder {
+	margin-right: 0%;
+	width: 100%;
+	height: 520px;
+}
+span.overlay_img {
+	left: 33%;
+	top: -50px;
+}
+.scrol_wrapper {
+	width: 100%;
+	height: 440px;
+	margin-top: 20px;
+}
+.border {
+	width: 100%;
+}
+.sign_holder {
+	float: left;
+	width: 100%;
+	position: relative;
+}
+.login {
+	margin-top: 11px;
+	padding-top: 11px;
+	font-size: 16px;
+	border: none;
+	text-align: center;
+	background: #22333b;
+}
+.sign_up {
+	font-size: 16px;
+	padding-top: 10px;
+	text-align: center;
+	height: 50px;
+	background: #38abbd;
+}
+.banner_text h2 {
+	font-size: 21px;
+}
+.Starbucks.theird {
+	margin-right: 24px;
+}
+span.chat {
+	width: 27%;
+	font-size: 12px;
+	font-weight: 500;
+}
+span.heart {
+	width: 30%;
+	font-size: 12px;
+	font-weight: 500;
+}
+.footer_content ul li {
+	font-size: 12px;
+	padding-right: 13px;
+}
+.social_media ul li {
+	padding-left: 0%;
+}
+.social_media span {
+	margin-right: 0px;
+}
+.footer_holder {
+	height: 135px;
+}
+.logo img {
+	width: 85px;
+	height: 30px;
+	margin-top: 2px;
+}
+.Starbucks.two {
+	margin-right: 0;
+}
+.border li img {
+	display: none;
+}
+.text_starbucks h6 {
+	font-size: 10px;
+}
+.label_holder img {
+	width: 30%;
+	margin-top: 6px;
+}
+span.bol {
+	font-size: 16px;
+}
+span.review {
+	font-size: 12px;
+}
+span.view {
+	font-size: 12px;
+	font-weight: 500;
+}
+.drop_wrapper {
+	width: 135px;
+}
+.drop_wrapper_two {
+	width: 135px;
+}
+.drop_wrapper span img {
+	width: 10px;
+}
+.drop_wrapper span {
+	margin-right: 0px;
+	width: 20px;
+}
+.drop_wrapper_two span {
+	margin-right: 0px;
+	width: 24px;
+	float: left;
+}
+.product_list ul li {
+	width: 47%;
+	margin-right: 27px;
+	margin-bottom: 10%;
+}
+.label_event img {
+	height: 150px;
+}
+span.date {
+	left: 50px;
+}
+li.two {
+	margin-right: 0 !important;
+}
+.domin {
+	width: 100%;
+}
+.domin_1 {
+	width: 100%;
+	float: left;
+	margin-top: 5%;
+}
+.maul li {
+	width: 45% !important;
+}
+.neww_offer a {
+	font-size: 20px;
+	top: 18px;
+	right: 0;
+}
+.domin_holder.mew {
+	top: 20px;
+}
+.domin_1 li {
+	width: 100% !important;
+}
+.ne_imgholder {
+	width: 89%;
+}
+.maul li {
+	width: 100% !important;
+}
+.img_hover {
+	width: 87% !important;
+}
+}
+ @media (min-width:414px) and (max-width:479px) {
+.container {
+	width: 99% !important;
+}
+ul.topnav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #ec0d2c;
+}
+ul.topnav li {
+	float: left;
+}
+ul.topnav li a {
+	display: inline-block;
+	color: #4b4242;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	transition: 0.3s;
+	font-size: 15px;
+	font-weight: bold;
+}
+ul.topnav li a:hover {
+	background-color: #e2e2e2;
+}
+ul.topnav li.icon {
+	display: none;
+}
+ul.topnav li:not(:first-child) {
+	display: none;
+}
+ul.topnav li.icon {
+	float: right;
+	display: inline-block;
+}
+#myTopnav {
+	clear: both;
+	float: left;
+	width: 100%;
+	display: block;
+}
+.page-header_holder {
+	display: none;
+}
+ul.topnav.responsive {
+	position: relative;
+}
+ul.topnav.responsive li.icon {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+ul.topnav.responsive li {
+	display: inline;
+	width: 100%;
+	float: left;
+	background: #e6e6e6;
+	border-bottom: 1px solid rgba(204, 204, 204, 0.78);
+}
+ul.topnav.responsive li a {
+	display: block;
+	text-align: left;
+}
+.logo img {
+	width: 80px;
+	height: 30px;
+}
+.logo {
+	width: 100%;
+	height: 12px;
+	padding: 10px;
+	margin-bottom: 30px;
+	float: left;
+}
+span.icon {
+	float: right;
+}
+span.icon a {
+	text-decoration: none;
+	color: #fff;
+}
+.wherein_dubai {
+	width: 61%;
+	height: 40px;
+	float: left;
+	border-radius: 0px 3px 3px 0px;
+	background: #fff;
+	margin-top: 3px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+.wherein_dubai input {
+	padding: 12px;
+	width: 90%;
+}
+span.location {
+	padding: 10px;
+}
+.dropdown_holder {
+	width: 124px;
+	float: right;
+	background: #fff;
+}
+.dropdown_holder {
+	width: 128px;
+	float: right;
+	background: #fff;
+	height: 40px;
+	border-radius: 3px 3px 3px 3px;
+	margin-top: 3px;
+	margin-right: 3px;
+}
+.dropbtn {
+	color: #adadad;
+	font-weight: bold;
+	padding: 11px 11px 0px 0px;
+	width: 124px;
+	text-transform: uppercase;
+	font-size: 13px;
+	letter-spacing: 1px;
+}
+.dropdown-content {
+	background-color: #344b59;
+	min-width: 103%;
+}
+li.search {
+	background: #ffffff !important;
+	box-shadow: 0px 4px 15px 2px rgba(0, 0, 0, 0.17);
+	margin-bottom: 0px;
+}
+.dropdown-content a:hover {
+	background: transparent !important;
+	box-shadow: none !important;
+}
+.dropdown-content.mobile_drop {
+	background-color: #eee;
+}
+.dropdown-content.mobile_drop a {
+	color: #000;
+}
+.category_holder {
+	width: 100%;
+	height: 45px;
+	border-radius: 0px;
+	background: #dd0825;
+	float: left;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.category_holder input {
+	margin-left: 0px;
+	width: 220px;
+	padding: 0px;
+	border: none;
+}
+button.dropbtn.category_btn {
+	color: #ffffff;
+	padding-top: 10px;
+	width: 138px;
+	text-transform: uppercase;
+	font-size: 13px;
+	font-weight: bold;
+	margin-left: 5px;
+}
+ input::-webkit-input-placeholder {
+ color: #adadad !important;
+ text-transform:uppercase;
+ opacity:1;
+ font-weight:600;
+ font-size:13px;
+}
+input::-moz-placeholder {
+ color: #adadad;
+ text-transform:uppercase;
+ opacity:1;
+ font-weight:600;
+ font-size:13px;
+}
+input:-ms-input-placeholder {
+ color: #adadad !important;
+ text-transform:uppercase;
+ opacity:1;
+ font-weight:600;
+ font-size:13px;
+}
+input:-moz-placeholder {
+ color: #adadad;
+ text-transform:uppercase;
+ opacity:1;
+ font-weight:600;
+ font-size:13px;
+}
+ input.sear::-webkit-input-placeholder {
+ color: #fff !important;
+ text-transform:uppercase;
+ font-weight:600;
+ font-size:13px;
+ opacity:1;
+}
+input.sear::-moz-placeholder {
+ color: #fff !important;
+ text-transform:uppercase;
+ font-weight:600;
+ font-size:13px;
+ opacity:1;
+}
+input.sear:-ms-input-placeholder {
+ color: #fff !important;
+ text-transform:uppercase;
+ font-weight:600;
+ font-size:13px;
+ opacity:1;
+}
+input.sear:-moz-placeholder {
+ color: #fff !important;
+ text-transform:uppercase;
+ font-weight:600;
+ font-size:13px;
+ opacity:1;
+}
+span.search.icon {
+	float: right;
+	margin-right: 10px;
+	margin-top: 13px;
+}
+.dropdown-content.cate_con {
+	background: #fff;
+	min-width: 287px;
+	padding-top: 13px;
+}
+.drop_wrapper_two span img {
+	width: 10px;
+}
+.image_holder {
+	width: 100%;
+	height: 150px;
+}
+.hide_section {
+	display: block;
+}
+.sign_holder {
+	float: left;
+	width: 100%;
+}
+.sign_up {
+	width: 100%;
+	height: 45px;
+	text-align: center;
+	float: left;
+	font-size: 16px;
+	color: #ffffff;
+	font-weight: bold;
+	padding: 10px;
+	background: #607D8B;
+}
+.login {
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 0px;
+	height: 45px;
+	padding: 10px;
+	font-size: 16px;
+	border-radius: 0;
+	border: none;
+	font-weight: 600;
+	color: #fff;
+	background: #465055;
+}
+.banner_section {
+	height: 155px;
+	background-size: cover;
+}
+.banner_text h2 {
+	display: block;
+	font-size: 21px;
+	text-align: center;
+}
+.banner_text {
+	width: 100%;
+	text-align: left;
+	margin-top: 2%;
+}
+span.ios img {
+	width: 100px;
+	margin-left: 3%;
+	float: right;
+}
+span.android {
+	width: 46%;
+	float: left;
+}
+span.android img {
+	width: 100px;
+}
+.banner_text h5 {
+	font-size: 13px;
+	font-weight: bold;
+	margin-top: 0%;
+	margin-bottom: 10px;
+	text-align: center;
+	width: 100%;
+}
+span.down_arrow.cate_arrow {
+	margin-left: 32px;
+	height: 29px;
+}
+.dropdown-content.cate_con a {
+	font-size: 12px;
+}
+img.menu_icon {
+	width: 30px !important;
+	height: 20px !important;
+}
+span.ios {
+	width: 50%;
+	margin-right: 15px;
+	float: left;
+}
+span.bol {
+	font-size: 18px;
+}
+.Starbucks {
+	width: 100%;
+	height: 305px;
+	margin-right: 0px;
+}
+.text_starbucks {
+	width: 67%;
+}
+.text_starbucks h4 {
+	font-size: 18px;
+}
+.last {
+	margin-right: 0px !important;
+}
+.Starbucks.theird.zerro {
+	margin-right: 0;
+}
+.jcarousel-control-prev {
+	display: none;
+}
+.jcarousel-control-next {
+	display: none;
+}
+.events_holder {
+	height: 515px;
+}
+.more_events {
+	margin-top: 0%;
+}
+.rating {
+	width: 50%;
+}
+.img_holder {
+	margin-right: 0%;
+	width: 100%;
+	height: 445px;
+}
+span.overlay_img {
+	left: 33%;
+	top: -50px;
+}
+.scrol_wrapper {
+	width: 100%;
+	height: 440px;
+	margin-top: 20px;
+}
+.border {
+	width: 100%;
+}
+.sign_holder {
+	float: left;
+	width: 100%;
+	position: relative;
+}
+.login {
+	margin-top: 11px;
+	padding-top: 11px;
+	font-size: 16px;
+	border: none;
+	text-align: center;
+	background: #22333b;
+}
+.sign_up {
+	font-size: 16px;
+	padding-top: 10px;
+	text-align: center;
+	height: 50px;
+	background: #38abbd;
+}
+.banner_text h2 {
+	font-size: 18px;
+}
+.Starbucks.theird {
+	margin-right: 24px;
+}
+span.chat {
+	width: 27%;
+	font-size: 12px;
+	font-weight: 500;
+}
+span.heart {
+	width: 30%;
+	font-size: 12px;
+	font-weight: 500;
+}
+.footer_content ul li {
+	font-size: 11px;
+	padding-right: 4px;
+}
+.social_media ul li {
+	padding-left: 0%;
+}
+.social_media span {
+	margin-right: 0px;
+}
+.footer_holder {
+	height: 120px;
+}
+.logo img {
+	width: 85px;
+	height: 30px;
+	margin-top: 2px;
+}
+.Starbucks.two {
+	margin-right: 0;
+}
+.border li img {
+	display: none;
+}
+.text_starbucks h6 {
+	font-size: 14px;
+}
+.label_holder img {
+	width: 28%;
+	margin-top: 3px;
+}
+span.bol {
+	font-size: 22px;
+	margin-right: 17px;
+}
+span.review {
+	font-size: 14px;
+	margin-left: 15px;
+}
+.image-card {
+	width: 100%;
+	float: left;
+}
+.evients-holder h3 {
+	font-size: 25px;
+}
+span.view {
+	font-size: 12px;
+	font-weight: 500;
+}
+.drop_wrapper {
+	width: 135px;
+}
+.drop_wrapper_two {
+	width: 135px;
+}
+.drop_wrapper span img {
+	width: 10px;
+}
+.drop_wrapper span {
+	margin-right: 0px;
+	width: 20px;
+}
+.drop_wrapper_two span {
+	margin-right: 0px;
+	width: 24px;
+	float: left;
+}
+.product_list ul li {
+	width: 46%;
+	margin-right: 30px;
+	margin-bottom: 10%;
+}
+.label_event img {
+	height: 150px;
+}
+span.date {
+	left: 25px;
+}
+li.two {
+	margin-right: 0 !important;
+}
+.domin {
+	width: 100%;
+}
+.domin_1 {
+	width: 100%;
+	float: left;
+	margin-top: 5%;
+}
+.maul li {
+	width: 45% !important;
+}
+.neww_offer a {
+	font-size: 20px;
+	top: 18px;
+	right: 0;
+}
+.domin_holder.mew {
+	top: 20px;
+}
+.domin_1 li {
+	width: 100% !important;
+}
+.ne_imgholder {
+	width: 89%;
+}
+.maul li {
+	width: 100% !important;
+}
+.img_hover {
+	width: 87% !important;
+}
+.label_event {
+	width: 318px;
+}
+.jcarousel-wrapper li {
+	width: 375px !important;
+}
+.label_event img {
+	height: 177px !important;
+	width: 323px !important;
+}
+}
+ @media (min-width:375px) and (max-width:413px) {
+.container {
+	width: 99% !important;
+}
+ul.topnav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #ec0d2c;
+}
+ul.topnav li {
+	float: left;
+}
+ul.topnav li a {
+	display: inline-block;
+	color: #4b4242;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	transition: 0.3s;
+	font-size: 15px;
+	font-weight: bold;
+}
+ul.topnav li a:hover {
+	background-color: #e2e2e2;
+}
+ul.topnav li.icon {
+	display: none;
+}
+ul.topnav li:not(:first-child) {
+	display: none;
+}
+ul.topnav li.icon {
+	float: right;
+	display: inline-block;
+}
+#myTopnav {
+	clear: both;
+	float: left;
+	width: 100%;
+	display: block;
+}
+.page-header_holder {
+	display: none;
+}
+ul.topnav.responsive {
+	position: relative;
+}
+ul.topnav.responsive li.icon {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+ul.topnav.responsive li {
+	display: inline;
+	width: 100%;
+	float: left;
+	background: #e6e6e6;
+	border-bottom: 1px solid rgba(204, 204, 204, 0.78);
+}
+ul.topnav.responsive li a {
+	display: block;
+	text-align: left;
+}
+.logo img {
+	width: 80px;
+	height: 30px;
+}
+.logo {
+	width: 100%;
+	height: 12px;
+	padding: 10px;
+	margin-bottom: 30px;
+	float: left;
+}
+span.icon {
+	float: right;
+}
+span.icon a {
+	text-decoration: none;
+	color: #fff;
+}
+.wherein_dubai {
+	width: 61%;
+	height: 40px;
+	float: left;
+	border-radius: 0px 3px 3px 0px;
+	background: #fff;
+	margin-top: 3px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+.wherein_dubai input {
+	padding: 12px;
+	width: 90%;
+}
+span.location {
+	padding: 10px;
+}
+.dropdown_holder {
+	width: 124px;
+	float: right;
+	background: #fff;
+}
+.dropdown_holder {
+	width: 128px;
+	float: right;
+	background: #fff;
+	height: 40px;
+	border-radius: 3px 3px 3px 3px;
+	margin-top: 3px;
+	margin-right: 3px;
+}
+.dropbtn {
+	color: #adadad;
+	font-weight: bold;
+	padding: 11px 11px 0px 0px;
+	width: 124px;
+	text-transform: uppercase;
+	font-size: 13px;
+	letter-spacing: 1px;
+}
+.dropdown-content {
+	background-color: #344b59;
+	min-width: 103%;
+}
+li.search {
+	background: #ffffff !important;
+	box-shadow: 0px 4px 15px 2px rgba(0, 0, 0, 0.17);
+	margin-bottom: 0px;
+}
+.dropdown-content a:hover {
+	background: transparent !important;
+	box-shadow: none !important;
+}
+.dropdown-content.mobile_drop {
+	background-color: #eee;
+}
+.dropdown-content.mobile_drop a {
+	color: #000;
+}
+.category_holder {
+	width: 100%;
+	height: 45px;
+	border-radius: 0px;
+	background: #dd0825;
+	float: left;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.category_holder input {
+	margin-left: 0px;
+	width: 175px;
+	padding: 0px;
+	border: none;
+}
+button.dropbtn.category_btn {
+	color: #ffffff;
+	padding-top: 10px;
+	width: 138px;
+	text-transform: uppercase;
+	font-size: 13px;
+	font-weight: bold;
+	margin-left: 5px;
+}
+ input::-webkit-input-placeholder {
+ color: #adadad !important;
+ text-transform:uppercase;
+ opacity:1;
+ font-weight:600;
+ font-size:13px;
+}
+input::-moz-placeholder {
+ color: #adadad;
+ text-transform:uppercase;
+ opacity:1;
+ font-weight:600;
+ font-size:13px;
+}
+input:-ms-input-placeholder {
+ color: #adadad !important;
+ text-transform:uppercase;
+ opacity:1;
+ font-weight:600;
+ font-size:13px;
+}
+input:-moz-placeholder {
+ color: #adadad;
+ text-transform:uppercase;
+ opacity:1;
+ font-weight:600;
+ font-size:13px;
+}
+ input.sear::-webkit-input-placeholder {
+ color: #fff !important;
+ text-transform:uppercase;
+ font-weight:600;
+ font-size:13px;
+ opacity:1;
+}
+input.sear::-moz-placeholder {
+ color: #fff !important;
+ text-transform:uppercase;
+ font-weight:600;
+ font-size:13px;
+ opacity:1;
+}
+input.sear:-ms-input-placeholder {
+ color: #fff !important;
+ text-transform:uppercase;
+ font-weight:600;
+ font-size:13px;
+ opacity:1;
+}
+input.sear:-moz-placeholder {
+ color: #fff !important;
+ text-transform:uppercase;
+ font-weight:600;
+ font-size:13px;
+ opacity:1;
+}
+span.search.icon {
+	float: right;
+	margin-right: 10px;
+	margin-top: 13px;
+}
+.dropdown-content.cate_con {
+	background: #fff;
+	min-width: 287px;
+	padding-top: 13px;
+}
+.drop_wrapper_two span img {
+	width: 10px;
+}
+.image_holder {
+	width: 100%;
+	height: 150px;
+}
+.hide_section {
+	display: block;
+}
+.sign_holder {
+	float: left;
+	width: 100%;
+}
+.sign_up {
+	width: 100%;
+	height: 45px;
+	text-align: center;
+	float: left;
+	font-size: 16px;
+	color: #ffffff;
+	font-weight: bold;
+	padding: 10px;
+	background: #607D8B;
+}
+.login {
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 0px;
+	height: 45px;
+	padding: 10px;
+	font-size: 16px;
+	border-radius: 0;
+	border: none;
+	font-weight: 600;
+	color: #fff;
+	background: #465055;
+}
+.banner_section {
+	height: 155px;
+	background-size: cover;
+}
+.banner_text h2 {
+	display: block;
+	font-size: 21px;
+	text-align: center;
+}
+.banner_text {
+	width: 100%;
+	text-align: left;
+	margin-top: 2%;
+}
+span.ios img {
+	width: 100px;
+	margin-left: 3%;
+	float: right;
+}
+span.android {
+	width: 46%;
+	float: left;
+}
+span.android img {
+	width: 100px;
+}
+.banner_text h5 {
+	font-size: 13px;
+	font-weight: bold;
+	margin-top: 12%;
+	margin-bottom: 10px;
+	text-align: center;
+	width: 100%;
+}
+span.down_arrow.cate_arrow {
+	margin-left: 32px;
+	height: 29px;
+}
+.dropdown-content.cate_con a {
+	font-size: 12px;
+}
+img.menu_icon {
+	width: 30px !important;
+	height: 20px !important;
+}
+span.ios {
+	width: 46%;
+	margin-right: 15px;
+	float: left;
+}
+span.bol {
+	font-size: 18px;
+}
+.Starbucks {
+	width: 100%;
+	height: 305px;
+	margin-right: 0px;
+}
+.text_starbucks {
+	width: 63%;
+}
+.text_starbucks h4 {
+	font-size: 18px;
+}
+.last {
+	margin-right: 0px !important;
+}
+.Starbucks.theird.zerro {
+	margin-right: 0;
+}
+.jcarousel-control-prev {
+	display: none;
+}
+.jcarousel-control-next {
+	display: none;
+}
+.events_holder {
+	height: 515px;
+}
+.more_events {
+	margin-top: 0%;
+}
+.rating {
+	width: 50%;
+}
+.img_holder {
+	margin-right: 0%;
+	width: 100%;
+	height: 385px;
+}
+span.overlay_img {
+	left: 33%;
+	top: -50px;
+}
+.scrol_wrapper {
+	width: 100%;
+	height: 440px;
+	margin-top: 20px;
+}
+.border {
+	width: 100%;
+}
+.sign_holder {
+	float: left;
+	width: 100%;
+	position: relative;
+}
+.login {
+	margin-top: 11px;
+	padding-top: 11px;
+	font-size: 16px;
+	border: none;
+	text-align: center;
+	background: #22333b;
+}
+.sign_up {
+	font-size: 16px;
+	padding-top: 10px;
+	text-align: center;
+	height: 50px;
+	background: #38abbd;
+}
+.banner_text h2 {
+	display: none;
+}
+.Starbucks.theird {
+	margin-right: 24px;
+}
+span.chat {
+	width: 27%;
+	font-size: 12px;
+	font-weight: 500;
+}
+span.heart {
+	width: 30%;
+	font-size: 12px;
+	font-weight: 500;
+}
+.footer_content ul li {
+	font-size: 11px;
+	padding-right: 4px;
+}
+.social_media ul li {
+	padding-left: 0%;
+}
+.social_media span {
+	margin-right: 0px;
+}
+.footer_holder {
+	height: auto;
+}
+.logo img {
+	width: 85px;
+	height: 30px;
+	margin-top: 2px;
+}
+.Starbucks.two {
+	margin-right: 0;
+}
+.border li img {
+	display: none;
+}
+.text_starbucks h6 {
+	font-size: 14px;
+}
+.label_holder img {
+	width: 28%;
+	margin-top: 3px;
+}
+span.bol {
+	font-size: 22px;
+	margin-right: 17px;
+}
+span.review {
+	font-size: 14px;
+	margin-left: 15px;
+}
+.image-card {
+	width: 100%;
+	float: left;
+}
+.evients-holder h3 {
+	font-size: 25px;
+}
+span.view {
+	font-size: 12px;
+	font-weight: 500;
+}
+.drop_wrapper {
+	width: 135px;
+}
+.drop_wrapper_two {
+	width: 135px;
+}
+.drop_wrapper span img {
+	width: 10px;
+}
+.drop_wrapper span {
+	margin-right: 0px;
+	width: 20px;
+}
+.drop_wrapper_two span {
+	margin-right: 0px;
+	width: 24px;
+	float: left;
+}
+span.star_imgholder img {
+	left: 14%;
+}
+.product_list ul li {
+	width: 48%;
+	margin-right: 12px;
+	margin-bottom: 10%;
+}
+.label_event img {
+	height: 150px;
+}
+span.date {
+	left: 18px;
+}
+li.two {
+	margin-right: 0 !important;
+}
+.domin {
+	width: 100%;
+}
+.domin_1 {
+	width: 100%;
+	float: left;
+	margin-top: 5%;
+}
+.maul li {
+	width: 45% !important;
+}
+.neww_offer a {
+	font-size: 20px;
+	top: 18px;
+	right: 0;
+}
+.domin_holder.mew {
+	top: 20px;
+}
+.domin_1 li {
+	width: 100% !important;
+}
+.ne_imgholder {
+	width: 89%;
+}
+.maul li {
+	width: 100% !important;
+}
+.img_hover {
+	width: 87% !important;
+}
+.img_hover {
+	width: 87% !important;
+}
+.label_event {
+	width: 318px;
+}
+.jcarousel-wrapper li {
+	width: 324px !important;
+}
+.label_event img {
+	height: 177px !important;
+	width: 347px !important;
+}
+}
+ @media (min-width:360px) and (max-width:374px) {
+.container {
+	width: 99% !important;
+}
+ul.topnav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #ec0d2c;
+}
+ul.topnav li {
+	float: left;
+}
+ul.topnav li a {
+	display: inline-block;
+	color: #4b4242;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	transition: 0.3s;
+	font-size: 15px;
+	font-weight: bold;
+}
+ul.topnav li a:hover {
+	background-color: #e2e2e2;
+}
+ul.topnav li.icon {
+	display: none;
+}
+ul.topnav li:not(:first-child) {
+	display: none;
+}
+ul.topnav li.icon {
+	float: right;
+	display: inline-block;
+}
+#myTopnav {
+	clear: both;
+	float: left;
+	width: 100%;
+	display: block;
+}
+.page-header_holder {
+	display: none;
+}
+ul.topnav.responsive {
+	position: relative;
+}
+ul.topnav.responsive li.icon {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+ul.topnav.responsive li {
+	display: inline;
+	width: 100%;
+	float: left;
+	background: #e6e6e6;
+	border-bottom: 1px solid rgba(204, 204, 204, 0.78);
+}
+ul.topnav.responsive li a {
+	display: block;
+	text-align: left;
+}
+.logo img {
+	width: 80px;
+	height: 30px;
+}
+.logo {
+	width: 100%;
+	height: 12px;
+	padding: 10px;
+	margin-bottom: 30px;
+	float: left;
+}
+span.icon {
+	float: right;
+}
+span.icon a {
+	text-decoration: none;
+	color: #fff;
+}
+.wherein_dubai {
+	width: 61%;
+	height: 40px;
+	float: left;
+	border-radius: 0px 3px 3px 0px;
+	background: #fff;
+	margin-top: 3px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+.wherein_dubai input {
+	padding: 12px;
+	width: 90%;
+}
+span.location {
+	padding: 10px;
+}
+.dropdown_holder {
+	width: 124px;
+	float: right;
+	background: #fff;
+}
+.dropdown_holder {
+	width: 128px;
+	float: right;
+	background: #fff;
+	height: 40px;
+	border-radius: 3px 3px 3px 3px;
+	margin-top: 3px;
+	margin-right: 3px;
+}
+.dropbtn {
+	color: #adadad;
+	font-weight: bold;
+	padding: 11px 11px 0px 0px;
+	width: 124px;
+	text-transform: uppercase;
+	font-size: 13px;
+	letter-spacing: 1px;
+}
+.dropdown-content {
+	background-color: #344b59;
+	min-width: 103%;
+}
+li.search {
+	background: #ffffff !important;
+	box-shadow: 0px 4px 15px 2px rgba(0, 0, 0, 0.17);
+	margin-bottom: 0px;
+}
+.dropdown-content a:hover {
+	background: transparent !important;
+	box-shadow: none !important;
+}
+.dropdown-content.mobile_drop {
+	background-color: #eee;
+}
+.dropdown-content.mobile_drop a {
+	color: #000;
+}
+.category_holder {
+	width: 100%;
+	height: 45px;
+	border-radius: 0px;
+	background: #dd0825;
+	float: left;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.category_holder input {
+	margin-left: 0px;
+	width: 165px;
+	padding: 0px;
+	border: none;
+}
+button.dropbtn.category_btn {
+	color: #ffffff;
+	padding-top: 10px;
+	width: 140px;
+	text-transform: uppercase;
+	font-size: 13px;
+	font-weight: bold;
+	margin-left: 5px;
+}
+input::-webkit-input-placeholder {
+ color: #adadad !important;
+ text-transform:uppercase;
+ opacity:1;
+ font-weight:600;
+ font-size:13px;
+}
+input::-moz-placeholder {
+ color: #adadad;
+ text-transform:uppercase;
+ opacity:1;
+ font-weight:600;
+ font-size:13px;
+}
+input:-ms-input-placeholder {
+ color: #adadad !important;
+ text-transform:uppercase;
+ opacity:1;
+ font-weight:600;
+ font-size:13px;
+}
+input:-moz-placeholder {
+ color: #adadad;
+ text-transform:uppercase;
+ opacity:1;
+ font-weight:600;
+ font-size:13px;
+}
+ input.sear::-webkit-input-placeholder {
+ color: #fff !important;
+ text-transform:uppercase;
+ font-weight:600;
+ font-size:13px;
+ opacity:1;
+}
+input.sear::-moz-placeholder {
+ color: #fff !important;
+ text-transform:uppercase;
+ font-weight:600;
+ font-size:13px;
+ opacity:1;
+}
+input.sear:-ms-input-placeholder {
+ color: #fff !important;
+ text-transform:uppercase;
+ font-weight:600;
+ font-size:13px;
+ opacity:1;
+}
+input.sear:-moz-placeholder {
+ color: #fff !important;
+ text-transform:uppercase;
+ font-weight:600;
+ font-size:13px;
+ opacity:1;
+}
+span.search.icon {
+	float: right;
+	margin-right: 10px;
+	margin-top: 13px;
+}
+.dropdown-content.cate_con {
+	background: #fff;
+	min-width: 287px;
+	padding-top: 13px;
+}
+.drop_wrapper_two span img {
+	width: 10px;
+}
+.image_holder {
+	width: 100%;
+	height: 150px;
+}
+.hide_section {
+	display: block;
+}
+.sign_holder {
+	float: left;
+	width: 100%;
+}
+.sign_up {
+	width: 100%;
+	height: 45px;
+	text-align: center;
+	float: left;
+	font-size: 16px;
+	color: #ffffff;
+	font-weight: bold;
+	padding: 10px;
+	background: #607D8B;
+}
+.login {
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 0px;
+	height: 45px;
+	padding: 10px;
+	font-size: 16px;
+	border-radius: 0;
+	border: none;
+	font-weight: 600;
+	color: #fff;
+	background: #465055;
+}
+.banner_section {
+	height: 155px;
+	background-size: cover;
+}
+.banner_text h2 {
+	display: block;
+	font-size: 21px;
+	text-align: center;
+}
+.banner_text {
+	width: 100%;
+	text-align: left;
+	margin-top: 2%;
+}
+span.ios img {
+	width: 100px;
+	margin-left: 3%;
+	float: right;
+}
+span.android {
+	width: 46%;
+	float: left;
+}
+span.android img {
+	width: 100px;
+}
+.banner_text h5 {
+	font-size: 13px;
+	font-weight: bold;
+	margin-top: 12%;
+	margin-bottom: 10px;
+	text-align: center;
+	width: 100%;
+}
+span.down_arrow.cate_arrow {
+	margin-left: 32px;
+	height: 29px;
+}
+.dropdown-content.cate_con a {
+	font-size: 12px;
+}
+img.menu_icon {
+	width: 30px !important;
+	height: 20px !important;
+}
+span.ios {
+	width: 46%;
+	margin-right: 15px;
+	float: left;
+}
+span.bol {
+	font-size: 18px;
+}
+.Starbucks {
+	width: 100%;
+	height: 305px;
+	margin-right: 0px;
+}
+.text_starbucks {
+	width: 61%;
+}
+.text_starbucks h4 {
+	font-size: 18px;
+}
+.last {
+	margin-right: 0px !important;
+}
+.Starbucks.theird.zerro {
+	margin-right: 0;
+}
+.jcarousel-control-prev {
+	display: none;
+}
+.jcarousel-control-next {
+	display: none;
+}
+.events_holder {
+	height: 515px;
+}
+.more_events {
+	margin-top: 0%;
+}
+.rating {
+	width: 50%;
+}
+.img_holder {
+	margin-right: 0%;
+	width: 100%;
+	height: 385px;
+}
+span.overlay_img {
+	left: 33%;
+	top: -50px;
+}
+.scrol_wrapper {
+	width: 100%;
+	height: 440px;
+	margin-top: 20px;
+}
+.border {
+	width: 100%;
+}
+.sign_holder {
+	float: left;
+	width: 100%;
+	position: relative;
+}
+.login {
+	margin-top: 11px;
+	padding-top: 11px;
+	font-size: 16px;
+	border: none;
+	text-align: center;
+	background: #22333b;
+}
+.sign_up {
+	font-size: 16px;
+	padding-top: 10px;
+	text-align: center;
+	height: 50px;
+	background: #38abbd;
+}
+.banner_text h2 {
+	display: none;
+}
+.Starbucks.theird {
+	margin-right: 24px;
+}
+span.chat {
+	width: 27%;
+	font-size: 12px;
+	font-weight: 500;
+}
+span.heart {
+	width: 30%;
+	font-size: 12px;
+	font-weight: 500;
+}
+.footer_content ul li {
+	font-size: 11px;
+	padding-right: 4px;
+}
+.social_media ul li {
+	padding-left: 0%;
+}
+.social_media span {
+	margin-right: 0px;
+}
+.footer_holder {
+	height: auto;
+}
+.logo img {
+	width: 85px;
+	height: 30px;
+	margin-top: 2px;
+}
+.Starbucks.two {
+	margin-right: 0;
+}
+.border li img {
+	display: none;
+}
+.text_starbucks h6 {
+	font-size: 14px;
+}
+.label_holder img {
+	width: 28%;
+	margin-top: 3px;
+}
+span.bol {
+	font-size: 22px;
+	margin-right: 17px;
+}
+span.review {
+	font-size: 14px;
+	margin-left: 15px;
+}
+.image-card {
+	width: 100%;
+	float: left;
+}
+.evients-holder h3 {
+	font-size: 25px;
+}
+span.view {
+	font-size: 12px;
+	font-weight: 500;
+}
+.drop_wrapper {
+	width: 135px;
+}
+.drop_wrapper_two {
+	width: 135px;
+}
+.drop_wrapper span img {
+	width: 10px;
+}
+.drop_wrapper span {
+	margin-right: 0px;
+	width: 20px;
+}
+.drop_wrapper_two span {
+	margin-right: 0px;
+	width: 24px;
+	float: left;
+}
+span.star_imgholder img {
+	left: 14%;
+}
+.product_list ul li {
+	width: 100%;
+	margin-right: 0px;
+	margin-bottom: 10%;
+}
+.label_event img {
+	height: 175px;
+}
+span.date {
+	left: 93px;
+}
+li.two {
+	margin-right: 0 !important;
+}
+.domin {
+	width: 100%;
+}
+.domin_1 {
+	width: 100%;
+	float: left;
+	margin-top: 5%;
+}
+.maul li {
+	width: 45% !important;
+}
+.neww_offer a {
+	font-size: 20px;
+	top: 18px;
+	right: 0;
+}
+.domin_holder.mew {
+	top: 20px;
+}
+.domin_1 li {
+	width: 100% !important;
+}
+.ne_imgholder {
+	width: 89%;
+}
+.maul li {
+	width: 100% !important;
+}
+.img_hover {
+	width: 87% !important;
+}
+.label_event {
+	width: 318px;
+}
+.jcarousel-wrapper li {
+	width: 319px !important;
+}
+.label_event img {
+	height: 177px !important;
+	width: 322px !important;
+}
+}
+ @media (min-width:320px) and (max-width:359px) {
+.container {
+	width: 99% !important;
+}
+ul.topnav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #ec0d2c;
+}
+ul.topnav li {
+	float: left;
+}
+ul.topnav li a {
+	display: inline-block;
+	color: #4b4242;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	transition: 0.3s;
+	font-size: 15px;
+	font-weight: bold;
+}
+ul.topnav li a:hover {
+	background-color: #e2e2e2;
+}
+ul.topnav li.icon {
+	display: none;
+}
+ul.topnav li:not(:first-child) {
+	display: none;
+}
+ul.topnav li.icon {
+	float: right;
+	display: inline-block;
+}
+#myTopnav {
+	clear: both;
+	float: left;
+	width: 100%;
+	display: block;
+}
+.page-header_holder {
+	display: none;
+}
+ul.topnav.responsive {
+	position: relative;
+}
+ul.topnav.responsive li.icon {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+ul.topnav.responsive li {
+	display: inline;
+	width: 100%;
+	float: left;
+	background: #e6e6e6;
+	border-bottom: 1px solid rgba(204, 204, 204, 0.78);
+}
+ul.topnav.responsive li a {
+	display: block;
+	text-align: left;
+}
+.logo img {
+	width: 80px;
+	height: 30px;
+}
+.logo {
+	width: 100%;
+	height: 12px;
+	padding: 10px;
+	margin-bottom: 30px;
+	float: left;
+}
+span.icon {
+	float: right;
+}
+span.icon a {
+	text-decoration: none;
+	color: #fff;
+}
+.wherein_dubai {
+	width: 59%;
+	height: 40px;
+	float: left;
+	border-radius: 0px 3px 3px 0px;
+	background: #fff;
+	margin-top: 3px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
+.wherein_dubai input {
+	padding: 12px;
+	width: 80%;
+}
+span.location {
+	padding: 10px;
+}
+.dropdown_holder {
+	width: 124px;
+	float: right;
+	background: #fff;
+}
+.dropdown_holder {
+	width: 128px;
+	float: right;
+	background: #fff;
+	height: 40px;
+	border-radius: 3px 3px 3px 3px;
+	margin-top: 3px;
+	margin-right: 3px;
+}
+.dropbtn {
+	color: #adadad;
+	font-weight: bold;
+	padding: 11px 11px 0px 0px;
+	width: 124px;
+	text-transform: uppercase;
+	font-size: 13px;
+	letter-spacing: 1px;
+}
+.dropdown-content {
+	background-color: #344b59;
+	min-width: 103%;
+}
+li.search {
+	background: #ffffff !important;
+	box-shadow: 0px 4px 15px 2px rgba(0, 0, 0, 0.17);
+	margin-bottom: 0px;
+}
+.dropdown-content a:hover {
+	background: transparent !important;
+	box-shadow: none !important;
+}
+.dropdown-content.mobile_drop {
+	background-color: #eee;
+}
+.dropdown-content.mobile_drop a {
+	color: #000;
+}
+.category_holder {
+	width: 100%;
+	height: 45px;
+	border-radius: 0px;
+	background: #dd0825;
+	float: left;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.category_holder input {
+	margin-left: 0px;
+	width: 36%;
+	padding: 0px;
+	border: none;
+	margin-top: 12px;
+}
+button.dropbtn.category_btn {
+	color: #ffffff;
+	padding-top: 10px;
+	width: 138px;
+	text-transform: uppercase;
+	font-size: 13px;
+	font-weight: bold;
+	margin-left: 5px;
+}
+ input::-webkit-input-placeholder {
+ color: #adadad !important;
+ text-transform:uppercase;
+ opacity:1;
+ font-weight:600;
+ font-size:13px;
+}
+input::-moz-placeholder {
+ color: #adadad;
+ text-transform:uppercase;
+ opacity:1;
+ font-weight:600;
+ font-size:13px;
+}
+input:-ms-input-placeholder {
+ color: #adadad !important;
+ text-transform:uppercase;
+ opacity:1;
+ font-weight:600;
+ font-size:13px;
+}
+input:-moz-placeholder {
+ color: #adadad;
+ text-transform:uppercase;
+ opacity:1;
+ font-weight:600;
+ font-size:13px;
+}
+ input.sear::-webkit-input-placeholder {
+color: #fff !important;
+text-transform:uppercase;
+font-weight:600;
+font-size:13px;
+opacity:1;
+}
+input.sear::-moz-placeholder {
+color: #fff !important;
+text-transform:uppercase;
+font-weight:600;
+font-size:13px;
+opacity:1;
+}
+input.sear:-ms-input-placeholder {
+color: #fff !important;
+text-transform:uppercase;
+font-weight:600;
+font-size:13px;
+opacity:1;
+}
+input.sear:-moz-placeholder {
+color: #fff !important;
+text-transform:uppercase;
+font-weight:600;
+font-size:13px;
+opacity:1;
+}
+span.search.icon {
+	float: right;
+	margin-right: 10px;
+	margin-top: 13px;
+}
+.dropdown-content.cate_con {
+	background: #fff;
+	min-width: 287px;
+	padding-top: 13px;
+}
+.drop_wrapper_two span img {
+	width: 10px;
+}
+.image_holder {
+	width: 100%;
+	height: 150px;
+}
+.hide_section {
+	display: block;
+}
+.sign_holder {
+	float: left;
+	width: 100%;
+}
+.sign_up {
+	width: 100%;
+	height: 45px;
+	text-align: center;
+	float: left;
+	font-size: 16px;
+	color: #ffffff;
+	font-weight: bold;
+	padding: 10px;
+	background: #607D8B;
+}
+.login {
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 0px;
+	height: 45px;
+	padding: 10px;
+	font-size: 16px;
+	border-radius: 0;
+	border: none;
+	font-weight: 600;
+	color: #fff;
+	background: #465055;
+}
+.banner_section {
+	height: 155px;
+	background-size: cover;
+}
+.banner_text h2 {
+	display: block;
+	font-size: 21px;
+	text-align: center;
+}
+.banner_text {
+	width: 100%;
+	text-align: left;
+	margin-top: 2%;
+}
+span.ios img {
+	width: 100px;
+	margin-left: 3%;
+	float: right;
+}
+span.android {
+	width: 46%;
+	float: left;
+}
+span.android img {
+	width: 100px;
+}
+.banner_text h5 {
+	font-size: 13px;
+	font-weight: bold;
+	margin-top: 12%;
+	margin-bottom: 10px;
+	text-align: center;
+	width: 100%;
+}
+span.down_arrow.cate_arrow {
+	margin-left: 32px;
+	height: 29px;
+}
+.dropdown-content.cate_con a {
+	font-size: 12px;
+}
+img.menu_icon {
+	width: 30px !important;
+	height: 20px !important;
+}
+span.ios {
+	width: 46%;
+	margin-right: 15px;
+	float: left;
+}
+span.bol {
+	font-size: 18px;
+}
+.Starbucks {
+	width: 100%;
+	height: 305px;
+	margin-right: 0px;
+}
+.text_starbucks {
+	width: 57%;
+}
+.text_starbucks h4 {
+	font-size: 18px;
+}
+.last {
+	margin-right: 0px !important;
+}
+.Starbucks.theird.zerro {
+	margin-right: 0;
+}
+.jcarousel-control-prev {
+	display: none;
+}
+.jcarousel-control-next {
+	display: none;
+}
+.events_holder {
+	height: 515px;
+}
+.more_events {
+	margin-top: 0%;
+}
+.rating {
+	width: 50%;
+}
+.img_holder {
+	margin-right: 0%;
+	width: 100%;
+	height: 385px;
+}
+span.overlay_img {
+	left: 33%;
+	top: -50px;
+}
+.scrol_wrapper {
+	width: 100%;
+	height: 440px;
+	margin-top: 20px;
+}
+.border {
+	width: 100%;
+}
+.sign_holder {
+	float: left;
+	width: 100%;
+	position: relative;
+}
+.login {
+	margin-top: 11px;
+	padding-top: 11px;
+	font-size: 16px;
+	border: none;
+	text-align: center;
+	background: #22333b;
+}
+.sign_up {
+	font-size: 16px;
+	padding-top: 10px;
+	text-align: center;
+	height: 50px;
+	background: #38abbd;
+}
+.banner_text h2 {
+	display: none;
+}
+.Starbucks.theird {
+	margin-right: 24px;
+}
+span.chat {
+	width: 27%;
+	font-size: 12px;
+	font-weight: 500;
+}
+span.heart {
+	width: 30%;
+	font-size: 12px;
+	font-weight: 500;
+}
+.footer_content ul li {
+	font-size: 11px;
+	padding-right: 4px;
+}
+.social_media ul li {
+	padding-left: 0%;
+}
+.social_media span {
+	margin-right: 0px;
+}
+.footer_holder {
+	height: auto;
+}
+.logo img {
+	width: 85px;
+	height: 30px;
+	margin-top: 2px;
+}
+.Starbucks.two {
+	margin-right: 0;
+}
+.border li img {
+	display: none;
+}
+.text_starbucks h6 {
+	font-size: 14px;
+}
+.label_holder img {
+	width: 28%;
+	margin-top: 3px;
+}
+span.bol {
+	font-size: 22px;
+	margin-right: 17px;
+}
+span.review {
+	font-size: 14px;
+	margin-left: 15px;
+}
+.image-card {
+	width: 100%;
+	float: left;
+}
+.evients-holder h3 {
+	font-size: 25px;
+}
+span.view {
+	font-size: 12px;
+	font-weight: 500;
+}
+.drop_wrapper {
+	width: 135px;
+}
+.drop_wrapper_two {
+	width: 135px;
+}
+.drop_wrapper span img {
+	width: 10px;
+}
+.drop_wrapper span {
+	margin-right: 0px;
+	width: 20px;
+}
+.drop_wrapper_two span {
+	margin-right: 0px;
+	width: 24px;
+	float: left;
+}
+span.star_imgholder img {
+	left: 14%;
+}
+.product_list ul li {
+	width: 100%;
+	margin-right: 0px;
+	margin-bottom: 10%;
+}
+.label_event img {
+	height: 175px;
+}
+span.date {
+	left: 93px;
+}
+li.two {
+	margin-right: 0 !important;
+}
+.domin {
+	width: 100%;
+}
+.domin_1 {
+	width: 100%;
+	float: left;
+	margin-top: 5%;
+}
+.maul li {
+	width: 45% !important;
+}
+.neww_offer a {
+	font-size: 20px;
+	top: 18px;
+	right: 0;
+}
+.domin_holder.mew {
+	top: 20px;
+}
+.domin_1 li {
+	width: 100% !important;
+}
+.ne_imgholder {
+	width: 89%;
+}
+.maul li {
+	width: 100% !important;
+}
+.img_hover {
+	width: 87% !important;
+}
+.label_event {
+	width: 318px;
+}
+.jcarousel-wrapper li {
+	width: 319px !important;
+}
+.label_event img {
+	height: 177px !important;
+	width: 322px !important;
+}
+}
